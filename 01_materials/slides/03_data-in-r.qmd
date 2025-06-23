@@ -3,7 +3,7 @@ title: "Data Manipulation: Part 1"
 format: html
 ---
 
-In this lesson, we will be learning about data manipulation in R using tools from the `tidyverse`.
+In this lesson, we will be learning about the fundamentals of data in R.
 
 ## Contents
 
