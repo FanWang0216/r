@@ -26,14 +26,16 @@ Each data file format requires its own read-in function:
 | .dta (Stata)        | `read_dta`   | `haven`  |
 | .sas (SAS)          | `read_sas`   | `haven`  |
 
+We will load a (modified) dataset containing observations of the conditions at Toronto's beaches. You can find more information about this dataset here: <https://open.toronto.ca/dataset/toronto-beaches-observations/>
+
 ```{r}
 library(tidyverse)
 
-ads_data <- haven::read_sav("../../05_src/slides_data/ads_raw.sav")
+beaches_data <- read_csv("../../05_src/slides_data/toronto_beaches_observations.csv")
 ```
 
 ```{r}
-glimpse(ads_data)
+glimpse(beaches_data)
 ```
 
 ## 2. Subsetting and organizing data
@@ -51,7 +53,8 @@ Three key functions:
 Filtering allows us to select rows based on specific traits
 
 ```{r}
-filter(ads_data, Duration__in_seconds_ < 100)
+filter(beaches_data, waterTemp > 20)
+filter(beaches_data, rain == "Yes")
 ```
 
 ### Arranging
@@ -59,7 +62,8 @@ filter(ads_data, Duration__in_seconds_ < 100)
 Arranging allows us to sort the order of the table by a certain column
 
 ```{r}
-arrange(ads_data, Duration__in_seconds_)
+arrange(beaches_data, waterTemp)
+arrange(beaches_data, desc(waterTemp))
 ```
 
 ------------------------------------------------------------------------
@@ -69,13 +73,13 @@ arrange(ads_data, Duration__in_seconds_)
 Selecting allows us to pick certain columns
 
 ```{r}
-select(ads_data, RecordedDate)
+select(beaches_data, rain, rainAmount)
 ```
 
 We can also remove columns
 
 ```{r}
-select(ads_data, -Consent, -DistributionChannel)
+select(beaches_data, -X_id)
 ```
 
 ## 3. The pipe operator
@@ -84,39 +88,39 @@ What if we want to do multiple operations on the data in one go?
 
 For example:
 
-1.  Filter `ads_data` for durations less than 100 seconds, THEN
-2.  Sort the data in order of increasing durations, THEN
-3.  Pick out the recorded date (`RecordedDate`) and duration (`Duration__in_seconds`)
+1.  Filter `beaches_data` for duration only rainy days, THEN
+2.  Sort the data in order of increasing air temperature, THEN
+3.  Pick out the recorded date (`dataCollectionDate`) and name of the beach (`beachName`)
 
 ```{r}
 select(
   arrange(
     filter(
-      ads_data, 
-      Duration__in_seconds_ < 100
-    ), Duration__in_seconds_
-  ), RecordedDate, Duration__in_seconds
+      beaches_data, 
+      rain == "Yes"
+    ), airTemp
+  ), dataCollectionDate, beachName
 )
 ```
 
 We can instead use the pipe `|>` which passes an object into the next function as the first argument.
 
 ```{r}
-filter(ads_data, Duration__in_seconds < 100)
+filter(beaches_data, rain == "Yes")
 # is the same as
-ads_data |> filter(Duration__in_seconds < 100)
+beaches_data |> filter(rain == "Yes")
 ```
 
 So that instead of using nested functions, we can write:
 
 ```{r}
-ads_data |>
-  filter(Duration__in_seconds_ < 100) |>
-  arrange(Duration__in_seconds_) |>
-  select(RecordedDate, Duration__in_seconds_)
+beaches_data |>
+  filter(rain == "Yes") |>
+  arrange(airTemp) |>
+  select(dataCollectionDate, beachName)
 ```
 
-## 4. Transforming data
+##  4. Transforming data
 
 -   `mutate()` creates new columns that are functions of existing columns
 
@@ -130,26 +134,23 @@ ads_data |>
 
 It can also modify (if the name is the same as an existing column)
 
-For example, let's say we want to create a new column named `Birthyear_add_day` that takes the column Birthyear and joins it with a provided string ("-07-01").
+For example, let's say we want to create a new column named `airTemp_F` that takes the column `airTemp` and converts it from degrees Celsius to degrees Fahrenheit (which is done by multiplying by 9/5 and then adding 32).
 
 ```{r}
-ads_data <- ads_data |>
-  # Add July 1 as birth day
-  mutate(Birthyear_add_day = str_c(Birthyear, "-07-01")) |> 
-  # Convert date to date-time format
-  mutate(Birthyear_add_day = as_datetime(Birthyear_add_day))
+beaches_data <- beaches_data |>
+  mutate(airTemp_F = airTemp*9/5 + 32) |> 
 
 # View data
-ads_data |>
-  select(EndDate, Birthyear, Birthyear_add_day)
+beaches_data |>
+  select(dataCollection, beachName, airTemp, airTemp_F)
 ```
 
-For example, lets say we want to create a new column named `age` that takes the column `EndDate` and subtracts the column `Birthyear_add_day`
+We can also make new columns as functions of multiple other columns. For example, if we want to find the difference between the `airTemp` and the `waterTemp`, and call it `diffTemp`:
 
 ```{r}
-ads_data %>%
-  mutate(age = EndDate - Birthyear_add_day) %>%
-  select(EndDate, Birthyear, Birthyear_add_day, age) 
+beaches_data |> 
+  mutate(diffTemp = airTemp - waterTemp) |>
+  select(dataCollectionDate, beachName, diffTemp) 
 ```
 
 ### Summarise
@@ -168,14 +169,18 @@ sd(numbers) # Calculate the standard deviation
 We can apply these in a data frame with `summarise()`, which returns the result in a new data frame.
 
 ```{r}
-ads_data |>
+beaches_data |>
   summarise(
-    mean_time = mean(Duration__in_seconds_, na.rm = TRUE),
-    sd_time = sd(Duration__in_seconds_, na.rm = TRUE)
+    mean_airTemp = mean(airTemp, na.rm = TRUE),
+    sd_airTemp = sd(airTemp, na.rm = TRUE)
   )
+```
 
-ads_data |>
-  summarise(num_ads = n())
+Another useful function is `n()`, which counts the number of observations:
+
+```{r}
+beaches_data |>
+  summarise(n_obs = n())
 ```
 
 Note that if there are missing values, we need to include `na.rm = TRUE` to ignore them in the calculation.
@@ -185,13 +190,13 @@ Note that if there are missing values, we need to include `na.rm = TRUE` to igno
 Before summarising, we can group by a categorical variable using `group_by()`. Then `summarise()` will create a new data frame and return one row for each combination of grouping variables;
 
 ```{r}
-ads_data |>
-  group_by(Gender) |> # I want to summarise the data separately for each Gender
+beaches_data |>
+  group_by(beachName) |> # I want to summarise the data separately for each beach
   summarise(
-    # Count of observations within each group, and the mean and sd of duration:
-    num_ads = n(), 
-    mean_time = mean(Duration__in_seconds_, na.rm = TRUE),
-    sd_time = sd(Duration__in_seconds_, na.rm = TRUE)
+    # Count of observations within each group, and the mean and sd of water temperature:
+    n_obs = n(), 
+    mean_waterTemp = mean(waterTemp, na.rm = TRUE),
+    sd_waterTemp = sd(waterTemp, na.rm = TRUE)
   )
 ```
 

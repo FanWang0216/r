@@ -1,0 +1,2591 @@
+X_id,dataCollectionDate,beachName,windSpeed,windDirection,airTemp,rain,rainAmount,waterTemp,waterFowl,waveAction,waterClarity,turbidity
+11478,2024-06-03,Marie Curtis Park East Beach,15,NE,15,Yes,3,16,NA,NONE,clear,1.53
+11479,2024-06-03,Sunnyside Beach,15,NE,15,Yes,3,17,2,NONE,murky,1.8
+11480,2024-06-03,Hanlan's Point Beach,15,NE,15,Yes,3,15,3,NONE,clear,NA
+11481,2024-06-03,Gibraltar Point Beach,15,NE,15,Yes,3,15,NA,NONE,clear,NA
+11482,2024-06-03,Centre Island Beach,15,NE,15,Yes,3,15,6,NONE,clear,NA
+11483,2024-06-03,Ward's Island Beach,15,NE,15,Yes,3,15,2,NONE,clear,NA
+11484,2024-06-03,Cherry Beach,15,NE,15,Yes,3,16,8,NONE,Clear ,NA
+11485,2024-06-03,Woodbine Beaches,15,NE,15,Yes,3,14,4,NONE,Cloudy ,NA
+11486,2024-06-03,Kew Balmy Beach,15,NE,15,Yes,3,14,17,NONE,Clear ,NA
+11487,2024-06-03,Bluffer's Beach Park,15,NE,15,Yes,3,11,36,NONE,Clear,NA
+11558,2023-08-26,Marie Curtis Park East Beach,8,W,15,No,NA,17,11,NONE,clear,1.29
+11559,2023-08-26,Sunnyside Beach,8,W,15,No,NA,16,NA,NONE,clear,1.2
+11560,2023-08-26,Hanlan's Point Beach,8,W,15,No,NA,13,5,NONE,clear,NA
+11561,2023-08-26,Gibraltar Point Beach,8,W,15,No,NA,13,NA,NONE,clear,NA
+11562,2023-08-26,Centre Island Beach,8,W,15,No,NA,13,30,NONE,clear,NA
+11563,2023-08-26,Ward's Island Beach,8,W,15,No,NA,13,NA,NONE,clear,NA
+11564,2023-08-26,Cherry Beach,8,W,15,No,NA,13,10,NONE,clear,NA
+11565,2023-08-26,Woodbine Beaches,8,W,15,No,NA,12,NA,NONE,clear,NA
+11566,2023-08-26,Kew Balmy Beach,8,W,15,No,NA,11,37,NONE,clear,NA
+11567,2023-08-26,Bluffer's Beach Park,8,W,15,No,NA,16,9,NONE,clear,NA
+11608,2024-08-27,Marie Curtis Park East Beach,4,SE,22,No,NA,22,NA,NONE,Cloudy,1.18
+11609,2024-08-27,Sunnyside Beach,4,SE,22,No,NA,22,17,NONE,Clear,1.97
+11610,2024-08-27,Hanlan's Point Beach,4,SE,22,No,NA,22,2,NONE,clear,NA
+11611,2024-08-27,Gibraltar Point Beach,4,SE,22,No,NA,22,NA,NONE,clear,NA
+11612,2024-08-27,Centre Island Beach,4,SE,22,No,NA,22,2,NONE,clear,NA
+11613,2024-08-27,Ward's Island Beach,4,SE,22,No,NA,22,NA,NONE,clear,NA
+11614,2024-08-27,Cherry Beach,6,S,23,No,NA,23,4,NONE,murky,NA
+11615,2024-08-27,Woodbine Beaches,6,S,23,No,NA,20,3,NONE,clear,NA
+11616,2024-08-27,Kew Balmy Beach,6,S,23,No,NA,20,4,NONE,clear,NA
+11617,2024-08-27,Bluffer's Beach Park,6,S,23,No,NA,22,3,NONE,clear,NA
+11668,2025-05-15,Marie Curtis Park East Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11669,2025-05-15,Sunnyside Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11670,2025-05-15,Hanlan's Point Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11671,2025-05-15,Gibraltar Point Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11672,2025-05-15,Centre Island Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11673,2025-05-15,Ward's Island Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11674,2025-05-15,Cherry Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11675,2025-05-15,Woodbine Beaches,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11676,2025-05-15,Kew Balmy Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11677,2025-05-15,Bluffer's Beach Park,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11688,2023-07-19,Marie Curtis Park East Beach,5,NW,19,No,NA,21,NA,NONE,Cloudy,NA
+11689,2023-07-19,Sunnyside Beach,5,NW,19,No,NA,20,NA,HIGH,Clear,NA
+11690,2023-07-19,Hanlan's Point Beach,5,NW,19,No,NA,19,10,NONE,Clear,NA
+11691,2023-07-19,Gibraltar Point Beach,5,NW,19,No,NA,19,NA,NONE,Clear,NA
+11692,2023-07-19,Centre Island Beach,5,NW,19,No,NA,19,NA,NONE,Clear,NA
+11693,2023-07-19,Ward's Island Beach,5,NW,19,No,NA,20,NA,NONE,Clear,NA
+11694,2023-07-19,Cherry Beach,5,NW,19,No,NA,20,NA,NONE,Clear,NA
+11695,2023-07-19,Woodbine Beaches,5,NW,19,No,NA,19,3,NONE,Clear,NA
+11696,2023-07-19,Kew Balmy Beach,5,NW,19,No,NA,19,69,NONE,Clear,NA
+11697,2023-07-19,Bluffer's Beach Park,5,NW,19,No,NA,19,3,NONE,Clear,NA
+11708,2024-05-30,Marie Curtis Park East Beach,17,NW,11,No,NA,13,NA,NONE,clear,0.61
+11709,2024-05-30,Sunnyside Beach,17,NW,11,No,NA,15,NA,NONE,cloudy,1.7
+11710,2024-05-30,Hanlan's Point Beach,17,NW,11,No,NA,12,NA,NONE,clear,NA
+11711,2024-05-30,Gibraltar Point Beach,17,NW,11,No,NA,14,NA,LOW,clear,NA
+11712,2024-05-30,Centre Island Beach,17,NW,11,No,NA,14,3,NONE,cloudy,NA
+11713,2024-05-30,Ward's Island Beach,17,NW,11,No,NA,14,1,NONE,clear,NA
+11714,2024-05-30,Cherry Beach,17,NW,11,No,NA,15,1,NONE,cloudy,NA
+11715,2024-05-30,Woodbine Beaches,17,NW,11,No,NA,13,NA,NONE,clear,NA
+11716,2024-05-30,Kew Balmy Beach,17,NW,11,No,NA,13,NA,NONE,clear,NA
+11717,2024-05-30,Bluffer's Beach Park,17,NW,11,No,NA,11,9,NONE,clear,NA
+11718,2023-07-24,Marie Curtis Park East Beach,9,E,20,Yes,0,19,NA,NONE,clear,2.16
+11719,2023-07-24,Sunnyside Beach,9,E,20,Yes,0,20,NA,NONE,clear,1.03
+11720,2023-07-24,Hanlan's Point Beach,9,E,20,Yes,0,21,24,NONE,clear,NA
+11721,2023-07-24,Gibraltar Point Beach,9,E,20,Yes,0,21,6,NONE,clear,NA
+11722,2023-07-24,Centre Island Beach,9,E,20,Yes,0,21,31,NONE,clear,NA
+11723,2023-07-24,Ward's Island Beach,9,E,20,Yes,0,22,6,NONE,clear,NA
+11724,2023-07-24,Cherry Beach,9,E,20,Yes,0,22,4,NONE,clear,NA
+11725,2023-07-24,Woodbine Beaches,9,E,20,Yes,0,20,14,NONE,clear,NA
+11726,2023-07-24,Kew Balmy Beach,9,E,20,Yes,0,19,56,NONE,clear,NA
+11727,2023-07-24,Bluffer's Beach Park,9,E,20,Yes,0,21,5,NONE,clear,NA
+11728,2023-07-26,Marie Curtis Park East Beach,13,SW,22,Yes,4,20,NA,LOW,Very Cloudy,11.6
+11729,2023-07-26,Sunnyside Beach,13,SW,22,Yes,4,20,6,NONE,Cloudy,2.23
+11730,2023-07-26,Hanlan's Point Beach,13,SW,22,Yes,4,21,NA,NONE,Clear,NA
+11731,2023-07-26,Gibraltar Point Beach,13,SW,22,Yes,4,21,NA,LOW,Clear,NA
+11732,2023-07-26,Centre Island Beach,13,SW,22,Yes,4,21,NA,NONE,Clear,NA
+11733,2023-07-26,Ward's Island Beach,13,SW,22,Yes,4,22,NA,LOW,Clear,NA
+11734,2023-07-26,Cherry Beach,13,SW,22,Yes,4,23,NA,NONE,Clear,NA
+11735,2023-07-26,Woodbine Beaches,13,SW,22,Yes,4,20,10,LOW,Clear,NA
+11736,2023-07-26,Kew Balmy Beach,13,SW,22,Yes,4,20,37,NONE,Clear,NA
+11737,2023-07-26,Bluffer's Beach Park,13,SW,22,Yes,4,21,NA,LOW,Murky,NA
+11738,2023-08-10,Marie Curtis Park East Beach,11,SW,20,No,NA,21,13,NONE,slightly murky,1.65
+11739,2023-08-10,Sunnyside Beach,11,SW,20,No,NA,21,NA,LOW,clear,0.9
+11740,2023-08-10,Hanlan's Point Beach,11,SW,20,No,NA,20,4,MOD,clear,NA
+11741,2023-08-10,Gibraltar Point Beach,11,SW,20,No,NA,20,NA,MOD,clear,NA
+11742,2023-08-10,Centre Island Beach,11,SW,20,No,NA,20,11,LOW,clear,NA
+11743,2023-08-10,Ward's Island Beach,11,SW,20,No,NA,20,NA,LOW,clear,NA
+11744,2023-08-10,Cherry Beach,11,SW,20,No,NA,21,7,NONE,clear,NA
+11745,2023-08-10,Woodbine Beaches,11,SW,20,No,NA,18,9,MOD,"clear, cloudy",NA
+11746,2023-08-10,Kew Balmy Beach,11,SW,20,No,NA,18,2,HIGH,cloudy,NA
+11747,2023-08-10,Bluffer's Beach Park,11,SW,20,No,NA,20,7,LOW,clear,NA
+11778,2024-05-31,Marie Curtis Park East Beach,9,W,11,No,NA,13,NA,NONE,murky,1.3
+11779,2024-05-31,Sunnyside Beach,9,W,11,No,NA,14,NA,NONE,Murky,0.67
+11780,2024-05-31,Hanlan's Point Beach,9,W,11,No,NA,14,2,NONE,clear,NA
+11781,2024-05-31,Gibraltar Point Beach,9,W,11,No,NA,14,NA,NONE,clear,NA
+11782,2024-05-31,Centre Island Beach,9,W,11,No,NA,15,NA,NONE,clear,NA
+11783,2024-05-31,Ward's Island Beach,9,W,11,No,NA,15,NA,NONE,cloudy,NA
+11784,2024-05-31,Cherry Beach,9,W,11,No,NA,16,NA,NONE,clear,NA
+11785,2024-05-31,Woodbine Beaches,9,W,11,No,NA,12,1,NONE,clear,NA
+11786,2024-05-31,Kew Balmy Beach,9,W,11,No,NA,11,3,NONE,clear,NA
+11787,2024-05-31,Bluffer's Beach Park,9,W,11,No,NA,9,17,NONE,clear,NA
+11788,2024-06-15,Marie Curtis Park East Beach,11,N,15,No,NA,10,NA,NONE,Clear,0.42
+11789,2024-06-15,Sunnyside Beach,11,N,15,No,NA,12,3,NONE,Clear,0.97
+11790,2024-06-15,Hanlan's Point Beach,11,N,15,No,NA,12,1,NONE,Clear,NA
+11791,2024-06-15,Gibraltar Point Beach,11,N,15,No,NA,12,NA,LOW,clear,NA
+11792,2024-06-15,Centre Island Beach,11,N,15,No,NA,12,1,NONE,Clear,NA
+11793,2024-06-15,Ward's Island Beach,11,N,15,No,NA,12,NA,NONE,Clear,NA
+11794,2024-06-15,Cherry Beach,11,N,15,No,NA,14,2,NONE,Clear,NA
+11795,2024-06-15,Woodbine Beaches,11,N,15,No,NA,9,21,NONE,Clear,NA
+11796,2024-06-15,Kew Balmy Beach,11,N,15,No,NA,10,47,NONE,Clear,NA
+11797,2024-06-15,Bluffer's Beach Park,11,N,15,No,NA,9,10,NONE,Murky,NA
+11798,2024-06-16,Marie Curtis Park East Beach,17,NE,15,No,NA,13,NA,NONE,Algae,0.8
+11799,2024-06-16,Sunnyside Beach,17,NE,15,No,NA,13,NA,NONE,Algae,0.36
+11800,2024-06-16,Hanlan's Point Beach,17,NE,15,No,NA,11,2,NONE,Clear,NA
+11801,2024-06-16,Gibraltar Point Beach,17,NE,15,No,NA,11,NA,NONE,Clear,NA
+11802,2024-06-16,Centre Island Beach,17,NE,15,No,NA,14,4,NONE,Clear,NA
+11803,2024-06-16,Ward's Island Beach,17,NE,15,No,NA,15,31,NONE,Clear,NA
+11804,2024-06-16,Cherry Beach,4,SE,15,No,NA,15,NA,NONE,Clear,NA
+11805,2024-06-16,Woodbine Beaches,4,SE,15,No,NA,10,21,MOD,Cloudy,NA
+11806,2024-06-16,Kew Balmy Beach,4,SE,15,No,NA,10,1,MOD,Cloudy,NA
+11807,2024-06-16,Bluffer's Beach Park,4,SE,15,No,NA,10,30,NONE,Cloudy,NA
+11808,2024-06-17,Marie Curtis Park East Beach,15,NE,16,No,NA,12,NA,LOW,Murky,4.34
+11809,2024-06-17,Sunnyside Beach,15,NE,16,No,NA,13,32,NONE,Clear with pollen,0.62
+11810,2024-06-17,Hanlan's Point Beach,15,NE,16,No,NA,13,NA,NONE,Clear,NA
+11811,2024-06-17,Gibraltar Point Beach,15,NE,16,No,NA,13,NA,NONE,Cloudy,NA
+11812,2024-06-17,Centre Island Beach,15,NE,16,No,NA,13,16,NONE,Clear,NA
+11813,2024-06-17,Ward's Island Beach,15,NE,16,No,NA,12,4,NONE,Clear,NA
+11814,2024-06-17,Cherry Beach,15,NE,16,No,NA,12,13,NONE,Clear,NA
+11815,2024-06-17,Woodbine Beaches,15,NE,16,No,NA,12,NA,LOW,Cloudy,NA
+11816,2024-06-17,Kew Balmy Beach,15,NE,16,No,NA,12,NA,LOW,Cloudy,NA
+11817,2024-06-17,Bluffer's Beach Park,15,NE,16,No,NA,13,8,LOW,Murky,NA
+11858,2024-08-31,Marie Curtis Park East Beach,5,SW,22,Yes,4,22,NA,NONE,Murky,3.53
+11859,2024-08-31,Sunnyside Beach,5,SW,22,Yes,4,22,7,NONE,Clear,0.71
+11860,2024-08-31,Hanlan's Point Beach,5,SW,22,Yes,4,22,16,NONE,Clear,NA
+11861,2024-08-31,Gibraltar Point Beach,5,SW,22,Yes,4,21,8,NONE,Cloudy,NA
+11862,2024-08-31,Centre Island Beach,5,SW,22,Yes,4,22,24,NONE,Clear,NA
+11863,2024-08-31,Ward's Island Beach,5,SW,22,Yes,4,23,NA,NONE,Clear,NA
+11864,2024-08-31,Cherry Beach,7,SW,21,No,4,22,7,NONE,Clear,NA
+11865,2024-08-31,Woodbine Beaches,7,SW,21,No,4,19,NA,NONE,Cloudy,NA
+11866,2024-08-31,Kew Balmy Beach,7,SW,21,No,4,19,NA,NONE,Cloudy,NA
+11867,2024-08-31,Bluffer's Beach Park,7,SW,21,No,4,23,11,LOW,Cloudy,NA
+11918,2024-05-15,Marie Curtis Park East Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11919,2024-05-15,Sunnyside Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11920,2024-05-15,Hanlan's Point Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11921,2024-05-15,Gibraltar Point Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11922,2024-05-15,Centre Island Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11923,2024-05-15,Ward's Island Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11924,2024-05-15,Cherry Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11925,2024-05-15,Woodbine Beaches,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11926,2024-05-15,Kew Balmy Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11927,2024-05-15,Bluffer's Beach Park,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+11928,2024-07-12,Marie Curtis Park East Beach,8,NW,20,Yes,1,21,NA,NONE,murky,1.99
+11929,2024-07-12,Sunnyside Beach,8,NW,20,Yes,1,21,7,NONE,murky,0.98
+11930,2024-07-12,Hanlan's Point Beach,8,NW,20,Yes,1,22,NA,NONE,clear,NA
+11931,2024-07-12,Gibraltar Point Beach,8,NW,20,Yes,1,21,12,NONE,clear,NA
+11932,2024-07-12,Centre Island Beach,8,NW,20,Yes,1,21,23,NONE,clear,NA
+11933,2024-07-12,Ward's Island Beach,8,NW,20,Yes,1,22,NA,NONE,clear,NA
+11934,2024-07-12,Cherry Beach,8,NW,20,Yes,3,23,9,NONE,clear,NA
+11935,2024-07-12,Woodbine Beaches,8,NW,20,Yes,3,20,13,NONE,Clear ,NA
+11936,2024-07-12,Kew Balmy Beach,8,NW,20,Yes,3,20,7,NONE,Clear,NA
+11937,2024-07-12,Bluffer's Beach Park,8,NW,20,Yes,3,19,NA,NONE,Clear ,NA
+12018,2024-09-08,Marie Curtis Park East Beach,21,SW,9,No,NA,NA,NA,None,None,NA
+12019,2024-09-08,Sunnyside Beach,21,SW,9,No,NA,12,NA,NONE,clear,0.64
+12020,2024-09-08,Hanlan's Point Beach,21,SW,9,No,NA,NA,NA,None,None,NA
+12021,2024-09-08,Gibraltar Point Beach,21,SW,9,No,NA,NA,NA,None,None,NA
+12022,2024-09-08,Centre Island Beach,21,SW,9,No,NA,NA,NA,None,None,NA
+12023,2024-09-08,Ward's Island Beach,21,SW,9,No,NA,NA,NA,None,None,NA
+12024,2024-09-08,Cherry Beach,21,SW,9,No,NA,19,12,NONE,clear,NA
+12025,2024-09-08,Woodbine Beaches,21,SW,9,No,NA,14,NA,NONE,clear,NA
+12026,2024-09-08,Kew Balmy Beach,21,SW,9,No,NA,14,NA,NONE,clear,NA
+12027,2024-09-08,Bluffer's Beach Park,21,SW,9,No,NA,NA,NA,None,None,NA
+12028,2025-06-03,Marie Curtis Park East Beach,20,S,14,No,NA,10,5,NONE,Clear*,0.86
+12029,2025-06-03,Sunnyside Beach,20,S,14,No,NA,11,25,NONE,Clear,1.25
+12030,2025-06-03,Hanlan's Point Beach,20,S,14,No,NA,10,3,NONE,Clear,NA
+12031,2025-06-03,Gibraltar Point Beach,20,S,14,No,NA,10,13,NONE,Clear,NA
+12032,2025-06-03,Centre Island Beach,20,S,14,No,NA,11,23,NONE,Cloudy,NA
+12033,2025-06-03,Ward's Island Beach,20,S,14,No,NA,11,NA,NONE,Murky,NA
+12034,2025-06-03,Cherry Beach,20,S,14,No,NA,12,NA,NONE,Murky,NA
+12035,2025-06-03,Woodbine Beaches,20,S,14,No,NA,12,10,NONE,Clear,NA
+12036,2025-06-03,Kew Balmy Beach,20,S,14,No,NA,11,72,NONE,Clear,NA
+12037,2025-06-03,Bluffer's Beach Park,20,S,14,No,NA,10,52,NONE,Clear,NA
+12048,2023-08-04,Marie Curtis Park East Beach,8,W,19,Yes,5,19,NA,LOW,murky,3.57
+12049,2023-08-04,Sunnyside Beach,8,W,19,Yes,5,20,27,NONE,clear,2.16
+12050,2023-08-04,Hanlan's Point Beach,8,W,19,Yes,5,20,NA,NONE,clear,NA
+12051,2023-08-04,Gibraltar Point Beach,8,W,19,Yes,5,19,NA,MOD,murky,NA
+12052,2023-08-04,Centre Island Beach,8,W,19,Yes,5,21,6,MOD,clear,NA
+12053,2023-08-04,Ward's Island Beach,8,W,19,Yes,5,21,5,LOW,cloudy,NA
+12054,2023-08-04,Cherry Beach,8,W,19,Yes,5,22,NA,NONE,murky,NA
+12055,2023-08-04,Woodbine Beaches,8,W,19,Yes,5,18,NA,NONE,cloudy,NA
+12056,2023-08-04,Kew Balmy Beach,8,W,19,Yes,5,19,64,MOD,cloudy,NA
+12057,2023-08-04,Bluffer's Beach Park,8,W,19,Yes,5,15,17,NONE,clear,NA
+12058,2024-06-04,Marie Curtis Park East Beach,17,NE,18,Yes,0,18,NA,NONE,Cloudy,NA
+12059,2024-06-04,Sunnyside Beach,17,NE,18,Yes,0,18,25,NONE,Clear,NA
+12060,2024-06-04,Hanlan's Point Beach,17,NE,18,Yes,0,16,1,NONE,Clear,NA
+12061,2024-06-04,Gibraltar Point Beach,17,NE,18,Yes,0,16,30,LOW,Clear,NA
+12062,2024-06-04,Centre Island Beach,17,NE,18,Yes,0,17,29,NONE,Clear,NA
+12063,2024-06-04,Ward's Island Beach,17,NE,18,Yes,0,16,NA,NONE,Clear,NA
+12064,2024-06-04,Cherry Beach,17,NE,18,Yes,0,17,11,NONE,Clear,NA
+12065,2024-06-04,Woodbine Beaches,17,NE,18,Yes,0,15,2,NONE,Cloudy,NA
+12066,2024-06-04,Kew Balmy Beach,17,NE,18,Yes,0,16,37,NONE,Cloudy,NA
+12067,2024-06-04,Bluffer's Beach Park,17,NE,18,Yes,0,14,4,NONE,Clear,NA
+12068,2024-07-06,Marie Curtis Park East Beach,8,SW,20,Yes,1,18,7,NONE,Debris,0.8
+12069,2024-07-06,Sunnyside Beach,8,SW,20,Yes,1,20,31,NONE,Debris,1.03
+12070,2024-07-06,Hanlan's Point Beach,8,SW,20,Yes,1,20,4,NONE,Clear,NA
+12071,2024-07-06,Gibraltar Point Beach,8,SW,20,Yes,1,20,NA,NONE,Clear,NA
+12072,2024-07-06,Centre Island Beach,8,SW,20,Yes,1,21,21,NONE,Clear,NA
+12073,2024-07-06,Ward's Island Beach,8,SW,20,Yes,1,21,4,NONE,Clear,NA
+12074,2024-07-06,Cherry Beach,8,SW,20,Yes,1,22,NA,NONE,Clear,NA
+12075,2024-07-06,Woodbine Beaches,8,SW,20,Yes,1,18,NA,NONE,clear,NA
+12076,2024-07-06,Kew Balmy Beach,8,SW,20,Yes,1,17,5,NONE,cloudy,NA
+12077,2024-07-06,Bluffer's Beach Park,8,SW,20,Yes,1,16,2,NONE,clear,NA
+12078,2024-07-07,Marie Curtis Park East Beach,9,NW,20,No,NA,19,NA,NONE,clear,0.61
+12079,2024-07-07,Sunnyside Beach,9,NW,20,No,NA,20,27,NONE,clear,0.88
+12080,2024-07-07,Hanlan's Point Beach,9,NW,20,No,NA,20,16,NONE,clear,NA
+12081,2024-07-07,Gibraltar Point Beach,9,NW,20,No,NA,19,2,NONE,clear,NA
+12082,2024-07-07,Centre Island Beach,9,NW,20,No,NA,20,NA,NONE,"clear, algae",NA
+12083,2024-07-07,Ward's Island Beach,9,NW,20,No,NA,20,NA,NONE,cloudy,NA
+12084,2024-07-07,Cherry Beach,9,NW,20,No,NA,22,2,NONE,"clear, algae",NA
+12085,2024-07-07,Woodbine Beaches,9,NW,20,No,NA,18,2,NONE,Clear,NA
+12086,2024-07-07,Kew Balmy Beach,9,NW,20,No,NA,17,8,NONE,Cloudy,NA
+12087,2024-07-07,Bluffer's Beach Park,9,NW,20,No,NA,18,NA,NONE,Clear,NA
+12088,2024-07-08,Marie Curtis Park East Beach,9,W,19,No,NA,19,NA,NONE,Clear,NA
+12089,2024-07-08,Sunnyside Beach,9,W,19,No,NA,21,6,NONE,Clear,NA
+12090,2024-07-08,Hanlan's Point Beach,9,W,19,No,NA,20,NA,NONE,Clear,NA
+12091,2024-07-08,Gibraltar Point Beach,9,W,19,No,NA,21,NA,NONE,Clear,NA
+12092,2024-07-08,Centre Island Beach,9,W,19,No,NA,21,62,NONE,Clear,NA
+12093,2024-07-08,Ward's Island Beach,9,W,19,No,NA,22,NA,NONE,Clear,NA
+12094,2024-07-08,Cherry Beach,7,W,20,No,NA,23,4,NONE,Clear,NA
+12095,2024-07-08,Woodbine Beaches,7,W,20,No,NA,20,12,NONE,Cloudy,NA
+12096,2024-07-08,Kew Balmy Beach,7,W,20,No,NA,20,38,NONE,Cloudy,NA
+12097,2024-07-08,Bluffer's Beach Park,7,W,20,No,NA,17,2,NONE,Clear,NA
+12098,2024-07-24,Marie Curtis Park East Beach,4,SE,22,No,NA,23,NA,LOW,Murky ,2.52
+12099,2024-07-24,Sunnyside Beach,4,SE,22,No,NA,23,29,NONE,"Clear, Debris",1.44
+12100,2024-07-24,Hanlan's Point Beach,4,SE,22,No,NA,23,NA,LOW,Clear,NA
+12101,2024-07-24,Gibraltar Point Beach,4,SE,22,No,NA,23,NA,LOW,Clear,NA
+12102,2024-07-24,Centre Island Beach,4,SE,22,No,NA,23,NA,NONE,Debris,NA
+12103,2024-07-24,Ward's Island Beach,4,SE,22,No,NA,23,7,LOW,Algae ,NA
+12104,2024-07-24,Cherry Beach,4,SE,22,Yes,NA,23,7,LOW,Clear ,NA
+12105,2024-07-24,Woodbine Beaches,4,SE,22,Yes,NA,20,39,NONE,Cloudy,NA
+12106,2024-07-24,Kew Balmy Beach,4,SE,22,Yes,NA,20,42,NONE,Cloudy ,NA
+12107,2024-07-24,Bluffer's Beach Park,4,SE,22,Yes,NA,22,NA,NONE,Clear ,NA
+12108,2023-09-02,Marie Curtis Park East Beach,17,W,17,No,NA,20,2,NONE,Cloudy,1.84
+12109,2023-09-02,Sunnyside Beach,17,W,17,No,NA,20,5,NONE,Clear,0.81
+12110,2023-09-02,Hanlan's Point Beach,17,W,17,No,NA,19,3,LOW,clear,NA
+12111,2023-09-02,Gibraltar Point Beach,17,W,17,No,NA,19,NA,LOW,clear,NA
+12112,2023-09-02,Centre Island Beach,17,W,17,No,NA,18,10,NONE,clear,NA
+12113,2023-09-02,Ward's Island Beach,17,W,17,No,NA,19,NA,LOW,cloudy,NA
+12114,2023-09-02,Cherry Beach,17,W,17,No,NA,20,2,NONE,clear,NA
+12115,2023-09-02,Woodbine Beaches,17,W,17,No,NA,20,11,LOW,clear,NA
+12116,2023-09-02,Kew Balmy Beach,17,W,17,No,NA,20,53,LOW,clear,NA
+12117,2023-09-02,Bluffer's Beach Park,17,W,17,No,NA,20,8,LOW,Clear,NA
+12118,2023-09-03,Marie Curtis Park East Beach,11,W,18,No,NA,19,1,NONE,murky,1.7
+12119,2023-09-03,Sunnyside Beach,11,W,18,No,NA,20,7,NONE,Cloudy,1.87
+12120,2023-09-03,Hanlan's Point Beach,11,W,18,No,NA,18,NA,LOW,Clear,NA
+12121,2023-09-03,Gibraltar Point Beach,11,W,18,No,NA,18,NA,LOW,Clear,NA
+12122,2023-09-03,Centre Island Beach,11,W,18,No,NA,19,NA,NONE,Clear,NA
+12123,2023-09-03,Ward's Island Beach,11,W,18,No,NA,19,NA,NONE,Clear,NA
+12124,2023-09-03,Cherry Beach,11,W,18,No,NA,20,3,NONE,Clear,NA
+12125,2023-09-03,Woodbine Beaches,11,W,18,No,NA,19,35,NONE,Cloudy,NA
+12126,2023-09-03,Kew Balmy Beach,11,W,18,No,NA,19,2,NONE,Cloudy,NA
+12127,2023-09-03,Bluffer's Beach Park,11,W,18,No,NA,20,22,LOW,Clear,NA
+12128,2023-09-04,Marie Curtis Park East Beach,11,W,19,No,NA,20,NA,NONE,clear,1.3
+12129,2023-09-04,Sunnyside Beach,11,W,19,No,NA,21,NA,NONE,clear,1.1
+12130,2023-09-04,Hanlan's Point Beach,11,W,19,No,NA,19,NA,NONE,clear,NA
+12131,2023-09-04,Gibraltar Point Beach,11,W,19,No,NA,18,NA,NONE,cloudy,NA
+12132,2023-09-04,Centre Island Beach,11,W,19,No,NA,19,NA,NONE,cloudy,NA
+12133,2023-09-04,Ward's Island Beach,11,W,19,No,NA,19,2,NONE,clear,NA
+12134,2023-09-04,Cherry Beach,11,W,19,No,NA,20,1,NONE,clear,NA
+12135,2023-09-04,Woodbine Beaches,11,W,19,No,NA,16,1,NONE,murky,NA
+12136,2023-09-04,Kew Balmy Beach,11,W,19,No,NA,17,117,NONE,clear,NA
+12137,2023-09-04,Bluffer's Beach Park,11,W,19,No,NA,18,7,LOW,clear,NA
+12178,2024-05-23,Marie Curtis Park East Beach,15,W,16,No,NA,14,NA,NONE,clear,2.02
+12179,2024-05-23,Sunnyside Beach,15,W,16,No,NA,18,11,NONE,cloudy,1.97
+12180,2024-05-23,Hanlan's Point Beach,15,W,16,No,NA,15,8,LOW,cloudy,NA
+12181,2024-05-23,Gibraltar Point Beach,15,W,16,No,NA,17,2,LOW,cloudy,NA
+12182,2024-05-23,Centre Island Beach,15,W,16,No,NA,16,6,LOW,clear,NA
+12183,2024-05-23,Ward's Island Beach,15,W,16,No,NA,14,1,LOW,clear,NA
+12184,2024-05-23,Cherry Beach,15,W,16,No,NA,15,2,LOW,clear,NA
+12185,2024-05-23,Woodbine Beaches,15,W,16,No,NA,13,NA,NONE,clear,NA
+12186,2024-05-23,Kew Balmy Beach,15,W,16,No,NA,13,3,LOW,murcky,NA
+12187,2024-05-23,Bluffer's Beach Park,15,W,16,No,NA,14,NA,NONE,clear,NA
+12238,2024-06-08,Marie Curtis Park East Beach,18,W,13,Yes,4,10,NA,NONE,clear,0.88
+12239,2024-06-08,Sunnyside Beach,18,W,13,Yes,4,11,22,NONE,clear,0.56
+12240,2024-06-08,Hanlan's Point Beach,18,W,13,Yes,4,11,NA,MOD,clear,NA
+12241,2024-06-08,Gibraltar Point Beach,18,W,13,Yes,4,10,NA,MOD,clear,NA
+12242,2024-06-08,Centre Island Beach,18,W,13,Yes,4,14,NA,NONE,murky,NA
+12243,2024-06-08,Ward's Island Beach,18,W,13,Yes,4,15,NA,LOW,clear,NA
+12244,2024-06-08,Cherry Beach,18,W,13,Yes,4,16,17,LOW,clear,NA
+12245,2024-06-08,Woodbine Beaches,18,W,13,Yes,4,8,NA,NONE,Clear,NA
+12246,2024-06-08,Kew Balmy Beach,18,W,13,Yes,4,9,NA,NONE,Clear,NA
+12247,2024-06-08,Bluffer's Beach Park,18,W,13,Yes,4,8,5,LOW,Clear,NA
+12248,2024-06-09,Marie Curtis Park East Beach,9,W,11,Yes,4,10,7,NONE,Clear,1.51
+12249,2024-06-09,Sunnyside Beach,9,W,11,Yes,4,10,NA,NONE,Clear,0.38
+12250,2024-06-09,Hanlan's Point Beach,9,W,11,Yes,4,10,NA,LOW,Clear,NA
+12251,2024-06-09,Gibraltar Point Beach,9,W,11,Yes,4,11,3,LOW,Clear,NA
+12252,2024-06-09,Centre Island Beach,9,W,11,Yes,4,12,9,NONE,Clear,NA
+12253,2024-06-09,Ward's Island Beach,9,W,11,Yes,4,15,NA,LOW,Cloudy,NA
+12254,2024-06-09,Cherry Beach,9,W,11,Yes,4,17,12,LOW,Cloudy,NA
+12255,2024-06-09,Woodbine Beaches,9,W,11,Yes,4,9,3,LOW,Clear,NA
+12256,2024-06-09,Kew Balmy Beach,9,W,11,Yes,4,9,21,LOW,Clear,NA
+12257,2024-06-09,Bluffer's Beach Park,9,W,11,Yes,4,8,5,NONE,Clear,NA
+12268,2024-06-26,Marie Curtis Park East Beach,8,SW,19,No,NA,14,NA,NONE,murky,1.49
+12269,2024-06-26,Sunnyside Beach,8,SW,19,No,NA,17,4,NONE,clear,3.37
+12270,2024-06-26,Hanlan's Point Beach,8,SW,19,No,NA,16,NA,NONE,clear,NA
+12271,2024-06-26,Gibraltar Point Beach,8,SW,19,No,NA,18,2,NONE,clear,NA
+12272,2024-06-26,Centre Island Beach,8,SW,19,No,NA,18,NA,NONE,clear,NA
+12273,2024-06-26,Ward's Island Beach,8,SW,19,No,NA,18,NA,NONE,clear,NA
+12274,2024-06-26,Cherry Beach,8,SW,19,No,NA,20,NA,NONE,cloudy,NA
+12275,2024-06-26,Woodbine Beaches,8,SW,19,No,NA,12,6,LOW,clear,NA
+12276,2024-06-26,Kew Balmy Beach,8,SW,19,No,NA,13,71,LOW,clear,NA
+12277,2024-06-26,Bluffer's Beach Park,8,SW,19,No,NA,12,17,NONE,clear,NA
+12378,2025-06-21,Marie Curtis Park East Beach,17,E,16,No,NA,13,3,LOW,Clear,1.04
+12379,2025-06-21,Sunnyside Beach,17,E,16,No,NA,15,22,NONE,Clear,0.59
+12380,2025-06-21,Hanlan's Point Beach,17,E,16,No,NA,14,NA,NONE,Pollen present,NA
+12381,2025-06-21,Gibraltar Point Beach,17,E,16,No,NA,14,NA,NONE,Clear,NA
+12382,2025-06-21,Centre Island Beach,17,E,16,No,NA,16,NA,NONE,Clear,NA
+12383,2025-06-21,Ward's Island Beach,17,E,16,No,NA,16,NA,NONE,Pollen present,NA
+12384,2025-06-21,Cherry Beach,17,E,16,No,NA,18,4,NONE,Pollen present,NA
+12385,2025-06-21,Woodbine Beaches,17,E,16,No,NA,10,17,NONE,Clear,NA
+12386,2025-06-21,Kew Balmy Beach,17,E,16,No,NA,11,183,NONE,Clear,NA
+12387,2025-06-21,Bluffer's Beach Park,17,E,16,No,NA,11,38,NONE,Clear,NA
+12388,2025-06-22,Marie Curtis Park East Beach,15,SW,18,No,NA,14,NA,NONE,Cloudy,1.34
+12389,2025-06-22,Sunnyside Beach,15,SW,18,No,NA,16,7,NONE,Cloudy,1.83
+12390,2025-06-22,Hanlan's Point Beach,15,SW,18,No,NA,14,2,LOW,Clear,NA
+12391,2025-06-22,Gibraltar Point Beach,15,SW,18,No,NA,14,NA,LOW,Clear,NA
+12392,2025-06-22,Centre Island Beach,15,SW,18,No,NA,11,19,LOW,Cloudy,NA
+12393,2025-06-22,Ward's Island Beach,15,SW,18,No,NA,13,3,MOD,Cloudy,NA
+12394,2025-06-22,Cherry Beach,15,SW,18,No,NA,12,6,NONE,Clear,NA
+12395,2025-06-22,Woodbine Beaches,15,SW,18,No,NA,11,14,MOD,Cloudy,NA
+12396,2025-06-22,Kew Balmy Beach,15,SW,18,No,NA,11,41,MOD,Cloudy,NA
+12397,2025-06-22,Bluffer's Beach Park,15,SW,18,No,NA,9,16,NONE,Murky,NA
+12478,2023-08-23,Marie Curtis Park East Beach,5,S,16,No,NA,16,NA,NONE,clear,1.09
+12479,2023-08-23,Sunnyside Beach,5,S,16,No,NA,14,NA,NONE,clear,0.53
+12480,2023-08-23,Hanlan's Point Beach,5,S,16,No,NA,11,NA,NONE,clear,NA
+12481,2023-08-23,Gibraltar Point Beach,5,S,16,No,NA,12,NA,NONE,clear,NA
+12482,2023-08-23,Centre Island Beach,5,S,16,No,NA,14,NA,NONE,clear,NA
+12483,2023-08-23,Ward's Island Beach,5,S,16,No,NA,16,6,NONE,clear,NA
+12484,2023-08-23,Cherry Beach,5,S,16,No,NA,17,7,NONE,cloudy,NA
+12485,2023-08-23,Woodbine Beaches,5,S,16,No,NA,9,8,NONE,clear,NA
+12486,2023-08-23,Kew Balmy Beach,5,S,16,No,NA,9,72,NONE,clear,NA
+12487,2023-08-23,Bluffer's Beach Park,5,S,16,No,NA,12,NA,NONE,clear,NA
+12488,2023-08-27,Marie Curtis Park East Beach,13,N,14,Yes,2,12,1,MOD,Murky,8.8
+12489,2023-08-27,Sunnyside Beach,13,N,14,Yes,2,14,11,LOW,Cloudy,1.23
+12490,2023-08-27,Hanlan's Point Beach,13,N,14,Yes,2,13,5,MOD,Clear,NA
+12491,2023-08-27,Gibraltar Point Beach,13,N,14,Yes,2,14,2,HIGH,Clear,NA
+12492,2023-08-27,Centre Island Beach,13,N,14,Yes,2,14,17,LOW,Clear,NA
+12493,2023-08-27,Ward's Island Beach,13,N,14,Yes,2,14,NA,LOW,Clear,NA
+12494,2023-08-27,Cherry Beach,13,N,14,Yes,2,15,4,NONE,Clear,NA
+12495,2023-08-27,Woodbine Beaches,13,N,14,Yes,2,15,NA,MOD,Cloudy,NA
+12496,2023-08-27,Kew Balmy Beach,13,N,14,Yes,2,14,10,MOD,Cloudy,NA
+12497,2023-08-27,Bluffer's Beach Park,13,N,14,Yes,2,18,21,MOD,Cloudy,NA
+12498,2023-08-28,Marie Curtis Park East Beach,5,E,13,No,NA,17,7,NONE,Clear,1.18
+12499,2023-08-28,Sunnyside Beach,5,E,13,No,NA,18,2,NONE,Clear,0.42
+12500,2023-08-28,Hanlan's Point Beach,5,E,13,No,NA,18,1,NONE,Clear,NA
+12501,2023-08-28,Gibraltar Point Beach,5,E,13,No,NA,18,NA,NONE,Clear,NA
+12502,2023-08-28,Centre Island Beach,5,E,13,No,NA,18,5,NONE,Clear,NA
+12503,2023-08-28,Ward's Island Beach,5,E,13,No,NA,17,NA,NONE,Clear,NA
+12504,2023-08-28,Cherry Beach,5,E,13,No,NA,16,15,NONE,Clear,NA
+12505,2023-08-28,Woodbine Beaches,5,E,13,No,NA,15,8,NONE,Clear,NA
+12506,2023-08-28,Kew Balmy Beach,5,E,13,No,NA,16,53,NONE,Clear,NA
+12507,2023-08-28,Bluffer's Beach Park,5,E,13,No,NA,19,8,NONE,Murky,NA
+12508,2024-06-22,Marie Curtis Park East Beach,5,SE,21,Yes,1,19,NA,NONE,cloudy,2.8
+12509,2024-06-22,Sunnyside Beach,5,SE,21,Yes,1,18,11,NONE,cloudy,1.17
+12510,2024-06-22,Hanlan's Point Beach,5,SE,21,Yes,1,17,NA,NONE,clear,NA
+12511,2024-06-22,Gibraltar Point Beach,5,SE,21,Yes,1,18,22,NONE,clear,NA
+12512,2024-06-22,Centre Island Beach,5,SE,21,Yes,1,18,12,NONE,clear,NA
+12513,2024-06-22,Ward's Island Beach,5,SE,21,Yes,1,17,7,NONE,clear,NA
+12514,2024-06-22,Cherry Beach,5,SE,21,Yes,1,18,7,NONE,clear,NA
+12515,2024-06-22,Woodbine Beaches,5,SE,21,Yes,1,19,3,LOW,cloudy,NA
+12516,2024-06-22,Kew Balmy Beach,5,SE,21,Yes,1,20,59,LOW,cloudy,NA
+12517,2024-06-22,Bluffer's Beach Park,5,SE,21,Yes,1,16,11,LOW,cloudy,NA
+12518,2025-05-23,Marie Curtis Park East Beach,21,NW,8,Yes,25,10,2,LOW,Murky,2.85
+12519,2025-05-23,Sunnyside Beach,21,NW,8,Yes,25,10,3,LOW,Murky,0.78
+12520,2025-05-23,Hanlan's Point Beach,21,NW,8,Yes,25,8,2,MOD,Murky,NA
+12521,2025-05-23,Gibraltar Point Beach,21,NW,8,Yes,25,8,NA,MOD,Murky,NA
+12522,2025-05-23,Centre Island Beach,21,NW,8,Yes,25,8,33,NONE,Cloudy,NA
+12523,2025-05-23,Ward's Island Beach,21,NW,8,Yes,25,9,4,NONE,Murky,NA
+12524,2025-05-23,Cherry Beach,21,NW,8,Yes,25,9,2,NONE,Murky,NA
+12525,2025-05-23,Woodbine Beaches,21,NW,8,Yes,25,10,25,NONE,Cloudy,NA
+12526,2025-05-23,Kew Balmy Beach,21,NW,8,Yes,25,10,4,NONE,Cloudy,NA
+12527,2025-05-23,Bluffer's Beach Park,21,NW,8,Yes,25,10,2,NONE,Cloudy,NA
+12568,2023-07-20,Marie Curtis Park East Beach,13,SE,20,No,NA,21,8,NONE,Clear,NA
+12569,2023-07-20,Sunnyside Beach,13,SE,20,No,NA,21,6,NONE,Clear,NA
+12570,2023-07-20,Hanlan's Point Beach,13,SE,20,No,NA,20,NA,NONE,Clear,NA
+12571,2023-07-20,Gibraltar Point Beach,13,SE,20,No,NA,19,NA,LOW,Clear,NA
+12572,2023-07-20,Centre Island Beach,13,SE,20,No,NA,20,NA,NONE,Clear,NA
+12573,2023-07-20,Ward's Island Beach,13,SE,20,No,NA,21,NA,NONE,Clear,NA
+12574,2023-07-20,Cherry Beach,13,SE,20,No,NA,22,NA,NONE,Clear,NA
+12575,2023-07-20,Woodbine Beaches,13,SE,20,No,NA,20,14,NONE,Cloudy,NA
+12576,2023-07-20,Kew Balmy Beach,13,SE,20,No,NA,20,64,NONE,Clear,NA
+12577,2023-07-20,Bluffer's Beach Park,13,SE,20,No,NA,20,1,LOW,Clear,NA
+12578,2023-07-25,Marie Curtis Park East Beach,4,None,19,Yes,0,20,NA,NONE,cloudy,2.45
+12579,2023-07-25,Sunnyside Beach,4,None,19,Yes,0,21,4,NONE,clear,2.14
+12580,2023-07-25,Hanlan's Point Beach,4,None,19,Yes,0,20,4,NONE,"clear, algae",NA
+12581,2023-07-25,Gibraltar Point Beach,4,None,19,Yes,0,20,NA,NONE,clear,NA
+12582,2023-07-25,Centre Island Beach,4,None,19,Yes,0,20,2,NONE,"clear, algae",NA
+12583,2023-07-25,Ward's Island Beach,4,None,19,Yes,0,22,NA,NONE,clear,NA
+12584,2023-07-25,Cherry Beach,4,S,19,Yes,0,22,5,NONE,clear,NA
+12585,2023-07-25,Woodbine Beaches,4,S,19,Yes,0,20,NA,NONE,clear,NA
+12586,2023-07-25,Kew Balmy Beach,4,S,19,Yes,0,20,42,NONE,clear,NA
+12587,2023-07-25,Bluffer's Beach Park,4,S,19,Yes,0,20,4,NONE,clear,NA
+12588,2025-06-06,Marie Curtis Park East Beach,NA,None,17,Yes,1,12,25,None,Clear,3.74
+12589,2025-06-06,Sunnyside Beach,NA,None,17,Yes,1,15,35,None,Clear,1.52
+12590,2025-06-06,Hanlan's Point Beach,NA,None,17,Yes,1,14,NA,None,Cloudy,NA
+12591,2025-06-06,Gibraltar Point Beach,NA,None,17,Yes,1,13,1,None,Cloudy,NA
+12592,2025-06-06,Centre Island Beach,NA,None,17,Yes,1,14,4,None,Cloudy,NA
+12593,2025-06-06,Ward's Island Beach,NA,None,17,Yes,1,13,1,None,Cloudy,NA
+12594,2025-06-06,Cherry Beach,NA,None,17,Yes,1,14,1,NONE,Clear,NA
+12595,2025-06-06,Woodbine Beaches,NA,None,17,Yes,1,10,17,NONE,Clear,NA
+12596,2025-06-06,Kew Balmy Beach,NA,None,17,Yes,1,10,17,NONE,Clear,NA
+12597,2025-06-06,Bluffer's Beach Park,NA,None,17,Yes,1,12,7,NONE,Clear,NA
+12648,2024-07-05,Marie Curtis Park East Beach,4,SW,21,No,NA,NA,NA,None,None,NA
+12649,2024-07-05,Sunnyside Beach,4,SW,21,No,NA,NA,NA,None,None,NA
+12650,2024-07-05,Hanlan's Point Beach,4,SW,21,No,NA,NA,NA,None,None,NA
+12651,2024-07-05,Gibraltar Point Beach,4,SW,21,No,NA,NA,NA,None,None,NA
+12652,2024-07-05,Centre Island Beach,4,SW,21,No,NA,NA,NA,None,None,NA
+12653,2024-07-05,Ward's Island Beach,4,SW,21,No,NA,NA,NA,None,None,NA
+12654,2024-07-05,Cherry Beach,4,SW,21,No,NA,NA,NA,None,None,NA
+12655,2024-07-05,Woodbine Beaches,4,SW,21,No,NA,17,NA,NONE,clear,NA
+12656,2024-07-05,Kew Balmy Beach,4,SW,21,No,NA,16,55,NONE,cloudy,NA
+12657,2024-07-05,Bluffer's Beach Park,4,SW,21,No,NA,16,2,NONE,clear,NA
+12668,2023-07-07,Marie Curtis Park East Beach,11,NW,21,Yes,0,21,6,NONE,clear,NA
+12669,2023-07-07,Sunnyside Beach,11,NW,21,Yes,0,24,12,NONE,clear,NA
+12670,2023-07-07,Hanlan's Point Beach,11,NW,21,Yes,0,21,2,LOW,clear,NA
+12671,2023-07-07,Gibraltar Point Beach,11,NW,21,Yes,0,21,NA,LOW,clear,NA
+12672,2023-07-07,Centre Island Beach,11,NW,21,Yes,0,21,5,NONE,clear,NA
+12673,2023-07-07,Ward's Island Beach,11,NW,21,Yes,0,21,NA,NONE,clear,NA
+12674,2023-07-07,Cherry Beach,11,NW,21,Yes,0,NA,NA,None,None,NA
+12675,2023-07-07,Woodbine Beaches,11,NW,21,Yes,0,22,3,NONE,clear,NA
+12676,2023-07-07,Kew Balmy Beach,11,NW,21,Yes,0,22,97,NONE,clear,NA
+12677,2023-07-07,Bluffer's Beach Park,11,NW,21,Yes,0,20,1,NONE,clear,NA
+12708,2025-05-28,Marie Curtis Park East Beach,20,SE,17,No,NA,11,10,MOD,Clear,0.97
+12709,2025-05-28,Sunnyside Beach,20,SE,17,No,NA,11,4,LOW,"Murky, Algae growth",1.42
+12710,2025-05-28,Hanlan's Point Beach,20,SE,17,No,NA,11,7,NONE,Clear,NA
+12711,2025-05-28,Gibraltar Point Beach,20,SE,17,No,NA,12,17,LOW,Cloudy,NA
+12712,2025-05-28,Centre Island Beach,20,SE,17,No,NA,13,50,NONE,Clear,NA
+12713,2025-05-28,Ward's Island Beach,20,SE,17,No,NA,11,32,NONE,Cloudy,NA
+12714,2025-05-28,Cherry Beach,20,SE,17,No,NA,11,2,LOW,Cloudy,NA
+12715,2025-05-28,Woodbine Beaches,20,SE,17,No,NA,11,5,LOW,Clear,NA
+12716,2025-05-28,Kew Balmy Beach,20,SE,17,No,NA,11,3,LOW,Cloudy,NA
+12717,2025-05-28,Bluffer's Beach Park,20,SE,17,No,NA,11,5,LOW,Cloudy,NA
+12728,2023-07-15,Marie Curtis Park East Beach,21,E,20,No,NA,20,NA,LOW,Murky,5.79
+12729,2023-07-15,Sunnyside Beach,21,E,20,No,NA,20,14,NONE,Murky,1.6
+12730,2023-07-15,Hanlan's Point Beach,21,E,20,No,NA,17,4,NONE,Clear,NA
+12731,2023-07-15,Gibraltar Point Beach,21,E,20,No,NA,18,NA,LOW,Cloudy,NA
+12732,2023-07-15,Centre Island Beach,21,E,20,No,NA,18,8,NONE,Clear,NA
+12733,2023-07-15,Ward's Island Beach,21,E,20,No,NA,19,NA,NONE,Clear,NA
+12734,2023-07-15,Cherry Beach,21,E,20,No,NA,20,NA,NONE,Clear,NA
+12735,2023-07-15,Woodbine Beaches,21,E,20,No,NA,19,NA,LOW,Cloudy,NA
+12736,2023-07-15,Kew Balmy Beach,21,E,20,No,NA,19,79,NONE,Cloudy,NA
+12737,2023-07-15,Bluffer's Beach Park,21,E,20,No,NA,19,2,LOW,Cloudy,NA
+12758,2024-08-13,Marie Curtis Park East Beach,17,NW,17,Yes,0,NA,NA,NONE,Clear,0.42
+12759,2024-08-13,Sunnyside Beach,17,NW,17,Yes,0,NA,14,NONE,Clear,0.38
+12760,2024-08-13,Hanlan's Point Beach,17,NW,17,Yes,0,NA,6,NONE,Clear,NA
+12761,2024-08-13,Gibraltar Point Beach,17,NW,17,Yes,0,NA,40,NONE,Clear,NA
+12762,2024-08-13,Centre Island Beach,17,NW,17,Yes,0,NA,11,NONE,Clear,NA
+12763,2024-08-13,Ward's Island Beach,17,NW,17,Yes,0,NA,NA,NONE,Clear,NA
+12764,2024-08-13,Cherry Beach,17,NW,17,Yes,0,NA,5,NONE,Clear,NA
+12765,2024-08-13,Woodbine Beaches,17,NW,17,Yes,0,9,2,NONE,Clear,NA
+12766,2024-08-13,Kew Balmy Beach,17,NW,17,Yes,0,11,21,NONE,Cloudy,NA
+12767,2024-08-13,Bluffer's Beach Park,17,NW,17,Yes,0,9,3,NONE,Clear,NA
+12898,2023-08-20,Marie Curtis Park East Beach,4,W,14,No,NA,11,NA,NONE,clear,0.41
+12899,2023-08-20,Sunnyside Beach,4,W,14,No,NA,13,9,NONE,clear,0.61
+12900,2023-08-20,Hanlan's Point Beach,4,W,14,No,NA,16,5,LOW,Clear,NA
+12901,2023-08-20,Gibraltar Point Beach,4,W,14,No,NA,16,NA,LOW,Clear,NA
+12902,2023-08-20,Centre Island Beach,4,W,14,No,NA,16,10,NONE,Clear,NA
+12903,2023-08-20,Ward's Island Beach,4,W,14,No,NA,18,NA,NONE,Clear,NA
+12904,2023-08-20,Cherry Beach,4,W,14,No,NA,18,NA,LOW,Algea,NA
+12905,2023-08-20,Woodbine Beaches,4,W,14,No,NA,14,1,NONE,Clear,NA
+12906,2023-08-20,Kew Balmy Beach,4,W,14,No,NA,13,42,NONE,Clear,NA
+12907,2023-08-20,Bluffer's Beach Park,4,W,14,No,NA,11,4,NONE,clear,NA
+12908,2023-08-21,Marie Curtis Park East Beach,11,NW,22,No,NA,11,NA,NONE,Clear,0.44
+12909,2023-08-21,Sunnyside Beach,11,NW,22,No,NA,11,NA,NONE,Clear,0.5
+12910,2023-08-21,Hanlan's Point Beach,11,NW,22,No,NA,12,NA,NONE,Clear,NA
+12911,2023-08-21,Gibraltar Point Beach,11,NW,22,No,NA,14,NA,NONE,Clear,NA
+12912,2023-08-21,Centre Island Beach,11,NW,22,No,NA,14,12,NONE,Clear,NA
+12913,2023-08-21,Ward's Island Beach,11,NW,22,No,NA,16,NA,NONE,Clear,NA
+12914,2023-08-21,Cherry Beach,11,NW,22,No,NA,18,NA,NONE,Cloudy,NA
+12915,2023-08-21,Woodbine Beaches,11,NW,22,No,NA,9,49,NONE,Clear,NA
+12916,2023-08-21,Kew Balmy Beach,11,NW,22,No,NA,9,17,NONE,Clear,NA
+12917,2023-08-21,Bluffer's Beach Park,11,NW,22,No,NA,11,7,NONE,Clear,NA
+12918,2024-06-13,Marie Curtis Park East Beach,4,E,16,No,NA,12,2,NONE,clear,2.18
+12919,2024-06-13,Sunnyside Beach,4,E,16,No,NA,13,9,NONE,clear,0.46
+12920,2024-06-13,Hanlan's Point Beach,4,E,16,No,NA,12,3,LOW,clear,NA
+12921,2024-06-13,Gibraltar Point Beach,4,E,16,No,NA,13,NA,LOW,clear,NA
+12922,2024-06-13,Centre Island Beach,4,E,16,No,NA,13,5,LOW,clear,NA
+12923,2024-06-13,Ward's Island Beach,4,E,16,No,NA,13,NA,LOW,clear,NA
+12924,2024-06-13,Cherry Beach,4,E,16,No,NA,14,3,NONE,clear,NA
+12925,2024-06-13,Woodbine Beaches,4,E,16,No,NA,11,NA,NONE,clear,NA
+12926,2024-06-13,Kew Balmy Beach,4,E,16,No,NA,11,NA,NONE,clear,NA
+12927,2024-06-13,Bluffer's Beach Park,4,E,16,No,NA,10,NA,LOW,cloudy,NA
+12958,2024-05-21,Marie Curtis Park East Beach,9,SE,18,No,NA,17,NA,NONE,cloudy,2.32
+12959,2024-05-21,Sunnyside Beach,9,SE,18,No,NA,18,NA,NONE,clear,1.9
+12960,2024-05-21,Hanlan's Point Beach,9,SE,18,No,NA,16,NA,NONE,clear,NA
+12961,2024-05-21,Gibraltar Point Beach,9,SE,18,No,NA,16,NA,NONE,clear,NA
+12962,2024-05-21,Centre Island Beach,9,SE,18,No,NA,16,NA,NONE,clear,NA
+12963,2024-05-21,Ward's Island Beach,9,SE,18,No,NA,17,NA,NONE,clear,NA
+12964,2024-05-21,Cherry Beach,9,SE,18,No,NA,18,4,NONE,clear,NA
+12965,2024-05-21,Woodbine Beaches,9,SE,18,No,NA,15,12,NONE,clear,NA
+12966,2024-05-21,Kew Balmy Beach,9,SE,18,No,NA,15,41,NONE,clear,NA
+12967,2024-05-21,Bluffer's Beach Park,9,SE,18,No,NA,15,16,NONE,clear,NA
+12968,2024-08-09,Marie Curtis Park East Beach,15,E,22,No,NA,24,13,NONE,cloudy,2.4
+12969,2024-08-09,Sunnyside Beach,15,E,22,No,NA,23,22,LOW,cloudy,0.63
+12970,2024-08-09,Hanlan's Point Beach,15,E,22,No,NA,21,20,NONE,cloudy,NA
+12971,2024-08-09,Gibraltar Point Beach,15,E,22,No,NA,22,NA,MOD,murky,NA
+12972,2024-08-09,Centre Island Beach,15,E,22,No,NA,23,17,NONE,murky,NA
+12973,2024-08-09,Ward's Island Beach,15,E,22,No,NA,22,8,LOW,murky,NA
+12974,2024-08-09,Cherry Beach,15,E,22,No,NA,23,40,NONE,cloudy,NA
+12975,2024-08-09,Woodbine Beaches,15,E,22,No,NA,21,NA,LOW,murky,NA
+12976,2024-08-09,Kew Balmy Beach,15,E,22,No,NA,20,18,LOW,murky,NA
+12977,2024-08-09,Bluffer's Beach Park,15,E,22,No,NA,21,36,MOD,murky,NA
+12978,2025-06-02,Marie Curtis Park East Beach,20,W,8,No,NA,10,NA,NONE,Clear,0.58
+12979,2025-06-02,Sunnyside Beach,20,W,8,No,NA,9,6,NONE,Clear,0.26
+12980,2025-06-02,Hanlan's Point Beach,20,W,8,No,NA,9,2,LOW,Cloudy,NA
+12981,2025-06-02,Gibraltar Point Beach,20,W,8,No,NA,10,3,NONE,Clear,NA
+12982,2025-06-02,Centre Island Beach,20,W,8,No,NA,10,22,NONE,Clear,NA
+12983,2025-06-02,Ward's Island Beach,20,W,8,No,NA,10,1,NONE,Clear,NA
+12984,2025-06-02,Cherry Beach,20,W,8,No,NA,10,5,NONE,Clear,NA
+12985,2025-06-02,Woodbine Beaches,20,W,8,No,NA,11,5,LOW,Clear,NA
+12986,2025-06-02,Kew Balmy Beach,20,W,8,No,NA,10,26,LOW,Clear,NA
+12987,2025-06-02,Bluffer's Beach Park,20,W,8,No,NA,10,30,NONE,Clear,NA
+13058,2023-08-16,Marie Curtis Park East Beach,15,N,19,Yes,0,20,7,NONE,murky,6.25
+13059,2023-08-16,Sunnyside Beach,15,N,19,Yes,0,20,NA,NONE,clear,0.47
+13060,2023-08-16,Hanlan's Point Beach,15,N,19,Yes,0,19,NA,LOW,clear,NA
+13061,2023-08-16,Gibraltar Point Beach,15,N,19,Yes,0,16,NA,NONE,clear,NA
+13062,2023-08-16,Centre Island Beach,15,N,19,Yes,0,16,NA,NONE,clear,NA
+13063,2023-08-16,Ward's Island Beach,15,N,19,Yes,0,18,NA,NONE,clear,NA
+13064,2023-08-16,Cherry Beach,15,N,19,Yes,0,17,5,NONE,clear,NA
+13065,2023-08-16,Woodbine Beaches,15,N,19,Yes,0,18,57,NONE,Clear,NA
+13066,2023-08-16,Kew Balmy Beach,15,N,19,Yes,0,18,2,NONE,Clear,NA
+13067,2023-08-16,Bluffer's Beach Park,15,N,19,Yes,0,19,6,NONE,Cloudy,NA
+13068,2024-05-26,Marie Curtis Park East Beach,11,N,14,Yes,7,14,9,NONE,Clear,0.72
+13069,2024-05-26,Sunnyside Beach,11,N,14,Yes,7,15,2,NONE,Clear,0.83
+13070,2024-05-26,Hanlan's Point Beach,11,N,14,Yes,7,13,NA,NONE,Clear,NA
+13071,2024-05-26,Gibraltar Point Beach,11,N,14,Yes,7,13,NA,NONE,Cloudy,NA
+13072,2024-05-26,Centre Island Beach,11,N,14,Yes,7,13,4,NONE,Clear,NA
+13073,2024-05-26,Ward's Island Beach,11,N,14,Yes,7,13,NA,NONE,Clear,NA
+13074,2024-05-26,Cherry Beach,11,N,14,Yes,7,12,26,NONE,Clear,NA
+13075,2024-05-26,Woodbine Beaches,11,N,14,Yes,7,13,NA,NONE,Cloudy,NA
+13076,2024-05-26,Kew Balmy Beach,11,N,14,Yes,7,13,10,NONE,Cloudy,NA
+13077,2024-05-26,Bluffer's Beach Park,11,N,14,Yes,7,14,20,NONE,Cloudy,NA
+13078,2024-08-04,Marie Curtis Park East Beach,13,NW,21,No,NA,23,NA,NONE,clear,1.11
+13079,2024-08-04,Sunnyside Beach,13,NW,21,No,NA,24,31,NONE,clear,1.13
+13080,2024-08-04,Hanlan's Point Beach,13,NW,21,No,NA,23,NA,NONE,clear,NA
+13081,2024-08-04,Gibraltar Point Beach,13,NW,21,No,NA,22,NA,NONE,clear,NA
+13082,2024-08-04,Centre Island Beach,13,NW,21,No,NA,24,NA,NONE,clear,NA
+13083,2024-08-04,Ward's Island Beach,13,NW,21,No,NA,23,NA,NONE,clear,NA
+13084,2024-08-04,Cherry Beach,13,NW,21,No,NA,25,NA,NONE,clear,NA
+13085,2024-08-04,Woodbine Beaches,13,NW,21,No,NA,20,NA,NONE,Clear ,NA
+13086,2024-08-04,Kew Balmy Beach,13,NW,21,No,NA,20,23,NONE,Clear,NA
+13087,2024-08-04,Bluffer's Beach Park,13,NW,21,No,NA,21,2,NONE,Clear,NA
+13088,2024-08-05,Marie Curtis Park East Beach,22,NE,22,No,NA,21,9,NONE,Clear,1.11
+13089,2024-08-05,Sunnyside Beach,22,NE,22,No,NA,21,29,NONE,Clear but with debris and algae ,0.94
+13090,2024-08-05,Hanlan's Point Beach,22,NE,22,No,NA,22,12,NONE,Clear,NA
+13091,2024-08-05,Gibraltar Point Beach,22,NE,22,No,NA,22,NA,NONE,Clear,NA
+13092,2024-08-05,Centre Island Beach,22,NE,22,No,NA,23,7,NONE,Clear,NA
+13093,2024-08-05,Ward's Island Beach,22,NE,22,No,NA,24,3,NONE,Clear ,NA
+13094,2024-08-05,Cherry Beach,22,NE,22,No,NA,24,2,NONE,Clear ,NA
+13095,2024-08-05,Woodbine Beaches,22,NE,22,No,NA,20,NA,NONE,clear,NA
+13096,2024-08-05,Kew Balmy Beach,22,NE,22,No,NA,20,1,LOW,clear,NA
+13097,2024-08-05,Bluffer's Beach Park,22,NE,22,No,NA,19,17,NONE,cloudy,NA
+13098,2024-08-06,Marie Curtis Park East Beach,15,NE,19,Yes,7,23,NA,NONE,Murky,3.54
+13099,2024-08-06,Sunnyside Beach,15,NE,19,Yes,7,23,NA,NONE,Murky,0.9
+13100,2024-08-06,Hanlan's Point Beach,15,NE,19,Yes,7,21,NA,LOW,Clear,NA
+13101,2024-08-06,Gibraltar Point Beach,15,NE,19,Yes,7,22,NA,HIGH,Clear,NA
+13112,2023-08-11,Marie Curtis Park East Beach,13,NW,17,Yes,2,20,3,NONE,clear,1.42
+13113,2023-08-11,Sunnyside Beach,13,NW,17,Yes,2,20,5,NONE,clear,0.85
+13114,2023-08-11,Hanlan's Point Beach,13,NW,17,Yes,2,18,10,LOW,Clear,NA
+13115,2023-08-11,Gibraltar Point Beach,13,NW,17,Yes,2,19,NA,NONE,Clear,NA
+13116,2023-08-11,Centre Island Beach,13,NW,17,Yes,2,19,12,NONE,Clear,NA
+13117,2023-08-11,Ward's Island Beach,13,NW,17,Yes,2,19,NA,NONE,Clear,NA
+13118,2023-08-11,Cherry Beach,13,NW,17,Yes,2,20,NA,NONE,Clear,NA
+13119,2023-08-11,Woodbine Beaches,13,NW,17,Yes,2,20,7,NONE,Clear,NA
+13120,2023-08-11,Kew Balmy Beach,13,NW,17,Yes,2,20,54,NONE,Clear,NA
+13121,2023-08-11,Bluffer's Beach Park,13,NW,17,Yes,2,18,9,NONE,Clear,NA
+13122,2023-08-15,Marie Curtis Park East Beach,30,NE,19,Yes,NA,18,7,HIGH,"Murky, Algae, Debris",162
+13123,2023-08-15,Sunnyside Beach,30,NE,19,Yes,NA,17,19,LOW,Clear,1.11
+13124,2023-08-15,Hanlan's Point Beach,30,NE,19,Yes,NA,14,7,NONE,Clear,NA
+13125,2023-08-15,Gibraltar Point Beach,30,NE,19,Yes,NA,15,NA,LOW,Clear,NA
+13126,2023-08-15,Centre Island Beach,30,NE,19,Yes,NA,17,38,NONE,Clear,NA
+13127,2023-08-15,Ward's Island Beach,30,NE,19,Yes,NA,18,1,NONE,Clear,NA
+13128,2023-08-15,Cherry Beach,30,NE,19,Yes,NA,18,NA,NONE,Cloudy,NA
+13129,2023-08-15,Woodbine Beaches,30,NE,19,Yes,NA,18,25,HIGH,Cloudy,NA
+13130,2023-08-15,Kew Balmy Beach,30,NE,19,Yes,NA,18,73,MOD,Cloudy,NA
+13131,2023-08-15,Bluffer's Beach Park,30,NE,19,Yes,NA,16,3,HIGH,Murky,NA
+13132,2024-07-18,Marie Curtis Park East Beach,26,NW,17,No,NA,19,NA,NONE,"Murky, bird feathers",11.2
+13133,2024-07-18,Sunnyside Beach,26,NW,17,No,NA,20,41,NONE,"Murky, heavy debris at shore",3.15
+13134,2024-07-18,Hanlan's Point Beach,26,NW,17,No,NA,18,NA,NONE,Murky,NA
+13135,2024-07-18,Gibraltar Point Beach,26,NW,17,No,NA,20,9,NONE,Murky,NA
+13136,2024-07-18,Centre Island Beach,26,NW,17,No,NA,21,15,NONE,Cloudy,NA
+13137,2024-07-18,Ward's Island Beach,26,NW,17,No,NA,21,NA,NONE,Murky ,NA
+13138,2024-07-18,Cherry Beach,26,NW,17,No,NA,22,5,NONE,Murky ,NA
+13139,2024-07-18,Woodbine Beaches,26,NW,17,No,NA,21,NA,NONE,Clear,NA
+13140,2024-07-18,Kew Balmy Beach,26,NW,17,No,NA,21,5,NONE,Clear ,NA
+13141,2024-07-18,Bluffer's Beach Park,26,NW,17,No,NA,19,4,NONE,Clear ,NA
+13142,2024-07-20,Marie Curtis Park East Beach,8,SW,18,No,NA,18,NA,NONE,Murky,1.83
+13143,2024-07-20,Sunnyside Beach,8,SW,18,No,NA,20,15,NONE,"Murky, Lots of debris ",2.35
+13144,2024-07-20,Hanlan's Point Beach,8,SW,18,No,NA,21,NA,NONE,Cloudy,NA
+13145,2024-07-20,Gibraltar Point Beach,8,SW,18,No,NA,21,NA,NONE,Cloudy,NA
+13146,2024-07-20,Centre Island Beach,8,SW,18,No,NA,22,2,NONE,Clear,NA
+13147,2024-07-20,Ward's Island Beach,8,SW,18,No,NA,22,4,NONE,Cloudy ,NA
+13148,2024-07-20,Cherry Beach,8,SW,18,No,NA,23,NA,NONE,Cloudy ,NA
+13149,2024-07-20,Woodbine Beaches,8,SW,18,No,NA,20,2,NONE,Cloudy,NA
+13150,2024-07-20,Kew Balmy Beach,8,SW,18,No,NA,18,30,NONE,Murky ,NA
+13151,2024-07-20,Bluffer's Beach Park,8,SW,18,No,NA,16,5,NONE,Clear ,NA
+13152,2024-07-21,Marie Curtis Park East Beach,9,SW,20,No,NA,20,NA,NONE,Murky,3.71
+13153,2024-07-21,Sunnyside Beach,9,SW,20,No,NA,20,28,NONE,Clear ,1.59
+13154,2024-07-21,Hanlan's Point Beach,9,SW,20,No,NA,21,2,NONE,Cloudy,NA
+13155,2024-07-21,Gibraltar Point Beach,9,SW,20,No,NA,22,6,NONE,Cloudy,NA
+13156,2024-07-21,Centre Island Beach,9,SW,20,No,NA,22,NA,NONE,Clear ,NA
+13157,2024-07-21,Ward's Island Beach,9,SW,20,No,NA,23,NA,NONE,Cloudy ,NA
+13158,2024-07-21,Cherry Beach,9,SW,20,No,NA,24,NA,NONE,Cloudy ,NA
+13159,2024-07-21,Woodbine Beaches,9,SW,20,No,NA,20,15,NONE,clear,NA
+13160,2024-07-21,Kew Balmy Beach,9,SW,20,No,NA,19,25,NONE,clear,NA
+13161,2024-07-21,Bluffer's Beach Park,9,SW,20,No,NA,16,15,NONE,clear,NA
+13162,2024-07-22,Marie Curtis Park East Beach,9,W,19,No,NA,20,NA,NONE,murky,2.65
+13163,2024-07-22,Sunnyside Beach,9,W,19,No,NA,20,14,NONE,debris,1.22
+13164,2024-07-22,Hanlan's Point Beach,9,W,19,No,NA,22,4,NONE,cloudy,NA
+13165,2024-07-22,Gibraltar Point Beach,9,W,19,No,NA,21,NA,NONE,cloudy,NA
+13166,2024-07-22,Centre Island Beach,9,W,19,No,NA,22,6,NONE,cloudy,NA
+13167,2024-07-22,Ward's Island Beach,9,W,19,No,NA,21,NA,NONE,murky,NA
+13168,2024-07-22,Cherry Beach,9,W,19,No,NA,23,3,NONE,murky,NA
+13169,2024-07-22,Woodbine Beaches,9,W,19,No,NA,20,5,NONE,cloudy,NA
+13170,2024-07-22,Kew Balmy Beach,9,W,19,No,NA,20,31,NONE,cloudy,NA
+13171,2024-07-22,Bluffer's Beach Park,9,W,19,No,NA,18,20,NONE,clear,NA
+13172,2025-05-29,Marie Curtis Park East Beach,5,SW,10,Yes,3,11,13,LOW,Clear,NA
+13173,2025-05-29,Sunnyside Beach,5,SW,10,Yes,3,12,9,NONE,Dark,NA
+13174,2025-05-29,Hanlan's Point Beach,5,SW,10,Yes,3,10,8,NONE,Clear,NA
+13175,2025-05-29,Gibraltar Point Beach,5,SW,10,Yes,3,10,15,LOW,Clear,NA
+13176,2025-05-29,Centre Island Beach,5,SW,10,Yes,3,10,11,NONE,Clear,NA
+13177,2025-05-29,Ward's Island Beach,5,SW,10,Yes,3,11,4,NONE,Clear,NA
+13178,2025-05-29,Cherry Beach,5,SW,10,Yes,3,11,3,NONE,Clear,NA
+13179,2025-05-29,Woodbine Beaches,5,SW,10,Yes,3,10,3,LOW,Murky,NA
+13180,2025-05-29,Kew Balmy Beach,5,SW,10,Yes,3,10,11,NONE,Murky,NA
+13181,2025-05-29,Bluffer's Beach Park,5,SW,10,Yes,3,10,NA,LOW,"Murky, debris",NA
+13182,2025-06-13,Marie Curtis Park East Beach,26,NE,13,No,NA,9,4,HIGH,dark,0.89
+13183,2025-06-13,Sunnyside Beach,26,NE,13,No,NA,10,53,NONE,Clear,0.68
+13184,2025-06-13,Hanlan's Point Beach,26,NE,13,No,NA,8,NA,NONE,Clear,NA
+13185,2025-06-13,Gibraltar Point Beach,26,NE,13,No,NA,13,NA,LOW,Cloudy,NA
+13186,2025-06-13,Centre Island Beach,26,NE,13,No,NA,14,NA,LOW,Cloudy,NA
+13187,2025-06-13,Ward's Island Beach,26,NE,13,No,NA,14,NA,LOW,Cloudy,NA
+13188,2025-06-13,Cherry Beach,26,NE,13,No,NA,16,NA,LOW,Clear,NA
+13189,2025-06-13,Woodbine Beaches,26,NE,13,No,NA,7,NA,MOD,Cloudy,NA
+13190,2025-06-13,Kew Balmy Beach,26,NE,13,No,NA,7,3,MOD,Cloudy,NA
+13191,2025-06-13,Bluffer's Beach Park,26,NE,13,No,NA,4,42,HIGH,Cloudy,NA
+13222,2023-06-02,Marie Curtis Park East Beach,13,W,20,No,NA,18,9,NONE,Clear,0.72
+13223,2023-06-02,Sunnyside Beach,13,W,20,No,NA,18,7,NONE,Clear,0.61
+13224,2023-06-02,Hanlan's Point Beach,13,W,20,No,NA,19,5,NONE,Clear,NA
+13225,2023-06-02,Gibraltar Point Beach,13,W,20,No,NA,19,7,NONE,Clear,NA
+13226,2023-06-02,Centre Island Beach,13,W,20,No,NA,19,10,NONE,Clear,NA
+13227,2023-06-02,Ward's Island Beach,13,W,20,No,NA,19,11,NONE,Clear,NA
+13228,2023-06-02,Cherry Beach,13,W,20,No,NA,20,14,NONE,Clear,NA
+13229,2023-06-02,Woodbine Beaches,13,W,20,No,NA,16,13,NONE,Clear,NA
+13230,2023-06-02,Kew Balmy Beach,13,W,20,No,NA,16,41,NONE,Clear,NA
+13231,2023-06-02,Bluffer's Beach Park,13,W,20,No,NA,17,NA,NONE,Clear,NA
+13232,2024-08-24,Marie Curtis Park East Beach,8,W,17,No,NA,20,NA,NONE,Murky,1.35
+13233,2024-08-24,Sunnyside Beach,8,W,17,No,NA,20,5,NONE,Clear,1.87
+13234,2024-08-24,Hanlan's Point Beach,8,W,17,No,NA,20,NA,NONE,Clear,NA
+13235,2024-08-24,Gibraltar Point Beach,8,W,17,No,NA,21,NA,NONE,Clear,NA
+13236,2024-08-24,Centre Island Beach,8,W,17,No,NA,19,NA,NONE,Clear,NA
+13237,2024-08-24,Ward's Island Beach,8,W,17,No,NA,20,NA,NONE,Clear,NA
+13238,2024-08-24,Cherry Beach,8,W,17,No,NA,20,NA,NONE,Clear,NA
+13239,2024-08-24,Woodbine Beaches,8,W,17,No,NA,17,12,NONE,Clear,NA
+13240,2024-08-24,Kew Balmy Beach,8,W,17,No,NA,17,13,NONE,Clear,NA
+13241,2024-08-24,Bluffer's Beach Park,8,W,17,No,NA,16,15,NONE,Clear,NA
+13262,2023-06-28,Marie Curtis Park East Beach,17,N,16,Yes,3,19,NA,NONE,clear,1.1
+13263,2023-06-28,Sunnyside Beach,17,N,16,Yes,3,20,5,NONE,clear,1.19
+13264,2023-06-28,Hanlan's Point Beach,17,N,16,Yes,3,20,NA,MOD,clear,NA
+13265,2023-06-28,Gibraltar Point Beach,17,N,16,Yes,3,20,NA,NONE,clear,NA
+13266,2023-06-28,Centre Island Beach,17,N,16,Yes,3,19,NA,NONE,clear,NA
+13267,2023-06-28,Ward's Island Beach,17,N,16,Yes,3,20,NA,NONE,clear,NA
+13268,2023-06-28,Cherry Beach,17,N,16,Yes,3,20,NA,NONE,clear,NA
+13269,2023-06-28,Woodbine Beaches,17,N,16,Yes,3,17,45,NONE,Clear,NA
+13270,2023-06-28,Kew Balmy Beach,17,N,16,Yes,3,17,45,NONE,Clear,NA
+13271,2023-06-28,Bluffer's Beach Park,17,N,16,Yes,3,20,NA,NONE,Murky,NA
+13272,2023-08-03,Marie Curtis Park East Beach,9,SW,20,Yes,NA,21,NA,LOW,cloudy,2.83
+13273,2023-08-03,Sunnyside Beach,9,SW,20,Yes,NA,21,1,NONE,clear,1.44
+13274,2023-08-03,Hanlan's Point Beach,9,SW,20,Yes,NA,21,1,MOD,clear,NA
+13275,2023-08-03,Gibraltar Point Beach,9,SW,20,Yes,NA,21,NA,MOD,clear,NA
+13276,2023-08-03,Centre Island Beach,9,SW,20,Yes,NA,21,12,LOW,clear,NA
+13277,2023-08-03,Ward's Island Beach,9,SW,20,Yes,NA,21,2,MOD,clear,NA
+13278,2023-08-03,Cherry Beach,9,SW,20,Yes,NA,22,NA,LOW,clear,NA
+13279,2023-08-03,Woodbine Beaches,9,SW,20,Yes,NA,20,2,NONE,Clear,NA
+13280,2023-08-03,Kew Balmy Beach,9,SW,20,Yes,NA,20,77,NONE,Clear,NA
+13281,2023-08-03,Bluffer's Beach Park,9,SW,20,Yes,NA,20,4,LOW,Clear,NA
+13282,2024-06-05,Marie Curtis Park East Beach,18,E,19,No,NA,18,20,NONE,clear,1.04
+13283,2024-06-05,Sunnyside Beach,18,E,19,No,NA,18,5,NONE,clear,1.4
+13284,2024-06-05,Hanlan's Point Beach,18,E,19,No,NA,16,NA,LOW,clear,NA
+13285,2024-06-05,Gibraltar Point Beach,18,E,19,No,NA,16,NA,LOW,clear,NA
+13286,2024-06-05,Centre Island Beach,18,E,19,No,NA,17,2,NONE,clear,NA
+13287,2024-06-05,Ward's Island Beach,18,E,19,No,NA,16,NA,NONE,clear,NA
+13288,2024-06-05,Cherry Beach,18,E,19,No,NA,18,16,NONE,clear,NA
+13289,2024-06-05,Woodbine Beaches,18,E,19,No,NA,13,NA,NONE,clear,NA
+13290,2024-06-05,Kew Balmy Beach,18,E,19,No,NA,12,NA,NONE,clear,NA
+13291,2024-06-05,Bluffer's Beach Park,18,E,19,No,NA,16,48,NONE,clear,NA
+13292,2025-06-20,Marie Curtis Park East Beach,8,SW,14,Yes,0,16,13,NONE,Clear,0.56
+13293,2025-06-20,Sunnyside Beach,8,SW,14,Yes,0,16,4,NONE,Clear,1.31
+13294,2025-06-20,Hanlan's Point Beach,8,SW,14,Yes,0,12,NA,NONE,Clear,NA
+13295,2025-06-20,Gibraltar Point Beach,8,SW,14,Yes,0,15,36,NONE,Clear,NA
+13296,2025-06-20,Centre Island Beach,8,SW,14,Yes,0,16,17,NONE,Clear,NA
+13297,2025-06-20,Ward's Island Beach,8,SW,14,Yes,0,17,NA,NONE,Murky,NA
+13298,2025-06-20,Cherry Beach,8,SW,14,Yes,0,17,NA,NONE,Clear,NA
+13299,2025-06-20,Woodbine Beaches,8,SW,14,Yes,0,10,5,NONE,Cloudy,NA
+13300,2025-06-20,Kew Balmy Beach,8,SW,14,Yes,0,11,32,NONE,Cloudy,NA
+13301,2025-06-20,Bluffer's Beach Park,8,SW,14,Yes,0,9,NA,NONE,Clear,NA
+13372,2023-06-08,Marie Curtis Park East Beach,13,NW,16,No,NA,17,12,NONE,murky,2.53
+13373,2023-06-08,Sunnyside Beach,13,NW,16,No,NA,16,5,NONE,clear,0.51
+13374,2023-06-08,Hanlan's Point Beach,13,NW,16,No,NA,14,2,NONE,clear,NA
+13375,2023-06-08,Gibraltar Point Beach,13,NW,16,No,NA,16,NA,NONE,clear,NA
+13376,2023-06-08,Centre Island Beach,13,NW,16,No,NA,16,NA,NONE,clear,NA
+13377,2023-06-08,Ward's Island Beach,13,NW,16,No,NA,17,NA,NONE,cloudy,NA
+13378,2023-06-08,Cherry Beach,13,NW,16,No,NA,15,18,NONE,clear,NA
+13379,2023-06-08,Woodbine Beaches,13,NW,16,No,NA,14,4,NONE,cloudy,NA
+13380,2023-06-08,Kew Balmy Beach,13,NW,16,No,NA,14,56,NONE,cloudy,NA
+13381,2023-06-08,Bluffer's Beach Park,13,NW,16,No,NA,16,5,LOW,murky,NA
+13383,2024-07-17,Marie Curtis Park East Beach,11,NW,21,Yes,87,20,NA,NONE,Debris,5.01
+13384,2024-07-17,Sunnyside Beach,11,NW,21,Yes,87,21,NA,NONE,Debris,4.52
+13385,2024-07-17,Hanlan's Point Beach,11,NW,21,Yes,87,20,6,NONE,Cloudy,NA
+13386,2024-07-17,Gibraltar Point Beach,11,NW,21,Yes,87,23,NA,NONE,Cloudy,NA
+13387,2024-07-17,Centre Island Beach,11,NW,21,Yes,87,21,11,NONE,Cloudy,NA
+13388,2024-07-17,Ward's Island Beach,11,NW,21,Yes,87,22,NA,NONE,Murky,NA
+13389,2024-07-17,Cherry Beach,11,NW,21,Yes,87,24,NA,NONE,Murky,NA
+13390,2024-07-17,Woodbine Beaches,11,NW,21,Yes,87,20,NA,NONE,cloudy,NA
+13391,2024-07-17,Kew Balmy Beach,11,NW,21,Yes,87,20,38,NONE,cloudy,NA
+13392,2024-07-17,Bluffer's Beach Park,11,NW,21,Yes,87,20,4,NONE,cloudy,NA
+13393,2024-08-06,Centre Island Beach,15,NE,19,Yes,7,22,5,NONE,Algae,NA
+13394,2024-08-06,Ward's Island Beach,15,NE,19,Yes,7,22,NA,NONE,Clear,NA
+13395,2024-08-06,Cherry Beach,15,NE,19,Yes,7,22,NA,NONE,Murky,NA
+13396,2024-08-06,Woodbine Beaches,15,NE,19,Yes,7,23,NA,HIGH,cloudy,NA
+13397,2024-08-06,Kew Balmy Beach,15,NE,19,Yes,7,22,7,HIGH,cloudy,NA
+13398,2024-08-06,Bluffer's Beach Park,15,NE,19,Yes,7,29,NA,LOW,murky debris,NA
+13449,2025-06-15,Marie Curtis Park East Beach,13,NE,17,No,NA,14,4,NONE,Cloudy,1.18
+13450,2025-06-15,Sunnyside Beach,13,NE,17,No,NA,14,69,NONE,Clear,0.93
+13451,2025-06-15,Hanlan's Point Beach,13,NE,17,No,NA,13,NA,NONE,Clear,NA
+13452,2025-06-15,Gibraltar Point Beach,13,NE,17,No,NA,14,4,NONE,Clear,NA
+13453,2025-06-15,Centre Island Beach,13,NE,17,No,NA,14,3,NONE,Clear,NA
+13454,2025-06-15,Ward's Island Beach,13,NE,17,No,NA,13,NA,NONE,Clear,NA
+13455,2025-06-15,Cherry Beach,13,NE,17,No,NA,13,3,NONE,Clear,NA
+13456,2025-06-15,Woodbine Beaches,13,NE,17,No,NA,13,2,LOW,Cloudy,NA
+13457,2025-06-15,Kew Balmy Beach,13,NE,17,No,NA,12,27,MOD,Cloudy,NA
+13458,2025-06-15,Bluffer's Beach Park,13,NE,17,No,NA,13,4,NONE,Cloudy,NA
+13499,2024-08-12,Marie Curtis Park East Beach,13,W,16,Yes,1,14,6,NONE,Clear,0.34
+13500,2024-08-12,Sunnyside Beach,13,W,16,Yes,1,15,28,NONE,Clear,0.6
+13501,2024-08-12,Hanlan's Point Beach,13,W,16,Yes,1,15,2,NONE,Clear,NA
+13502,2024-08-12,Gibraltar Point Beach,13,W,16,Yes,1,18,30,NONE,Cloudy,NA
+13503,2024-08-12,Centre Island Beach,13,W,16,Yes,1,19,38,NONE,Murky,NA
+13504,2024-08-12,Ward's Island Beach,13,W,16,Yes,1,20,NA,NONE,Clear,NA
+13505,2024-08-12,Cherry Beach,13,W,16,Yes,1,22,8,NONE,Clear,NA
+13506,2024-08-12,Woodbine Beaches,13,W,16,Yes,1,11,NA,NONE,clear,NA
+13507,2024-08-12,Kew Balmy Beach,13,W,16,Yes,1,12,16,NONE,clear,NA
+13508,2024-08-12,Bluffer's Beach Park,13,W,16,Yes,1,10,NA,NONE,clear,NA
+13549,2024-06-27,Marie Curtis Park East Beach,11,NW,15,Yes,4,15,2,NONE,clear,0.85
+13550,2024-06-27,Sunnyside Beach,11,NW,15,Yes,4,17,37,NONE,clear,1.85
+13551,2024-06-27,Hanlan's Point Beach,11,NW,15,Yes,4,15,32,NONE,clear,NA
+13552,2024-06-27,Gibraltar Point Beach,11,NW,15,Yes,4,13,NA,NONE,clear,NA
+13553,2024-06-27,Centre Island Beach,11,NW,15,Yes,4,16,22,NONE,clear,NA
+13554,2024-06-27,Ward's Island Beach,11,NW,15,Yes,4,16,16,NONE,clear,NA
+13555,2024-06-27,Cherry Beach,11,NW,15,Yes,4,18,4,NONE,clear,NA
+13556,2024-06-27,Woodbine Beaches,11,NW,15,Yes,4,8,NA,NONE,clear,NA
+13557,2024-06-27,Kew Balmy Beach,11,NW,15,Yes,4,8,67,NONE,clear,NA
+13558,2024-06-27,Bluffer's Beach Park,11,NW,15,Yes,4,13,NA,NONE,clear,NA
+13589,2024-06-23,Marie Curtis Park East Beach,5,E,20,Yes,2,19,22,NONE,Cloudy,NA
+13590,2024-06-23,Sunnyside Beach,5,E,20,Yes,2,19,22,NONE,Cloudy,NA
+13591,2024-06-23,Hanlan's Point Beach,5,E,20,Yes,2,19,3,NONE,Cloudy,NA
+13592,2024-06-23,Gibraltar Point Beach,5,E,20,Yes,2,19,NA,LOW,Cloudy,NA
+13593,2024-06-23,Centre Island Beach,5,E,20,Yes,2,20,NA,NONE,Clear,NA
+13594,2024-06-23,Ward's Island Beach,5,E,20,Yes,2,18,30,NONE,Debris,NA
+13595,2024-06-23,Cherry Beach,5,E,20,Yes,2,18,10,NONE,Cloudy,NA
+13596,2024-06-23,Woodbine Beaches,5,E,20,Yes,2,15,NA,MOD,murky,NA
+13597,2024-06-23,Kew Balmy Beach,5,E,20,Yes,2,16,7,MOD,murky,NA
+13598,2024-06-23,Bluffer's Beach Park,5,E,20,Yes,2,17,17,LOW,"murky, debris",NA
+13599,2024-06-24,Marie Curtis Park East Beach,11,NW,19,Yes,0,14,NA,NONE,Murky,2.52
+13600,2024-06-24,Sunnyside Beach,11,NW,19,Yes,0,18,NA,NONE,Murky,1.98
+13601,2024-06-24,Hanlan's Point Beach,11,NW,19,Yes,0,12,17,NONE,Clear,NA
+13602,2024-06-24,Gibraltar Point Beach,11,NW,19,Yes,0,14,NA,NONE,Clear,NA
+13603,2024-06-24,Centre Island Beach,11,NW,19,Yes,0,16,3,NONE,Clear,NA
+13604,2024-06-24,Ward's Island Beach,11,NW,19,Yes,0,16,NA,NONE,Clear,NA
+13605,2024-06-24,Cherry Beach,11,NW,19,Yes,0,16,NA,NONE,Clear,NA
+13606,2024-06-24,Woodbine Beaches,11,NW,19,Yes,0,15,NA,NONE,Clear,NA
+13607,2024-06-24,Kew Balmy Beach,11,NW,19,Yes,0,14,16,NONE,Clear,NA
+13608,2024-06-24,Bluffer's Beach Park,11,NW,19,Yes,0,16,48,NONE,Clear,NA
+13609,2025-05-26,Marie Curtis Park East Beach,11,SW,10,Yes,6,10,13,NONE,Clear,0.89
+13610,2025-05-26,Sunnyside Beach,11,SW,10,Yes,6,9,120,NONE,Clear,1.16
+13611,2025-05-26,Hanlan's Point Beach,11,SW,10,Yes,6,9,7,NONE,Clear,NA
+13612,2025-05-26,Gibraltar Point Beach,11,SW,10,Yes,6,9,25,NONE,Clear,NA
+13613,2025-05-26,Centre Island Beach,11,SW,10,Yes,6,10,18,NONE,Clear,NA
+13614,2025-05-26,Ward's Island Beach,11,SW,10,Yes,6,10,15,NONE,Cloudy,NA
+13615,2025-05-26,Cherry Beach,11,SW,10,Yes,6,10,55,NONE,Clear,NA
+13616,2025-05-26,Woodbine Beaches,11,SW,10,Yes,6,11,11,NONE,Clear,NA
+13617,2025-05-26,Kew Balmy Beach,11,SW,10,Yes,6,11,21,NONE,Clear,NA
+13618,2025-05-26,Bluffer's Beach Park,11,SW,10,Yes,6,9,46,NONE,Clear,NA
+13699,2024-08-10,Marie Curtis Park East Beach,18,W,17,Yes,7,23,NA,MOD,murky,1.97
+13700,2024-08-10,Sunnyside Beach,18,W,17,Yes,7,22,36,NONE,clear,1.36
+13701,2024-08-10,Hanlan's Point Beach,18,W,17,Yes,7,22,NA,HIGH,cloudy,NA
+13702,2024-08-10,Gibraltar Point Beach,18,W,17,Yes,7,22,NA,HIGH,cloudy,NA
+13703,2024-08-10,Centre Island Beach,18,W,17,Yes,7,NA,NA,None,None,NA
+13704,2024-08-10,Ward's Island Beach,18,W,17,Yes,7,23,NA,LOW,cloudy,NA
+13705,2024-08-10,Cherry Beach,18,W,17,Yes,7,24,NA,LOW,cloudy,NA
+13706,2024-08-10,Woodbine Beaches,18,W,17,Yes,7,22,NA,NONE,Murky,NA
+13707,2024-08-10,Kew Balmy Beach,18,W,17,Yes,7,22,NA,LOW,Murky,NA
+13708,2024-08-10,Bluffer's Beach Park,18,W,17,Yes,7,21,NA,NONE,Clear,NA
+13709,2024-08-11,Marie Curtis Park East Beach,18,SW,17,No,NA,20,NA,LOW,clear,7.45
+13710,2024-08-11,Sunnyside Beach,18,SW,17,No,NA,21,NA,NONE,algae,1.37
+13711,2024-08-11,Hanlan's Point Beach,18,SW,17,No,NA,20,NA,HIGH,clear,NA
+13712,2024-08-11,Gibraltar Point Beach,18,SW,17,No,NA,20,NA,HIGH,clear,NA
+13713,2024-08-11,Centre Island Beach,18,SW,17,No,NA,20,12,NONE,clear,NA
+13714,2024-08-11,Ward's Island Beach,18,SW,17,No,NA,21,NA,LOW,debris,NA
+13715,2024-08-11,Cherry Beach,18,SW,17,No,NA,21,NA,LOW,debris,NA
+13716,2024-08-11,Woodbine Beaches,18,SW,17,No,NA,21,NA,LOW,Cloudy,NA
+13717,2024-08-11,Kew Balmy Beach,18,SW,17,No,NA,20,7,LOW,Cloudy,NA
+13718,2024-08-11,Bluffer's Beach Park,18,SW,17,No,NA,18,NA,LOW,Cloudy,NA
+13729,2024-07-15,Marie Curtis Park East Beach,18,SW,22,Yes,2,22,NA,NONE,debris,1.02
+13730,2024-07-15,Sunnyside Beach,18,SW,22,Yes,2,24,15,NONE,debris,1.57
+13731,2024-07-15,Hanlan's Point Beach,18,SW,22,Yes,2,23,NA,LOW,cloudy,NA
+13732,2024-07-15,Gibraltar Point Beach,18,SW,22,Yes,2,23,NA,LOW,cloudy,NA
+13733,2024-07-15,Centre Island Beach,18,SW,22,Yes,2,23,NA,NONE,clear,NA
+13734,2024-07-15,Ward's Island Beach,18,SW,22,Yes,2,23,NA,LOW,cloudy,NA
+13735,2024-07-15,Cherry Beach,18,SW,22,Yes,2,24,NA,LOW,cloudy,NA
+13736,2024-07-15,Woodbine Beaches,18,SW,22,Yes,2,20,2,NONE,cloudy,NA
+13737,2024-07-15,Kew Balmy Beach,18,SW,22,Yes,2,20,38,NONE,cloudy,NA
+13738,2024-07-15,Bluffer's Beach Park,18,SW,22,Yes,2,20,1,NONE,clear,NA
+13739,2024-08-01,Marie Curtis Park East Beach,15,NW,23,Yes,1,23,NA,NONE,Murky ,1.13
+13740,2024-08-01,Sunnyside Beach,15,NW,23,Yes,1,24,30,NONE,Murky,0.83
+13741,2024-08-01,Hanlan's Point Beach,15,NW,23,Yes,1,24,4,NONE,Clear,NA
+13742,2024-08-01,Gibraltar Point Beach,15,NW,23,Yes,1,24,NA,NONE,Clear,NA
+13743,2024-08-01,Centre Island Beach,15,NW,23,Yes,1,25,12,NONE,Clear,NA
+13744,2024-08-01,Ward's Island Beach,15,NW,23,Yes,1,26,NA,NONE,Clear ,NA
+13745,2024-08-01,Cherry Beach,15,NW,23,No,1,27,4,NONE,Clear ,NA
+13746,2024-08-01,Woodbine Beaches,15,NW,23,No,1,22,NA,NONE,Clear,NA
+13747,2024-08-01,Kew Balmy Beach,15,NW,23,No,1,21,35,NONE,Clear,NA
+13748,2024-08-01,Bluffer's Beach Park,15,NW,23,No,1,22,9,NONE,Clear ,NA
+13779,2023-05-31,Marie Curtis Park East Beach,8,S,17,No,NA,15,2,NONE,clear,1.47
+13780,2023-05-31,Sunnyside Beach,8,S,17,No,NA,16,NA,NONE,clear,1.03
+13781,2023-05-31,Hanlan's Point Beach,8,S,17,No,NA,13,2,NONE,clear,NA
+13782,2023-05-31,Gibraltar Point Beach,8,S,17,No,NA,13,NA,NONE,clear,NA
+13783,2023-05-31,Centre Island Beach,8,S,17,No,NA,13,3,NONE,clear,NA
+13784,2023-05-31,Ward's Island Beach,8,S,17,No,NA,12,1,NONE,clear,NA
+13785,2023-05-31,Cherry Beach,8,S,17,No,NA,15,4,NONE,clear,NA
+13786,2023-05-31,Woodbine Beaches,8,S,17,No,NA,13,3,NONE,clear,NA
+13787,2023-05-31,Kew Balmy Beach,8,S,17,No,NA,14,45,NONE,clear,NA
+13788,2023-05-31,Bluffer's Beach Park,8,S,17,No,NA,17,NA,NONE,clear,NA
+13849,2023-08-29,Marie Curtis Park East Beach,9,E,14,No,NA,19,NA,NONE,Clear,1
+13850,2023-08-29,Sunnyside Beach,9,E,14,No,NA,19,4,NONE,Clear,0.49
+13851,2023-08-29,Hanlan's Point Beach,9,E,14,No,NA,19,NA,NONE,Clear,NA
+13852,2023-08-29,Gibraltar Point Beach,9,E,14,No,NA,17,NA,NONE,Clear,NA
+13853,2023-08-29,Centre Island Beach,9,E,14,No,NA,18,NA,NONE,Clear,NA
+13854,2023-08-29,Ward's Island Beach,9,E,14,No,NA,17,NA,NONE,Clear,NA
+13855,2023-08-29,Cherry Beach,9,E,14,No,NA,17,NA,NONE,Clear,NA
+13856,2023-08-29,Woodbine Beaches,9,E,14,No,NA,17,12,NONE,Clear,NA
+13857,2023-08-29,Kew Balmy Beach,9,E,14,No,NA,18,107,NONE,Clear,NA
+13858,2023-08-29,Bluffer's Beach Park,9,E,14,No,NA,21,25,NONE,Clear,NA
+13859,2023-09-10,Marie Curtis Park East Beach,NA,None,22,No,NA,NA,NA,None,None,NA
+13860,2023-09-10,Sunnyside Beach,NA,None,22,No,NA,NA,NA,None,None,NA
+13861,2023-09-10,Hanlan's Point Beach,NA,None,22,No,NA,NA,NA,None,None,NA
+13862,2023-09-10,Gibraltar Point Beach,NA,None,22,No,NA,NA,NA,None,None,NA
+13863,2023-09-10,Centre Island Beach,NA,None,22,No,NA,NA,NA,None,None,NA
+13864,2023-09-10,Ward's Island Beach,NA,None,22,No,NA,NA,NA,None,None,NA
+13865,2023-09-10,Cherry Beach,NA,None,22,No,NA,20,5,NONE,clear,NA
+13866,2023-09-10,Woodbine Beaches,NA,None,22,No,NA,20,8,NONE,Clear,NA
+13867,2023-09-10,Kew Balmy Beach,NA,None,22,No,NA,20,100,NONE,Clear,NA
+13868,2023-09-10,Bluffer's Beach Park,NA,None,22,No,NA,NA,NA,None,None,NA
+13869,2024-07-10,Marie Curtis Park East Beach,18,N,20,No,NA,21,NA,LOW,Debris ,1.4
+13870,2024-07-10,Sunnyside Beach,18,N,20,No,NA,22,NA,NONE,Debris ,0.83
+13871,2024-07-10,Hanlan's Point Beach,18,N,20,No,NA,20,NA,NONE,Cloudy ,NA
+13872,2024-07-10,Gibraltar Point Beach,18,N,20,No,NA,22,NA,NONE,Cloudy,NA
+13873,2024-07-10,Centre Island Beach,18,N,20,No,NA,22,NA,NONE,Cloudy ,NA
+13874,2024-07-10,Ward's Island Beach,18,N,20,No,NA,23,NA,NONE,Cloudy ,NA
+13875,2024-07-10,Cherry Beach,18,N,20,No,NA,26,NA,NONE,Cloudy ,NA
+13876,2024-07-10,Woodbine Beaches,18,N,20,No,NA,20,2,NONE,Clear ,NA
+13877,2024-07-10,Kew Balmy Beach,18,N,20,No,NA,19,NA,NONE,Clear,NA
+13878,2024-07-10,Bluffer's Beach Park,18,N,20,No,NA,20,NA,NONE,Clear ,NA
+13929,2025-06-05,Marie Curtis Park East Beach,8,NW,16,Yes,5,10,52,NONE,Clear,3.02
+13930,2025-06-05,Sunnyside Beach,8,NW,16,Yes,5,10,7,NONE,Clear,0.95
+13931,2025-06-05,Hanlan's Point Beach,8,NW,16,Yes,5,12,7,NONE,Clear,NA
+13932,2025-06-05,Gibraltar Point Beach,8,NW,16,Yes,5,13,NA,NONE,Clear,NA
+13933,2025-06-05,Centre Island Beach,8,NW,16,Yes,5,13,27,NONE,Clear,NA
+13934,2025-06-05,Ward's Island Beach,8,NW,16,Yes,5,13,3,NONE,Clear,NA
+13935,2025-06-05,Cherry Beach,8,NW,16,Yes,5,14,5,NONE,Clear,NA
+13936,2025-06-05,Woodbine Beaches,8,NW,16,Yes,5,13,16,NONE,Clear,NA
+13937,2025-06-05,Kew Balmy Beach,8,NW,16,Yes,5,13,23,NONE,Clear,NA
+13938,2025-06-05,Bluffer's Beach Park,8,NW,16,Yes,5,11,36,NONE,Cloudy,NA
+14039,2023-06-23,Marie Curtis Park East Beach,15,E,19,No,NA,18,6,NONE,clear,1.18
+14040,2023-06-23,Sunnyside Beach,15,E,19,No,NA,18,21,LOW,clear,0.85
+14041,2023-06-23,Hanlan's Point Beach,15,E,19,No,NA,18,NA,NONE,clear,NA
+14042,2023-06-23,Gibraltar Point Beach,15,E,19,No,NA,17,NA,LOW,clear,NA
+14043,2023-06-23,Centre Island Beach,15,E,19,No,NA,19,21,NONE,clear,NA
+14044,2023-06-23,Ward's Island Beach,15,E,19,No,NA,19,NA,NONE,clear,NA
+14045,2023-06-23,Cherry Beach,15,E,19,No,NA,19,6,NONE,clear,NA
+14046,2023-06-23,Woodbine Beaches,15,E,19,No,NA,14,8,LOW,murky,NA
+14047,2023-06-23,Kew Balmy Beach,15,E,19,No,NA,14,57,LOW,murky,NA
+14048,2023-06-23,Bluffer's Beach Park,15,E,19,No,NA,20,NA,LOW,murky,NA
+14069,2023-07-06,Marie Curtis Park East Beach,15,E,24,No,NA,23,NA,NONE,clear,1.59
+14070,2023-07-06,Sunnyside Beach,15,E,24,No,NA,23,72,NONE,clear,0.81
+14071,2023-07-06,Hanlan's Point Beach,15,E,24,No,NA,20,12,NONE,clear,NA
+14072,2023-07-06,Gibraltar Point Beach,15,E,24,No,NA,19,NA,NONE,clear,NA
+14073,2023-07-06,Centre Island Beach,15,E,24,No,NA,20,8,NONE,clear,NA
+14074,2023-07-06,Ward's Island Beach,15,E,24,No,NA,21,NA,NONE,clear,NA
+14075,2023-07-06,Cherry Beach,15,E,24,No,NA,21,1,NONE,clear,NA
+14076,2023-07-06,Woodbine Beaches,15,E,24,No,NA,21,NA,NONE,clear,NA
+14077,2023-07-06,Kew Balmy Beach,15,E,24,No,NA,22,35,NONE,clear,NA
+14078,2023-07-06,Bluffer's Beach Park,15,E,24,No,NA,19,3,NONE,clear,NA
+14079,2024-05-25,Marie Curtis Park East Beach,32,NE,14,No,NA,14,4,MOD,Murky,0.88
+14080,2024-05-25,Sunnyside Beach,32,NE,14,No,NA,15,10,NONE,Clear,0.74
+14081,2024-05-25,Hanlan's Point Beach,32,NE,14,No,NA,NA,NA,None,None,NA
+14082,2024-05-25,Gibraltar Point Beach,32,NE,14,No,NA,NA,NA,None,None,NA
+14083,2024-05-25,Centre Island Beach,32,NE,14,No,NA,NA,NA,None,None,NA
+14084,2024-05-25,Ward's Island Beach,32,NE,14,No,NA,NA,NA,None,None,NA
+14085,2024-05-25,Cherry Beach,32,NE,14,No,NA,NA,NA,None,None,NA
+14086,2024-05-25,Woodbine Beaches,32,NE,14,No,NA,12,NA,MOD,clear,NA
+14087,2024-05-25,Kew Balmy Beach,32,NE,14,No,NA,11,NA,MOD,clear,NA
+14088,2024-05-25,Bluffer's Beach Park,32,NE,14,No,NA,12,NA,MOD,clear,NA
+14089,2025-05-21,Marie Curtis Park East Beach,42,NE,9,No,NA,10,NA,HIGH,Debris ,1.24
+14090,2025-05-21,Sunnyside Beach,42,NE,9,No,NA,10,7,HIGH,Debris,0.98
+14091,2025-05-21,Hanlan's Point Beach,42,NE,9,No,NA,NA,NA,None,None,NA
+14092,2025-05-21,Gibraltar Point Beach,42,NE,9,No,NA,NA,NA,None,None,NA
+14093,2025-05-21,Centre Island Beach,42,NE,9,No,NA,NA,NA,None,None,NA
+14094,2025-05-21,Ward's Island Beach,42,NE,9,No,NA,NA,NA,None,None,NA
+14095,2025-05-21,Cherry Beach,42,NE,9,No,NA,NA,NA,None,None,NA
+14096,2025-05-21,Woodbine Beaches,42,NE,9,No,NA,NA,NA,None,None,NA
+14097,2025-05-21,Kew Balmy Beach,42,NE,9,No,NA,NA,NA,None,None,NA
+14098,2025-05-21,Bluffer's Beach Park,42,NE,9,No,NA,NA,NA,None,None,NA
+14169,2024-07-09,Marie Curtis Park East Beach,13,NW,23,No,NA,22,NA,NONE,clear,0.55
+14170,2024-07-09,Sunnyside Beach,13,NW,23,No,NA,23,7,NONE,clear,0.56
+14171,2024-07-09,Hanlan's Point Beach,13,NW,23,No,NA,22,15,NONE,clear,NA
+14172,2024-07-09,Gibraltar Point Beach,13,NW,23,No,NA,22,11,NONE,clear,NA
+14173,2024-07-09,Centre Island Beach,13,NW,23,No,NA,22,54,NONE,clear,NA
+14174,2024-07-09,Ward's Island Beach,13,NW,23,No,NA,24,NA,NONE,clear,NA
+14175,2024-07-09,Cherry Beach,13,NW,23,No,NA,25,NA,NONE,clear,NA
+14176,2024-07-09,Woodbine Beaches,13,NW,23,No,NA,20,3,NONE,Cloudy ,NA
+14177,2024-07-09,Kew Balmy Beach,13,NW,23,No,NA,20,17,NONE,Cloudy ,NA
+14178,2024-07-09,Bluffer's Beach Park,13,NW,23,No,NA,17,4,NONE,Clear ,NA
+14179,2025-05-30,Marie Curtis Park East Beach,5,SW,10,Yes,0,11,5,None,Clear,2.71
+14180,2025-05-30,Sunnyside Beach,5,SW,10,Yes,0,12,42,None,Clear,0.98
+14181,2025-05-30,Hanlan's Point Beach,5,SW,10,Yes,0,12,NA,NONE,Clear,NA
+14182,2025-05-30,Gibraltar Point Beach,5,SW,10,Yes,0,10,NA,NONE,Clear,NA
+14183,2025-05-30,Centre Island Beach,5,SW,10,Yes,0,11,2,NONE,Clear,NA
+14184,2025-05-30,Ward's Island Beach,5,SW,10,Yes,0,10,NA,NONE,Clear,NA
+14185,2025-05-30,Cherry Beach,16,W,14,Yes,0,9,NA,NONE,Clear,NA
+14186,2025-05-30,Woodbine Beaches,16,W,14,Yes,0,13,1,NONE,Clear,NA
+14187,2025-05-30,Kew Balmy Beach,16,W,14,Yes,0,12,116,NONE,Cloudy,NA
+14188,2025-05-30,Bluffer's Beach Park,16,W,14,Yes,0,12,17,NONE,Clear,NA
+14259,2023-08-25,Marie Curtis Park East Beach,5,N,19,Yes,9,13,3,LOW,Murky,1.3
+14260,2023-08-25,Sunnyside Beach,5,N,19,Yes,9,14,3,NONE,Murky,0.99
+14261,2023-08-25,Hanlan's Point Beach,5,N,19,Yes,9,13,2,NONE,Debris,NA
+14262,2023-08-25,Gibraltar Point Beach,5,N,19,Yes,9,13,2,NONE,Debris,NA
+14263,2023-08-25,Centre Island Beach,5,N,19,Yes,9,13,10,LOW,Debris,NA
+14264,2023-08-25,Ward's Island Beach,5,N,19,Yes,9,14,5,NONE,Debris,NA
+14265,2023-08-25,Cherry Beach,5,NW,19,Yes,9,14,5,NONE,Debris,NA
+14266,2023-08-25,Woodbine Beaches,5,NW,19,Yes,9,12,14,MOD,Cloudy,NA
+14267,2023-08-25,Kew Balmy Beach,5,NW,19,Yes,9,10,38,LOW,Cloudy,NA
+14268,2023-08-25,Bluffer's Beach Park,5,NW,19,Yes,9,14,5,LOW,Cloudy,NA
+14319,2025-06-09,Marie Curtis Park East Beach,8,S,17,Yes,NA,12,20,LOW,Algae,1.58
+14320,2025-06-09,Sunnyside Beach,8,S,17,Yes,NA,12,6,NONE,Algae,0.96
+14321,2025-06-09,Hanlan's Point Beach,8,S,17,Yes,NA,14,12,NONE,Cloudy,NA
+14322,2025-06-09,Gibraltar Point Beach,8,S,17,Yes,NA,13,34,NONE,Cloudy,NA
+14323,2025-06-09,Centre Island Beach,8,S,17,Yes,NA,13,56,NONE,Murky,NA
+14324,2025-06-09,Ward's Island Beach,8,S,17,Yes,NA,13,4,NONE,Murky,NA
+14325,2025-06-09,Cherry Beach,8,S,17,Yes,NA,14,4,NONE,Murky,NA
+14326,2025-06-09,Woodbine Beaches,8,S,17,Yes,NA,11,2,LOW,Clear,NA
+14327,2025-06-09,Kew Balmy Beach,8,S,17,Yes,NA,11,16,LOW,Clear,NA
+14328,2025-06-09,Bluffer's Beach Park,8,S,17,Yes,NA,13,NA,MOD,Murky,NA
+14369,2023-06-16,Marie Curtis Park East Beach,11,NW,15,Yes,1,16,NA,NONE,Murky,3.91
+14370,2023-06-16,Sunnyside Beach,11,NW,15,Yes,1,16,3,NONE,Clear,1.14
+14371,2023-06-16,Hanlan's Point Beach,11,NW,15,Yes,1,15,NA,NONE,Clear,NA
+14372,2023-06-16,Gibraltar Point Beach,11,NW,15,Yes,1,16,NA,NONE,Clear,NA
+14373,2023-06-16,Centre Island Beach,11,NW,15,Yes,1,15,NA,NONE,Clear,NA
+14374,2023-06-16,Ward's Island Beach,11,NW,15,Yes,1,13,NA,NONE,Clear,NA
+14375,2023-06-16,Cherry Beach,11,NW,15,Yes,1,14,6,NONE,Clear,NA
+14376,2023-06-16,Woodbine Beaches,11,NW,15,Yes,1,13,9,NONE,clear,NA
+14377,2023-06-16,Kew Balmy Beach,11,NW,15,Yes,1,14,31,NONE,clear,NA
+14378,2023-06-16,Bluffer's Beach Park,11,NW,15,Yes,1,13,1,NONE,clear,NA
+14379,2024-08-07,Marie Curtis Park East Beach,9,N,18,Yes,0,NA,NA,None,None,NA
+14380,2024-08-07,Sunnyside Beach,9,N,18,Yes,0,NA,NA,None,None,NA
+14381,2024-08-07,Hanlan's Point Beach,9,N,18,Yes,0,19,NA,MOD,Cloudy,NA
+14382,2024-08-07,Gibraltar Point Beach,9,N,18,Yes,0,20,NA,HIGH,Cloudy,NA
+14383,2024-08-07,Centre Island Beach,9,N,18,Yes,0,22,NA,HIGH,Clear,NA
+14384,2024-08-07,Ward's Island Beach,9,N,18,Yes,0,22,NA,NONE,Clear ,NA
+14385,2024-08-07,Cherry Beach,9,N,18,Yes,0,23,NA,NONE,Clear ,NA
+14386,2024-08-07,Woodbine Beaches,9,N,18,Yes,0,21,NA,MOD,Murky,NA
+14387,2024-08-07,Kew Balmy Beach,9,N,18,Yes,0,21,NA,MOD,Algae,NA
+14388,2024-08-07,Bluffer's Beach Park,9,N,18,Yes,0,19,3,HIGH,Murky ,NA
+14389,2024-09-05,Marie Curtis Park East Beach,NA,N,18,No,NA,NA,NA,None,None,NA
+14390,2024-09-05,Sunnyside Beach,NA,N,18,No,NA,20,13,NONE,clear,0.71
+14391,2024-09-05,Hanlan's Point Beach,NA,N,18,No,NA,NA,NA,None,None,NA
+14392,2024-09-05,Gibraltar Point Beach,NA,N,18,No,NA,NA,NA,None,None,NA
+14393,2024-09-05,Centre Island Beach,NA,N,18,No,NA,NA,NA,None,None,NA
+14394,2024-09-05,Ward's Island Beach,NA,N,18,No,NA,NA,NA,None,None,NA
+14395,2024-09-05,Cherry Beach,NA,N,16,No,NA,22,NA,NONE,Clear,NA
+14396,2024-09-05,Woodbine Beaches,NA,N,16,No,NA,18,NA,LOW,None,NA
+14397,2024-09-05,Kew Balmy Beach,NA,N,16,No,NA,NA,NA,None,None,NA
+14398,2024-09-05,Bluffer's Beach Park,NA,N,16,No,NA,NA,NA,None,None,NA
+14399,2025-06-08,Marie Curtis Park East Beach,20,E,14,No,NA,12,21,LOW,Cloudy,0.47
+14400,2025-06-08,Sunnyside Beach,20,E,14,No,NA,12,5,NONE,Cloudy,1.1
+14401,2025-06-08,Hanlan's Point Beach,20,E,14,No,NA,11,31,NONE,Clear,NA
+14402,2025-06-08,Gibraltar Point Beach,20,E,14,No,NA,14,NA,NONE,Cloudy,NA
+14403,2025-06-08,Centre Island Beach,20,E,14,No,NA,14,17,NONE,Cloudy,NA
+14404,2025-06-08,Ward's Island Beach,20,E,14,No,NA,14,NA,NONE,Cloudy,NA
+14405,2025-06-08,Cherry Beach,20,N,14,No,NA,16,NA,NONE,Cloudy,NA
+14406,2025-06-08,Woodbine Beaches,20,N,14,No,NA,11,NA,NONE,Clear,NA
+14407,2025-06-08,Kew Balmy Beach,20,N,14,No,NA,11,NA,NONE,Clear/algae at shore,NA
+14408,2025-06-08,Bluffer's Beach Park,20,N,14,No,NA,12,4,NONE,Clear,NA
+14429,2023-08-07,Marie Curtis Park East Beach,4,NE,21,Yes,3,20,12,MOD,Cloudy,12.7
+14430,2023-08-07,Sunnyside Beach,4,NE,21,Yes,3,20,10,NONE,Clear,NA
+14431,2023-08-07,Hanlan's Point Beach,4,NE,21,Yes,3,19,2,LOW,Cloudy,NA
+14432,2023-08-07,Gibraltar Point Beach,4,NE,21,Yes,3,NA,NA,None,None,NA
+14433,2023-08-07,Centre Island Beach,4,NE,21,Yes,3,NA,NA,None,None,NA
+14434,2023-08-07,Ward's Island Beach,4,NE,21,Yes,3,20,2,LOW,Cloudy,NA
+14435,2023-08-07,Cherry Beach,4,NE,21,Yes,3,19,NA,LOW,Cloudy,NA
+14436,2023-08-07,Woodbine Beaches,4,NE,21,Yes,3,18,5,HIGH,Cloudy with lots of algae,NA
+14437,2023-08-07,Kew Balmy Beach,4,NE,21,Yes,3,18,39,HIGH,Cloudy with lots of algae,NA
+14438,2023-08-07,Bluffer's Beach Park,4,NE,21,Yes,3,16,2,HIGH,Murky,NA
+14439,2024-07-30,Marie Curtis Park East Beach,15,NE,24,No,NA,24,NA,NONE,clear,1.89
+14440,2024-07-30,Sunnyside Beach,15,NE,24,No,NA,24,NA,NONE,clear,0.57
+14441,2024-07-30,Hanlan's Point Beach,15,NE,24,No,NA,22,NA,NONE,clear,NA
+14442,2024-07-30,Gibraltar Point Beach,15,NE,24,No,NA,23,NA,NONE,clear,NA
+14443,2024-07-30,Centre Island Beach,15,NE,24,No,NA,24,NA,NONE,clear,NA
+14444,2024-07-30,Ward's Island Beach,15,NE,24,No,NA,24,NA,NONE,clear,NA
+14445,2024-07-30,Cherry Beach,15,NE,24,No,NA,26,NA,NONE,clear,NA
+14446,2024-07-30,Woodbine Beaches,15,NE,24,No,NA,22,2,LOW,cloudy,NA
+14447,2024-07-30,Kew Balmy Beach,15,NE,24,No,NA,22,11,LOW,cloudy,NA
+14448,2024-07-30,Bluffer's Beach Park,15,NE,24,No,NA,21,3,LOW,cloudy,NA
+14509,2023-06-06,Marie Curtis Park East Beach,18,N,17,No,NA,17,NA,NONE,Clear,0.74
+14510,2023-06-06,Sunnyside Beach,18,N,17,No,NA,18,NA,NONE,Murky,0.84
+14511,2023-06-06,Hanlan's Point Beach,18,N,17,No,NA,18,2,LOW,Clear,NA
+14512,2023-06-06,Gibraltar Point Beach,18,N,17,No,NA,16,3,NONE,Clear,NA
+14513,2023-06-06,Centre Island Beach,18,N,17,No,NA,17,7,NONE,Clear,NA
+14514,2023-06-06,Ward's Island Beach,18,N,17,No,NA,17,NA,NONE,Cloudy,NA
+14515,2023-06-06,Cherry Beach,18,N,17,No,NA,16,NA,NONE,Clear,NA
+14516,2023-06-06,Woodbine Beaches,18,N,17,No,NA,13,13,NONE,Clear,NA
+14517,2023-06-06,Kew Balmy Beach,18,N,17,No,NA,14,31,NONE,Clear,NA
+14518,2023-06-06,Bluffer's Beach Park,18,N,17,No,NA,13,5,NONE,Murky,NA
+14519,2025-06-10,Marie Curtis Park East Beach,20,W,14,Yes,0,14,NA,MOD,Murky,2.44
+14520,2025-06-10,Sunnyside Beach,20,W,14,Yes,0,13,NA,LOW,Murky,1.05
+14521,2025-06-10,Hanlan's Point Beach,20,W,14,Yes,0,12,2,MOD,Clear,NA
+14522,2025-06-10,Gibraltar Point Beach,20,W,14,Yes,0,12,3,LOW,Clear,NA
+14523,2025-06-10,Centre Island Beach,20,W,14,Yes,0,13,23,NONE,Clear,NA
+14524,2025-06-10,Ward's Island Beach,20,W,14,Yes,0,12,NA,LOW,Clear,NA
+14525,2025-06-10,Cherry Beach,20,W,14,Yes,0,12,NA,LOW,Clear,NA
+14526,2025-06-10,Woodbine Beaches,20,W,14,Yes,0,12,4,LOW,Cloudy,NA
+14527,2025-06-10,Kew Balmy Beach,20,W,14,Yes,0,13,8,MOD,Cloudy,NA
+14528,2025-06-10,Bluffer's Beach Park,20,W,14,Yes,0,11,36,LOW,Cloudy,NA
+14559,2023-07-01,Marie Curtis Park East Beach,11,E,20,Yes,0,22,NA,NONE,clear,1.75
+14560,2023-07-01,Sunnyside Beach,11,E,20,Yes,0,22,NA,NONE,clear,0.7
+14561,2023-07-01,Hanlan's Point Beach,11,E,20,Yes,0,21,NA,NONE,clear,NA
+14562,2023-07-01,Gibraltar Point Beach,11,E,20,Yes,0,21,NA,NONE,clear,NA
+14563,2023-07-01,Centre Island Beach,11,E,20,Yes,0,21,4,NONE,clear,NA
+14564,2023-07-01,Ward's Island Beach,11,E,20,Yes,0,21,NA,NONE,clear,NA
+14565,2023-07-01,Cherry Beach,11,E,20,Yes,0,22,NA,NONE,clear,NA
+14566,2023-07-01,Woodbine Beaches,11,E,20,Yes,0,19,NA,NONE,clear,NA
+14567,2023-07-01,Kew Balmy Beach,11,E,20,Yes,0,19,47,NONE,clear,NA
+14568,2023-07-01,Bluffer's Beach Park,11,E,20,Yes,0,22,8,NONE,cloudy,NA
+14569,2023-07-02,Marie Curtis Park East Beach,13,E,22,Yes,NA,21,NA,NONE,clear,3.74
+14570,2023-07-02,Sunnyside Beach,13,E,22,Yes,NA,22,NA,NONE,cloudy,0.63
+14571,2023-07-02,Hanlan's Point Beach,13,E,22,Yes,NA,22,28,NONE,clear,NA
+14572,2023-07-02,Gibraltar Point Beach,13,E,22,Yes,NA,22,6,NONE,clear,NA
+14573,2023-07-02,Centre Island Beach,13,E,22,Yes,NA,22,NA,NONE,clear,NA
+14574,2023-07-02,Ward's Island Beach,13,E,22,Yes,NA,23,NA,NONE,clear,NA
+14575,2023-07-02,Cherry Beach,13,E,22,Yes,NA,24,5,NONE,clear,NA
+14576,2023-07-02,Woodbine Beaches,13,E,22,Yes,NA,17,11,LOW,clear,NA
+14577,2023-07-02,Kew Balmy Beach,13,E,22,Yes,NA,17,18,NONE,clear,NA
+14578,2023-07-02,Bluffer's Beach Park,13,E,22,Yes,NA,21,NA,NONE,cloudy,NA
+14579,2023-07-03,Marie Curtis Park East Beach,13,E,20,Yes,1,23,NA,NONE,clear,1.16
+14580,2023-07-03,Sunnyside Beach,13,E,20,Yes,1,23,18,NONE,clear,0.53
+14581,2023-07-03,Hanlan's Point Beach,13,E,20,Yes,1,19,7,NONE,clear,NA
+14582,2023-07-03,Gibraltar Point Beach,13,E,20,Yes,1,20,8,NONE,clear,NA
+14583,2023-07-03,Centre Island Beach,13,E,20,Yes,1,21,24,NONE,clear,NA
+14584,2023-07-03,Ward's Island Beach,13,E,20,Yes,1,20,6,NONE,clear,NA
+14585,2023-07-03,Cherry Beach,13,E,20,Yes,1,20,11,NONE,clear,NA
+14586,2023-07-03,Woodbine Beaches,13,E,20,Yes,1,17,18,LOW,clear,NA
+14587,2023-07-03,Kew Balmy Beach,13,E,20,Yes,1,17,43,LOW,clear,NA
+14588,2023-07-03,Bluffer's Beach Park,13,E,20,Yes,1,21,1,NONE,"cloudy, algae",NA
+14589,2023-07-04,Marie Curtis Park East Beach,11,W,21,Yes,4,23,NA,NONE,cloudy,1.6
+14590,2023-07-04,Sunnyside Beach,11,W,21,Yes,4,23,5,NONE,clear,0.63
+14591,2023-07-04,Hanlan's Point Beach,11,W,21,Yes,4,20,7,NONE,clear,NA
+14592,2023-07-04,Gibraltar Point Beach,11,W,21,Yes,4,20,NA,NONE,clear,NA
+14593,2023-07-04,Centre Island Beach,11,W,21,Yes,4,21,3,NONE,clear,NA
+14594,2023-07-04,Ward's Island Beach,11,W,21,Yes,4,20,14,NONE,clear,NA
+14595,2023-07-04,Cherry Beach,11,W,21,Yes,4,20,26,NONE,clear,NA
+14596,2023-07-04,Woodbine Beaches,11,W,21,Yes,4,20,4,NONE,clear,NA
+14597,2023-07-04,Kew Balmy Beach,11,W,21,Yes,4,20,9,NONE,clear,NA
+14598,2023-07-04,Bluffer's Beach Park,11,W,21,Yes,4,22,5,NONE,murky,NA
+14599,2024-07-13,Marie Curtis Park East Beach,9,W,19,Yes,7,22,NA,NONE,Cloudy,0.8
+14600,2024-07-13,Sunnyside Beach,9,W,19,Yes,7,22,1,NONE,Clear ,0.8
+14601,2024-07-13,Hanlan's Point Beach,9,W,19,Yes,7,22,18,NONE,Clear,NA
+14602,2024-07-13,Gibraltar Point Beach,9,W,19,Yes,7,21,NA,NONE,Clear,NA
+14603,2024-07-13,Centre Island Beach,9,W,19,Yes,7,22,2,NONE,Murky ,NA
+14604,2024-07-13,Ward's Island Beach,9,W,19,Yes,7,23,NA,NONE,Clear ,NA
+14605,2024-07-13,Cherry Beach,9,W,19,Yes,7,23,1,NONE,Algae,NA
+14606,2024-07-13,Woodbine Beaches,9,W,19,Yes,7,22,15,NONE,Cloudy,NA
+14607,2024-07-13,Kew Balmy Beach,9,W,19,Yes,7,21,26,NONE,Cloudy ,NA
+14608,2024-07-13,Bluffer's Beach Park,9,W,19,Yes,7,20,2,NONE,Clear ,NA
+14609,2024-07-14,Marie Curtis Park East Beach,4,S,21,Yes,0,22,NA,NONE,Clear,1.2
+14610,2024-07-14,Sunnyside Beach,4,S,21,Yes,0,24,8,NONE,Clear ,0.91
+14611,2024-07-14,Hanlan's Point Beach,4,S,21,Yes,0,23,4,NONE,Clear,NA
+14612,2024-07-14,Gibraltar Point Beach,4,S,21,Yes,0,23,NA,NONE,Clear ,NA
+14613,2024-07-14,Centre Island Beach,4,S,21,Yes,0,23,8,NONE,Clear,NA
+14614,2024-07-14,Ward's Island Beach,4,S,21,Yes,0,24,6,NONE,Clear,NA
+14615,2024-07-14,Cherry Beach,4,N,21,No,0,26,5,NONE,Clear ,NA
+14616,2024-07-14,Woodbine Beaches,4,N,21,No,0,22,7,NONE,Clear,NA
+14617,2024-07-14,Kew Balmy Beach,4,N,21,No,0,21,27,NONE,Clear,NA
+14618,2024-07-14,Bluffer's Beach Park,4,N,21,No,0,20,NA,NONE,Clear ,NA
+14619,2024-08-22,Marie Curtis Park East Beach,15,NW,14,No,NA,18,7,NONE,Clear,1.33
+14620,2024-08-22,Sunnyside Beach,15,NW,14,No,NA,18,13,NONE,"Light debris, clear water",0.95
+14621,2024-08-22,Hanlan's Point Beach,15,NW,14,No,NA,19,4,NONE,clear,NA
+14622,2024-08-22,Gibraltar Point Beach,15,NW,14,No,NA,9,16,NONE,clear,NA
+14623,2024-08-22,Centre Island Beach,15,NW,14,No,NA,18,8,NONE,clear,NA
+14624,2024-08-22,Ward's Island Beach,15,NW,14,No,NA,18,1,NONE,clear,NA
+14625,2024-08-22,Cherry Beach,15,NW,14,No,NA,18,9,NONE,Clear,NA
+14626,2024-08-22,Woodbine Beaches,15,NW,14,No,NA,16,NA,NONE,Clear,NA
+14627,2024-08-22,Kew Balmy Beach,15,NW,14,No,NA,17,4,NONE,Clear,NA
+14628,2024-08-22,Bluffer's Beach Park,15,NW,14,No,NA,18,3,NONE,Clear,NA
+14729,2023-09-07,Marie Curtis Park East Beach,13,W,21,Yes,1,NA,NA,None,None,NA
+14730,2023-09-07,Sunnyside Beach,13,W,21,Yes,1,NA,NA,None,None,NA
+14731,2023-09-07,Hanlan's Point Beach,13,W,21,Yes,1,NA,NA,None,None,NA
+14732,2023-09-07,Gibraltar Point Beach,13,W,21,Yes,1,NA,NA,None,None,NA
+14733,2023-09-07,Centre Island Beach,13,W,21,Yes,1,NA,NA,None,None,NA
+14734,2023-09-07,Ward's Island Beach,13,W,21,Yes,1,NA,NA,None,None,NA
+14735,2023-09-07,Cherry Beach,13,W,21,Yes,1,24,NA,NONE,Clear,NA
+14736,2023-09-07,Woodbine Beaches,13,W,21,Yes,1,16,NA,NONE,Clear,NA
+14737,2023-09-07,Kew Balmy Beach,13,W,21,Yes,1,16,NA,NONE,Clear,NA
+14738,2023-09-07,Bluffer's Beach Park,13,W,21,Yes,1,NA,NA,None,None,NA
+14739,2024-06-10,Marie Curtis Park East Beach,18,NW,13,Yes,3,8,NA,NONE,Clear,0.39
+14740,2024-06-10,Sunnyside Beach,18,NW,13,Yes,3,9,3,NONE,Clear,0.33
+14741,2024-06-10,Hanlan's Point Beach,18,NW,13,Yes,3,8,4,NONE,Clear,NA
+14742,2024-06-10,Gibraltar Point Beach,18,NW,13,Yes,3,8,NA,NONE,Clear,NA
+14743,2024-06-10,Centre Island Beach,18,NW,13,Yes,3,12,2,NONE,Clear,NA
+14744,2024-06-10,Ward's Island Beach,18,NW,13,Yes,3,12,NA,NONE,Clear,NA
+14745,2024-06-10,Cherry Beach,18,NW,13,Yes,3,15,3,NONE,Clear,NA
+14746,2024-06-10,Woodbine Beaches,18,NW,13,Yes,3,8,1,NONE,Clear,NA
+14747,2024-06-10,Kew Balmy Beach,18,NW,13,Yes,3,8,2,NONE,Clear,NA
+14748,2024-06-10,Bluffer's Beach Park,18,NW,13,Yes,3,5,10,NONE,Clear,NA
+14749,2023-09-06,Marie Curtis Park East Beach,4,E,21,No,NA,NA,NA,None,None,NA
+14750,2023-09-06,Sunnyside Beach,4,E,21,No,NA,NA,NA,None,None,NA
+14751,2023-09-06,Hanlan's Point Beach,4,E,21,No,NA,NA,NA,None,None,NA
+14752,2023-09-06,Gibraltar Point Beach,4,E,21,No,NA,NA,NA,None,None,NA
+14753,2023-09-06,Centre Island Beach,4,E,21,No,NA,NA,NA,None,None,NA
+14754,2023-09-06,Ward's Island Beach,4,E,21,No,NA,NA,NA,None,None,NA
+14755,2023-09-06,Cherry Beach,4,E,21,No,NA,19,NA,NONE,clear,NA
+14756,2023-09-06,Woodbine Beaches,4,E,21,No,NA,16,NA,NONE,clear,NA
+14757,2023-09-06,Kew Balmy Beach,4,E,21,No,NA,15,NA,NONE,clear,NA
+14758,2023-09-06,Bluffer's Beach Park,4,E,21,No,NA,NA,NA,None,None,NA
+14759,2023-09-08,Marie Curtis Park East Beach,8,NW,16,Yes,5,NA,NA,None,None,NA
+14760,2023-09-08,Sunnyside Beach,8,NW,16,Yes,5,NA,NA,None,None,NA
+14761,2023-09-08,Hanlan's Point Beach,8,NW,16,Yes,5,NA,NA,None,None,NA
+14762,2023-09-08,Gibraltar Point Beach,8,NW,16,Yes,5,NA,NA,None,None,NA
+14763,2023-09-08,Centre Island Beach,8,NW,16,Yes,5,NA,NA,None,None,NA
+14764,2023-09-08,Ward's Island Beach,8,NW,16,Yes,5,NA,NA,None,None,NA
+14765,2023-09-08,Cherry Beach,8,NW,16,Yes,5,21,16,NONE,clear,NA
+14766,2023-09-08,Woodbine Beaches,8,NW,16,Yes,5,13,11,NONE,clear,NA
+14767,2023-09-08,Kew Balmy Beach,8,NW,16,Yes,5,16,NA,NONE,clear,NA
+14768,2023-09-08,Bluffer's Beach Park,8,NW,16,Yes,5,NA,NA,None,None,NA
+14769,2024-06-01,Marie Curtis Park East Beach,4,S,13,No,NA,13,5,NONE,clear,1.38
+14770,2024-06-01,Sunnyside Beach,4,S,13,No,NA,15,15,NONE,clear,2.85
+14771,2024-06-01,Hanlan's Point Beach,4,S,13,No,NA,13,NA,NONE,clear,NA
+14772,2024-06-01,Gibraltar Point Beach,4,S,13,No,NA,14,NA,NONE,clear,NA
+14773,2024-06-01,Centre Island Beach,4,S,13,No,NA,14,8,NONE,clear,NA
+14774,2024-06-01,Ward's Island Beach,4,S,13,No,NA,15,NA,NONE,clear,NA
+14775,2024-06-01,Cherry Beach,4,S,13,No,NA,15,NA,NONE,clear,NA
+14776,2024-06-01,Woodbine Beaches,4,S,13,No,NA,10,NA,NONE,clear,NA
+14777,2024-06-01,Kew Balmy Beach,4,S,13,No,NA,10,NA,NONE,clear,NA
+14778,2024-06-01,Bluffer's Beach Park,4,S,13,No,NA,8,NA,NONE,clear,NA
+14871,2023-07-14,Marie Curtis Park East Beach,5,SW,17,Yes,30,21,NA,NONE,Murky,0.78
+14872,2023-07-14,Sunnyside Beach,5,SW,17,Yes,30,21,NA,NONE,"Very murky, with algae and debris",5.21
+14873,2023-07-14,Hanlan's Point Beach,5,SW,17,Yes,30,17,27,NONE,Clear with debris,NA
+14874,2023-07-14,Gibraltar Point Beach,5,SW,17,Yes,30,17,NA,NONE,Clear,NA
+14875,2023-07-14,Centre Island Beach,5,SW,17,Yes,30,19,2,NONE,Clear,NA
+14876,2023-07-14,Ward's Island Beach,5,SW,17,Yes,30,18,NA,NONE,Murky,NA
+14877,2023-07-14,Cherry Beach,5,SW,17,Yes,30,18,NA,NONE,Clear,NA
+14878,2023-07-14,Woodbine Beaches,5,SW,17,Yes,30,18,5,NONE,Clear,NA
+14879,2023-07-14,Kew Balmy Beach,5,SW,17,Yes,30,18,56,NONE,Clear,NA
+14880,2023-07-14,Bluffer's Beach Park,5,SW,17,Yes,30,20,NA,NONE,Clear,NA
+14881,2023-07-18,Marie Curtis Park East Beach,8,W,20,Yes,1,19,NA,NONE,clear,1.47
+14882,2023-07-18,Sunnyside Beach,8,W,20,Yes,1,21,7,NONE,clear,1.63
+14883,2023-07-18,Hanlan's Point Beach,8,W,20,Yes,1,17,3,NONE,"clear, algae",NA
+14884,2023-07-18,Gibraltar Point Beach,8,W,20,Yes,1,18,NA,NONE,"clear, algae",NA
+14885,2023-07-18,Centre Island Beach,8,W,20,Yes,1,19,4,NONE,"clear, algae",NA
+14886,2023-07-18,Ward's Island Beach,8,W,20,Yes,1,18,6,MOD,"clear, algae",NA
+14887,2023-07-18,Cherry Beach,8,W,20,Yes,1,18,2,NONE,cloudy,NA
+14888,2023-07-18,Woodbine Beaches,8,W,20,Yes,1,18,18,NONE,clear,NA
+14889,2023-07-18,Kew Balmy Beach,8,W,20,Yes,1,17,65,NONE,clear,NA
+14890,2023-07-18,Bluffer's Beach Park,8,W,20,Yes,1,14,5,NONE,clear,NA
+14891,2024-08-02,Marie Curtis Park East Beach,13,NE,24,Yes,0,NA,NA,NONE,Debris ,2.17
+14892,2024-08-02,Sunnyside Beach,13,NE,24,Yes,0,NA,NA,NONE,Debris ,0.76
+14893,2024-08-02,Hanlan's Point Beach,13,NE,24,Yes,0,25,3,NONE,Clear,NA
+14894,2024-08-02,Gibraltar Point Beach,13,NE,24,Yes,0,25,NA,NONE,Clear ,NA
+14895,2024-08-02,Centre Island Beach,13,NE,24,Yes,0,25,24,NONE,Clear,NA
+14896,2024-08-02,Ward's Island Beach,13,NE,24,Yes,0,26,NA,NONE,Cloudy ,NA
+14897,2024-08-02,Cherry Beach,13,NE,24,Yes,0,26,NA,NONE,Clear,NA
+14898,2024-08-02,Woodbine Beaches,13,NE,24,Yes,0,23,NA,NONE,Clear,NA
+14899,2024-08-02,Kew Balmy Beach,13,NE,24,Yes,0,22,NA,NONE,Clear,NA
+14900,2024-08-02,Bluffer's Beach Park,13,NE,24,Yes,0,24,8,LOW,Clear ,NA
+14901,2024-09-07,Marie Curtis Park East Beach,15,W,13,Yes,3,NA,NA,None,None,NA
+14902,2024-09-07,Sunnyside Beach,15,W,13,Yes,3,19,32,NONE,clear,0.77
+14903,2024-09-07,Hanlan's Point Beach,15,W,13,Yes,3,NA,NA,None,None,NA
+14904,2024-09-07,Gibraltar Point Beach,15,W,13,Yes,3,NA,NA,None,None,NA
+14905,2024-09-07,Centre Island Beach,15,W,13,Yes,3,NA,NA,None,None,NA
+14906,2024-09-07,Ward's Island Beach,15,W,13,Yes,3,NA,NA,None,None,NA
+14907,2024-09-07,Cherry Beach,15,W,13,Yes,3,21,7,NONE,clear,NA
+14928,2023-05-25,Marie Curtis Park East Beach,18,NE,6,No,NA,11,NA,HIGH,clear,2.47
+14929,2023-05-25,Sunnyside Beach,18,NE,6,No,NA,10,13,NONE,murky,1.26
+14930,2023-05-25,Hanlan's Point Beach,18,NE,6,No,NA,8,NA,NONE,clear,NA
+14931,2023-05-25,Gibraltar Point Beach,18,NE,6,No,NA,NA,NA,HIGH,None,NA
+14932,2023-05-25,Centre Island Beach,18,NE,6,No,NA,10,NA,MOD,clear,NA
+14933,2023-05-25,Ward's Island Beach,18,NE,6,No,NA,10,NA,NONE,murky,NA
+14934,2023-05-25,Cherry Beach,18,NE,6,No,NA,9,NA,NONE,clear,NA
+14935,2023-05-25,Woodbine Beaches,18,NE,6,No,NA,10,1,MOD,cloudy,NA
+14936,2023-05-25,Kew Balmy Beach,18,NE,6,No,NA,9,3,MOD,cloudy,NA
+14937,2023-05-25,Bluffer's Beach Park,18,NE,6,No,NA,9,NA,MOD,murky,NA
+14938,2023-06-13,Marie Curtis Park East Beach,20,S,20,Yes,43,18,NA,MOD,"Murky, debris",9.86
+14939,2023-06-13,Sunnyside Beach,20,S,20,Yes,43,15,18,MOD,Murky,1.26
+14940,2023-06-13,Hanlan's Point Beach,20,S,20,Yes,43,17,NA,MOD,Murky,NA
+14941,2023-06-13,Gibraltar Point Beach,20,S,20,Yes,43,17,NA,MOD,Murky,NA
+14942,2023-06-13,Centre Island Beach,20,S,20,Yes,43,17,NA,MOD,Murky,NA
+14943,2023-06-13,Ward's Island Beach,20,S,20,Yes,43,12,NA,MOD,Murky,NA
+14944,2023-06-13,Cherry Beach,20,S,20,Yes,43,17,NA,MOD,Murky,NA
+14945,2023-06-13,Woodbine Beaches,20,S,20,Yes,43,15,53,LOW,Cloudy,NA
+14946,2023-06-13,Kew Balmy Beach,20,S,20,Yes,43,16,3,LOW,Cloudy,NA
+14947,2023-06-13,Bluffer's Beach Park,20,S,20,Yes,43,16,1,LOW,Clear,NA
+14948,2023-08-22,Marie Curtis Park East Beach,17,N,17,No,NA,13,24,NONE,Clear,2.23
+14949,2023-08-22,Sunnyside Beach,17,N,17,No,NA,13,27,NONE,Clear,0.46
+14950,2023-08-22,Hanlan's Point Beach,17,N,17,No,NA,9,NA,NONE,Clear,NA
+14951,2023-08-22,Gibraltar Point Beach,17,N,17,No,NA,13,1,NONE,Clear,NA
+14952,2023-08-22,Centre Island Beach,17,N,17,No,NA,13,14,NONE,Clear,NA
+14953,2023-08-22,Ward's Island Beach,17,N,17,No,NA,10,21,NONE,Clear,NA
+14954,2023-08-22,Cherry Beach,17,N,17,No,NA,14,17,NONE,Clear,NA
+14955,2023-08-22,Woodbine Beaches,17,N,17,No,NA,6,1,NONE,Clear,NA
+14956,2023-08-22,Kew Balmy Beach,17,N,17,No,NA,6,32,NONE,Clear,NA
+14957,2023-08-22,Bluffer's Beach Park,17,N,17,No,NA,10,NA,LOW,Clear,NA
+14988,2024-06-28,Marie Curtis Park East Beach,15,E,15,No,NA,14,NA,NONE,cloudy,NA
+14989,2024-06-28,Sunnyside Beach,15,E,15,No,NA,15,30,NONE,cloudy,NA
+14990,2024-06-28,Hanlan's Point Beach,15,E,15,No,NA,14,NA,NONE,clear,NA
+14991,2024-06-28,Gibraltar Point Beach,15,E,15,No,NA,15,NA,NONE,clear,NA
+14992,2024-06-28,Centre Island Beach,15,E,15,No,NA,17,7,NONE,clear,NA
+14993,2024-06-28,Ward's Island Beach,15,E,15,No,NA,17,NA,NONE,clear,NA
+14994,2024-06-28,Cherry Beach,15,E,15,No,NA,18,10,NONE,clear,NA
+14995,2024-06-28,Woodbine Beaches,15,E,15,No,NA,8,NA,NONE,"clear, algae",NA
+14996,2024-06-28,Kew Balmy Beach,15,E,15,No,NA,8,NA,NONE,clear,NA
+14997,2024-06-28,Bluffer's Beach Park,15,E,15,No,NA,11,8,NONE,clear,NA
+14998,2025-05-20,Marie Curtis Park East Beach,15,NE,6,Yes,0,9,3,NONE,Clear,0.4
+14999,2025-05-20,Sunnyside Beach,15,NE,6,Yes,0,10,5,NONE,Clear,0.46
+15000,2025-05-20,Hanlan's Point Beach,15,NE,6,Yes,0,8,5,NONE,Clear,NA
+15001,2025-05-20,Gibraltar Point Beach,15,NE,6,Yes,0,9,NA,LOW,Cloudy,NA
+15002,2025-05-20,Centre Island Beach,15,NE,6,Yes,0,10,9,NONE,Clear,NA
+15003,2025-05-20,Ward's Island Beach,15,NE,6,Yes,0,10,11,NONE,Cloudy,NA
+15004,2025-05-20,Cherry Beach,15,NE,6,Yes,0,10,1,NONE,Cloudy,NA
+15005,2025-05-20,Woodbine Beaches,15,NE,6,Yes,0,10,34,LOW,Clear,NA
+15006,2025-05-20,Kew Balmy Beach,15,NE,6,Yes,0,8,80,NONE,Clear,NA
+15007,2025-05-20,Bluffer's Beach Park,15,NE,6,Yes,0,10,200,LOW,Murky debris,NA
+15028,2023-06-04,Marie Curtis Park East Beach,28,NE,15,No,NA,18,NA,NONE,cloudy,13.8
+15029,2023-06-04,Sunnyside Beach,28,NE,15,No,NA,16,NA,MOD,cloudy,0.72
+15030,2023-06-04,Hanlan's Point Beach,28,NE,15,No,NA,17,NA,NONE,cloudy,NA
+15031,2023-06-04,Gibraltar Point Beach,28,NE,15,No,NA,16,NA,MOD,cloudy,NA
+15032,2023-06-04,Centre Island Beach,28,NE,15,No,NA,18,NA,MOD,cloudy,NA
+15033,2023-06-04,Ward's Island Beach,28,NE,15,No,NA,18,NA,NONE,cloudy,NA
+15034,2023-06-04,Cherry Beach,28,NE,15,No,NA,17,NA,NONE,clear,NA
+15035,2023-06-04,Woodbine Beaches,28,NE,15,No,NA,12,53,MOD,murky,NA
+15036,2023-06-04,Kew Balmy Beach,28,NE,15,No,NA,12,47,MOD,murky,NA
+15037,2023-06-04,Bluffer's Beach Park,28,NE,15,No,NA,16,6,MOD,"Debris,Murky",NA
+15038,2023-06-20,Marie Curtis Park East Beach,41,NE,19,No,NA,17,NA,HIGH,Murky,9.2
+15039,2023-06-20,Sunnyside Beach,41,NE,19,No,NA,17,3,LOW,Clear,0.88
+15040,2023-06-20,Hanlan's Point Beach,41,NE,19,No,NA,16,NA,LOW,Clear/pollen,NA
+15041,2023-06-20,Gibraltar Point Beach,41,NE,19,No,NA,NA,NA,None,None,NA
+15042,2023-06-20,Centre Island Beach,41,NE,19,No,NA,16,2,HIGH,Cloudy/pollen,NA
+15043,2023-06-20,Ward's Island Beach,41,NE,19,No,NA,17,NA,LOW,Cloudy,NA
+15044,2023-06-20,Cherry Beach,41,NE,19,No,NA,17,6,MOD,Cloudy/pollen/yellow stuff,NA
+15045,2023-06-20,Woodbine Beaches,41,NE,19,No,NA,16,NA,MOD,Cloudy,NA
+15046,2023-06-20,Kew Balmy Beach,41,NE,19,No,NA,16,NA,MOD,Cloudy,NA
+15047,2023-06-20,Bluffer's Beach Park,41,NE,19,No,NA,16,3,MOD,Murky,NA
+15048,2024-09-01,Marie Curtis Park East Beach,18,SW,20,Yes,6,22,NA,MOD,murky,1.2
+15049,2024-09-01,Sunnyside Beach,18,SW,20,Yes,6,22,12,NONE,Murky,1.22
+15050,2024-09-01,Hanlan's Point Beach,18,SW,20,Yes,6,22,NA,MOD,Murky,NA
+15051,2024-09-01,Gibraltar Point Beach,18,SW,20,Yes,6,22,NA,MOD,Cloudy,NA
+15052,2024-09-01,Centre Island Beach,18,SW,20,Yes,6,22,33,NONE,Cloudy,NA
+15053,2024-09-01,Ward's Island Beach,18,SW,20,Yes,6,23,NA,MOD,Clear,NA
+15054,2024-09-01,Cherry Beach,18,SW,20,Yes,6,23,NA,LOW,Clear,NA
+15055,2024-09-01,Woodbine Beaches,18,SW,20,Yes,6,20,NA,LOW,Clear,NA
+15056,2024-09-01,Kew Balmy Beach,18,SW,20,Yes,6,20,7,LOW,Clear,NA
+15057,2024-09-01,Bluffer's Beach Park,18,SW,20,Yes,6,18,10,MOD,Clear,NA
+15058,2024-09-02,Marie Curtis Park East Beach,9,NW,13,No,NA,23,34,NONE,Clear,NA
+15059,2024-09-02,Sunnyside Beach,9,NW,13,No,NA,23,12,NONE,Clear,NA
+15060,2024-09-02,Hanlan's Point Beach,9,NW,13,No,NA,18,NA,NONE,Clear,NA
+15061,2024-09-02,Gibraltar Point Beach,9,NW,13,No,NA,21,NA,NONE,Clear,NA
+15062,2024-09-02,Centre Island Beach,9,NW,13,No,NA,21,60,NONE,Clear,NA
+15063,2024-09-02,Ward's Island Beach,9,NW,13,No,NA,21,3,NONE,Clear,NA
+15064,2024-09-02,Cherry Beach,9,NW,13,No,NA,20,9,NONE,Clear,NA
+15065,2024-09-02,Woodbine Beaches,9,NW,13,No,NA,20,3,NONE,Clear,NA
+15066,2024-09-02,Kew Balmy Beach,9,NW,13,No,NA,21,25,NONE,Clear,NA
+15067,2024-09-02,Bluffer's Beach Park,9,NW,13,No,NA,20,3,NONE,Clear,NA
+15068,2024-09-03,Marie Curtis Park East Beach,17,N,14,N/A,NA,NA,NA,None,None,NA
+15069,2024-09-03,Sunnyside Beach,17,N,14,N/A,NA,21,36,NONE,clear,7.73
+15070,2024-09-03,Hanlan's Point Beach,17,N,14,N/A,NA,NA,NA,None,None,NA
+15071,2024-09-03,Gibraltar Point Beach,17,N,14,N/A,NA,NA,NA,None,None,NA
+15072,2024-09-03,Centre Island Beach,17,N,14,N/A,NA,NA,NA,None,None,NA
+15073,2024-09-03,Ward's Island Beach,17,N,14,N/A,NA,NA,NA,None,None,NA
+15074,2024-09-03,Cherry Beach,17,N,14,No,NA,22,11,NONE,clear,NA
+15075,2024-09-03,Woodbine Beaches,17,N,14,No,NA,21,NA,NONE,clear,NA
+15076,2024-09-03,Kew Balmy Beach,17,N,14,No,NA,22,NA,NONE,clear,NA
+15077,2024-09-03,Bluffer's Beach Park,17,N,14,No,NA,NA,NA,None,None,NA
+15078,2025-05-27,Marie Curtis Park East Beach,6,N,12,No,NA,12,21,NONE,Clear,2.18
+15079,2025-05-27,Sunnyside Beach,6,N,12,No,NA,12,19,NONE,Murky,1
+15080,2025-05-27,Hanlan's Point Beach,6,N,12,No,NA,10,12,NONE,Clear,NA
+15081,2025-05-27,Gibraltar Point Beach,6,N,12,No,NA,10,11,NONE,Clear,NA
+15082,2025-05-27,Centre Island Beach,6,N,12,No,NA,10,6,NONE,Clear,NA
+15083,2025-05-27,Ward's Island Beach,6,N,12,No,NA,11,NA,NONE,Clear,NA
+15084,2025-05-27,Cherry Beach,11,N,12,No,NA,11,NA,NONE,Clear,NA
+15085,2025-05-27,Woodbine Beaches,11,N,12,No,NA,9,NA,NONE,None,NA
+15086,2025-05-27,Kew Balmy Beach,11,N,12,No,NA,9,NA,NONE,None,NA
+15087,2025-05-27,Bluffer's Beach Park,11,N,12,No,NA,9,53,NONE,Clear,NA
+15098,2023-07-28,Marie Curtis Park East Beach,11,SW,22,Yes,22,19,NA,NONE,Cloudy,1.82
+15099,2023-07-28,Sunnyside Beach,11,SW,22,Yes,22,21,11,NONE,Clear,1.06
+15100,2023-07-28,Hanlan's Point Beach,11,SW,22,Yes,22,22,NA,NONE,Clear,NA
+15101,2023-07-28,Gibraltar Point Beach,11,SW,22,Yes,22,22,NA,NONE,Clear,NA
+15102,2023-07-28,Centre Island Beach,11,SW,22,Yes,22,22,NA,NONE,Clear,NA
+15103,2023-07-28,Ward's Island Beach,11,SW,22,Yes,22,22,NA,NONE,Clear,NA
+15104,2023-07-28,Cherry Beach,11,SW,22,Yes,22,23,NA,NONE,Clear,NA
+15105,2023-07-28,Woodbine Beaches,11,SW,22,Yes,22,20,2,LOW,Clear,NA
+15106,2023-07-28,Kew Balmy Beach,11,SW,22,Yes,22,20,63,LOW,Clear with debris,NA
+15107,2023-07-28,Bluffer's Beach Park,11,SW,22,Yes,22,17,3,NONE,Murky,NA
+15108,2024-09-07,Woodbine Beaches,15,W,13,Yes,3,20,NA,NONE,CLEAR,NA
+15109,2024-09-07,Kew Balmy Beach,15,W,13,Yes,3,21,NA,NONE,CLEAR,NA
+15110,2024-09-07,Bluffer's Beach Park,15,W,13,Yes,3,NA,NA,None,None,NA
+15171,2024-07-25,Marie Curtis Park East Beach,13,NW,17,Yes,11,17,NA,NONE,Clear,0.96
+15172,2024-07-25,Sunnyside Beach,13,NW,17,Yes,11,21,7,NONE,Clear,0.8
+15173,2024-07-25,Hanlan's Point Beach,13,NW,17,Yes,11,17,NA,LOW,Cloudy,NA
+15174,2024-07-25,Gibraltar Point Beach,13,NW,17,Yes,11,20,NA,NONE,Cloudy,NA
+15175,2024-07-25,Centre Island Beach,13,NW,17,Yes,11,21,NA,NONE,Clear,NA
+15176,2024-07-25,Ward's Island Beach,13,NW,17,Yes,11,22,NA,NONE,Murky ,NA
+15177,2024-07-25,Cherry Beach,13,NW,17,Yes,11,24,NA,NONE,Clear,NA
+15178,2024-07-25,Woodbine Beaches,13,NW,17,Yes,11,18,NA,NONE,Clear ,NA
+15179,2024-07-25,Kew Balmy Beach,13,NW,17,Yes,11,18,NA,NONE,Clear,NA
+15180,2024-07-25,Bluffer's Beach Park,13,NW,17,Yes,11,17,15,NONE,Cloudy ,NA
+15181,2024-08-17,Marie Curtis Park East Beach,15,NE,21,Yes,4,22,7,LOW,Murky,0.95
+15182,2024-08-17,Sunnyside Beach,15,NE,21,Yes,4,22,2,NONE,Clear,0.62
+15183,2024-08-17,Hanlan's Point Beach,15,NE,21,Yes,4,22,3,NONE,Clear,NA
+15184,2024-08-17,Gibraltar Point Beach,15,NE,21,Yes,4,22,NA,NONE,Murky and cloudy,NA
+15185,2024-08-17,Centre Island Beach,15,NE,21,Yes,4,23,22,NONE,Clear,NA
+15186,2024-08-17,Ward's Island Beach,15,NE,21,Yes,4,23,NA,NONE,Clear,NA
+15187,2024-08-17,Cherry Beach,15,NE,21,Yes,4,22,5,NONE,Clear,NA
+15188,2024-08-17,Woodbine Beaches,15,NE,21,Yes,4,NA,5,NONE,Cloudy,NA
+15189,2024-08-17,Kew Balmy Beach,15,NE,21,Yes,4,NA,13,NONE,Cloudy,NA
+15190,2024-08-17,Bluffer's Beach Park,15,NE,21,Yes,4,17,7,LOW,Cloudy,NA
+15191,2024-08-18,Marie Curtis Park East Beach,17,SW,22,No,NA,22,NA,MOD,Debris,3.1
+15192,2024-08-18,Sunnyside Beach,17,SW,22,No,NA,23,29,NONE,Debris,1.5
+15193,2024-08-18,Hanlan's Point Beach,17,SW,22,No,NA,23,NA,LOW,Clear,NA
+15194,2024-08-18,Gibraltar Point Beach,17,SW,22,No,NA,23,NA,MOD,Clear,NA
+15195,2024-08-18,Centre Island Beach,17,SW,22,No,NA,23,NA,MOD,Clear,NA
+15196,2024-08-18,Ward's Island Beach,17,SW,22,No,NA,22,NA,MOD,Clear,NA
+15197,2024-08-18,Cherry Beach,17,SW,22,No,NA,22,NA,LOW,Clear,NA
+15198,2024-08-18,Woodbine Beaches,17,SW,22,No,NA,14,2,LOW,Cloudy,NA
+15199,2024-08-18,Kew Balmy Beach,17,SW,22,No,NA,14,NA,NONE,Algae,NA
+15200,2024-08-18,Bluffer's Beach Park,17,SW,22,No,NA,19,NA,LOW,Murky,NA
+15201,2024-08-19,Marie Curtis Park East Beach,21,NW,15,Yes,1,20,NA,NONE,Clear,2.28
+15202,2024-08-19,Sunnyside Beach,21,NW,15,Yes,1,20,NA,NONE,Clear,1.08
+15203,2024-08-19,Hanlan's Point Beach,21,NW,15,Yes,1,17,NA,NONE,Cloudy,NA
+15204,2024-08-19,Gibraltar Point Beach,21,NW,15,Yes,1,15,NA,NONE,Cloudy,NA
+15205,2024-08-19,Centre Island Beach,21,NW,15,Yes,1,19,NA,NONE,Cloudy,NA
+15206,2024-08-19,Ward's Island Beach,21,NW,15,Yes,1,20,NA,NONE,Clear,NA
+15207,2024-08-19,Cherry Beach,21,NW,15,Yes,1,21,NA,NONE,Clear,NA
+15208,2024-08-19,Woodbine Beaches,21,NW,15,Yes,1,14,NA,NONE,Clear,NA
+15209,2024-08-19,Kew Balmy Beach,21,NW,15,Yes,1,14,37,NONE,Clear,NA
+15210,2024-08-19,Bluffer's Beach Park,21,NW,15,Yes,1,17,2,LOW,Clear,NA
+15211,2024-08-20,Marie Curtis Park East Beach,13,NW,13,No,NA,16,14,LOW,Clear,2.56
+15212,2024-08-20,Sunnyside Beach,13,NW,13,No,NA,15,22,NONE,Algae,0.95
+15213,2024-08-20,Hanlan's Point Beach,13,NW,13,No,NA,18,NA,NONE,Clear,NA
+15214,2024-08-20,Gibraltar Point Beach,13,NW,13,No,NA,17,NA,NONE,Clear,NA
+15215,2024-08-20,Centre Island Beach,13,NW,13,No,NA,17,NA,NONE,Clear,NA
+15216,2024-08-20,Ward's Island Beach,13,NW,13,No,NA,18,NA,NONE,Murky,NA
+15217,2024-08-20,Cherry Beach,13,NW,13,No,NA,17,4,NONE,Clear,NA
+15218,2024-08-20,Woodbine Beaches,13,NW,13,No,NA,17,12,NONE,Clear,NA
+15219,2024-08-20,Kew Balmy Beach,13,NW,13,No,NA,18,NA,NONE,Clear,NA
+15220,2024-08-20,Bluffer's Beach Park,13,NW,13,No,NA,17,3,NONE,Clear,NA
+15221,2024-08-21,Marie Curtis Park East Beach,13,NW,12,No,NA,18,3,NONE,clear,1.12
+15222,2024-08-21,Sunnyside Beach,13,NW,12,No,NA,18,7,NONE,clear,0.6
+15223,2024-08-21,Hanlan's Point Beach,13,NW,12,No,NA,16,NA,NONE,clear,NA
+15224,2024-08-21,Gibraltar Point Beach,13,NW,12,No,NA,18,NA,NONE,clear,NA
+15225,2024-08-21,Centre Island Beach,13,NW,12,No,NA,19,105,NONE,clear,NA
+15226,2024-08-21,Ward's Island Beach,13,NW,12,No,NA,18,NA,NONE,clear,NA
+15227,2024-08-21,Cherry Beach,13,NW,12,No,NA,17,23,NONE,Clear,NA
+15228,2024-08-21,Woodbine Beaches,13,NW,12,No,NA,17,4,NONE,clear,NA
+15229,2024-08-21,Kew Balmy Beach,13,NW,12,No,NA,17,13,NONE,clear,NA
+15350,2023-08-30,Marie Curtis Park East Beach,21,W,17,Yes,2,20,NA,NONE,cloudy,1.19
+15351,2023-08-30,Sunnyside Beach,21,W,17,Yes,2,20,NA,NONE,cloudy,1.74
+15352,2023-08-30,Hanlan's Point Beach,21,W,17,Yes,2,18,4,LOW,murky,NA
+15353,2023-08-30,Gibraltar Point Beach,21,W,17,Yes,2,19,NA,MOD,cloudy,NA
+15354,2023-08-30,Centre Island Beach,21,W,17,Yes,2,19,6,NONE,clear,NA
+15355,2023-08-30,Ward's Island Beach,21,W,17,Yes,2,18,2,MOD,cloudy,NA
+15356,2023-08-30,Cherry Beach,21,W,17,Yes,2,17,2,LOW,cloudy,NA
+15357,2023-08-30,Woodbine Beaches,21,W,17,Yes,2,18,NA,NONE,Cloudy,NA
+15358,2023-08-30,Kew Balmy Beach,21,W,17,Yes,2,18,25,NONE,Cloudy,NA
+15359,2023-08-30,Bluffer's Beach Park,21,W,17,Yes,2,21,5,NONE,Clear,NA
+15400,2023-08-02,Marie Curtis Park East Beach,4,NW,17,No,NA,20,NA,NONE,Clear,NA
+15401,2023-08-02,Sunnyside Beach,4,NW,17,No,NA,20,NA,NONE,Clear,NA
+15402,2023-08-02,Hanlan's Point Beach,4,NW,17,No,NA,20,5,NONE,Clear,NA
+15403,2023-08-02,Gibraltar Point Beach,4,NW,17,No,NA,24,NA,NONE,Clear,NA
+15404,2023-08-02,Centre Island Beach,4,NW,17,No,NA,24,7,NONE,Clear,NA
+15405,2023-08-02,Ward's Island Beach,4,NW,17,No,NA,24,NA,NONE,Clear,NA
+15406,2023-08-02,Cherry Beach,4,NW,17,No,NA,22,4,LOW,Clear,NA
+15407,2023-08-02,Woodbine Beaches,4,NW,17,No,NA,20,NA,NONE,Clear,NA
+15408,2023-08-02,Kew Balmy Beach,4,NW,17,No,NA,20,89,NONE,Clear,NA
+15409,2023-08-02,Bluffer's Beach Park,4,NW,17,No,NA,19,13,NONE,Cloudy,NA
+15460,2024-08-21,Bluffer's Beach Park,13,NW,12,No,NA,16,3,NONE,clear,NA
+15501,2023-06-12,Marie Curtis Park East Beach,35,NE,15,Yes,6,NA,NA,None,None,NA
+15502,2023-06-12,Sunnyside Beach,35,NE,15,Yes,6,16,9,NONE,Cloudy ,1.03
+15503,2023-06-12,Hanlan's Point Beach,35,NE,15,Yes,6,NA,NA,None,None,NA
+15504,2023-06-12,Gibraltar Point Beach,35,NE,15,Yes,6,NA,NA,None,None,NA
+15505,2023-06-12,Centre Island Beach,35,NE,15,Yes,6,NA,NA,None,None,NA
+15506,2023-06-12,Ward's Island Beach,35,NE,15,Yes,6,16,NA,LOW,Cloudy,NA
+15507,2023-06-12,Cherry Beach,35,NE,15,Yes,6,15,NA,LOW,Murky,NA
+15508,2023-06-12,Woodbine Beaches,35,NE,15,Yes,6,14,NA,MOD,Murky,NA
+15509,2023-06-12,Kew Balmy Beach,35,NE,15,Yes,6,13,8,LOW,Murky,NA
+15510,2023-06-12,Bluffer's Beach Park,35,NE,15,Yes,6,16,NA,HIGH,Murky,NA
+15511,2023-08-17,Marie Curtis Park East Beach,5,E,19,No,NA,19,NA,MOD,slightly murky,1.03
+15512,2023-08-17,Sunnyside Beach,5,E,19,No,NA,20,53,NONE,clear,1.39
+15513,2023-08-17,Hanlan's Point Beach,5,E,19,No,NA,18,NA,MOD,clear,NA
+15514,2023-08-17,Gibraltar Point Beach,5,E,19,No,NA,18,NA,HIGH,clear,NA
+15515,2023-08-17,Centre Island Beach,5,E,19,No,NA,18,8,LOW,clear,NA
+15516,2023-08-17,Ward's Island Beach,5,E,19,No,NA,18,NA,MOD,clear,NA
+15517,2023-08-17,Cherry Beach,5,E,19,No,NA,19,NA,MOD,clear,NA
+15518,2023-08-17,Woodbine Beaches,5,E,19,No,NA,17,7,LOW,clear. algae ,NA
+15519,2023-08-17,Kew Balmy Beach,5,E,19,No,NA,17,14,LOW,clear,NA
+15520,2023-08-17,Bluffer's Beach Park,5,E,19,No,NA,16,14,LOW,clear,NA
+15561,2023-07-11,Marie Curtis Park East Beach,11,W,20,No,NA,19,NA,LOW,clear,0.8
+15562,2023-07-11,Sunnyside Beach,11,W,20,No,NA,21,5,LOW,clear,1.42
+15563,2023-07-11,Hanlan's Point Beach,11,W,20,No,NA,21,53,MOD,clear,NA
+15564,2023-07-11,Gibraltar Point Beach,11,W,20,No,NA,21,5,MOD,clear,NA
+15565,2023-07-11,Centre Island Beach,11,W,20,No,NA,21,130,MOD,clear,NA
+15566,2023-07-11,Ward's Island Beach,11,W,20,No,NA,22,2,MOD,clear,NA
+15567,2023-07-11,Cherry Beach,11,W,20,No,NA,23,NA,NONE,clear,NA
+15568,2023-07-11,Woodbine Beaches,11,W,20,No,NA,20,96,NONE,"clear, algae",NA
+15569,2023-07-11,Kew Balmy Beach,11,W,20,No,NA,20,27,NONE,"clear, algae",NA
+15570,2023-07-11,Bluffer's Beach Park,11,W,20,No,NA,18,NA,LOW,cloudy,NA
+15571,2023-08-31,Marie Curtis Park East Beach,9,N,14,No,NA,18,NA,NONE,clear,1.97
+15572,2023-08-31,Sunnyside Beach,9,N,14,No,NA,18,NA,NONE,cloudy,0.59
+15573,2023-08-31,Hanlan's Point Beach,9,N,14,No,NA,18,NA,NONE,clear,NA
+15574,2023-08-31,Gibraltar Point Beach,9,N,14,No,NA,18,NA,NONE,clear,NA
+15575,2023-08-31,Centre Island Beach,9,N,14,No,NA,18,NA,NONE,clear,NA
+15576,2023-08-31,Ward's Island Beach,9,N,14,No,NA,18,NA,NONE,clear,NA
+15577,2023-08-31,Cherry Beach,9,N,14,No,NA,19,14,NONE,clear,NA
+15578,2023-08-31,Woodbine Beaches,9,N,14,No,NA,17,4,NONE,clear,NA
+15579,2023-08-31,Kew Balmy Beach,9,N,14,No,NA,17,89,NONE,clear,NA
+15580,2023-08-31,Bluffer's Beach Park,9,N,14,No,NA,20,26,LOW,cloudy,NA
+15581,2024-05-24,Marie Curtis Park East Beach,18,NW,15,Yes,0,14,NA,NONE,clear,0.62
+15582,2024-05-24,Sunnyside Beach,18,NW,15,Yes,0,16,NA,NONE,clear,0.92
+15583,2024-05-24,Hanlan's Point Beach,18,NW,15,Yes,0,15,NA,NONE,clear,NA
+15584,2024-05-24,Gibraltar Point Beach,18,NW,15,Yes,0,15,NA,NONE,clear,NA
+15585,2024-05-24,Centre Island Beach,18,NW,15,Yes,0,15,2,NONE,clear,NA
+15586,2024-05-24,Ward's Island Beach,18,NW,15,Yes,0,16,NA,NONE,clear,NA
+15587,2024-05-24,Cherry Beach,18,NW,15,Yes,0,17,NA,NONE,cloudy,NA
+15588,2024-05-24,Woodbine Beaches,18,NW,15,Yes,0,14,2,NONE,clear,NA
+15589,2024-05-24,Kew Balmy Beach,18,NW,15,Yes,0,14,NA,NONE,clear,NA
+15590,2024-05-24,Bluffer's Beach Park,18,NW,15,Yes,0,13,18,NONE,clear,NA
+15591,2024-07-23,Marie Curtis Park East Beach,9,W,22,No,NA,20,NA,NONE,murky,0.78
+15592,2024-07-23,Sunnyside Beach,9,W,22,No,NA,20,20,NONE,debris,0.98
+15593,2024-07-23,Hanlan's Point Beach,9,W,22,No,NA,22,NA,NONE,clear,NA
+15594,2024-07-23,Gibraltar Point Beach,9,W,22,No,NA,22,11,NONE,clear,NA
+15595,2024-07-23,Centre Island Beach,9,W,22,No,NA,23,8,NONE,clear,NA
+15596,2024-07-23,Ward's Island Beach,9,W,22,No,NA,24,NA,NONE,cloudy,NA
+15597,2024-07-23,Cherry Beach,9,W,22,Yes,NA,24,NA,NONE,cloudy,NA
+15598,2024-07-23,Woodbine Beaches,9,W,22,Yes,NA,18,8,NONE,clear,NA
+15599,2024-07-23,Kew Balmy Beach,9,W,22,Yes,NA,19,37,NONE,cloudy/algae,NA
+15600,2024-07-23,Bluffer's Beach Park,9,W,22,Yes,NA,20,17,NONE,clear,NA
+15651,2023-05-30,Marie Curtis Park East Beach,35,NE,17,No,NA,12,2,NONE,murky,0.88
+15652,2023-05-30,Sunnyside Beach,35,NE,17,No,NA,12,4,NONE,clear,1.54
+15653,2023-05-30,Hanlan's Point Beach,35,NE,17,No,NA,11,2,NONE,clear,NA
+15654,2023-05-30,Gibraltar Point Beach,35,NE,17,No,NA,12,3,NONE,clear,NA
+15655,2023-05-30,Centre Island Beach,35,NE,17,No,NA,12,11,NONE,clear,NA
+15656,2023-05-30,Ward's Island Beach,35,NE,17,No,NA,12,1,NONE,clear,NA
+15657,2023-05-30,Cherry Beach,25,NE,17,No,NA,11,8,NONE,clear,NA
+15658,2023-05-30,Woodbine Beaches,25,NE,17,No,NA,12,20,NONE,clear,NA
+15659,2023-05-30,Kew Balmy Beach,25,NE,17,No,NA,12,30,NONE,clear,NA
+15660,2023-05-30,Bluffer's Beach Park,25,NE,17,No,NA,13,NA,LOW,cloudy,NA
+15661,2023-08-01,Marie Curtis Park East Beach,9,NW,16,No,NA,19,NA,NONE,Clear,1.23
+15662,2023-08-01,Sunnyside Beach,9,NW,16,No,NA,20,1,NONE,Clear,0.53
+15663,2023-08-01,Hanlan's Point Beach,9,NW,16,No,NA,20,NA,NONE,Clear ,NA
+15664,2023-08-01,Gibraltar Point Beach,9,NW,16,No,NA,20,NA,NONE,Clear,NA
+15665,2023-08-01,Centre Island Beach,9,NW,16,No,NA,19,19,NONE,Clear,NA
+15666,2023-08-01,Ward's Island Beach,9,NW,16,No,NA,20,3,NONE,Clear,NA
+15667,2023-08-01,Cherry Beach,9,NW,16,No,NA,21,NA,NONE,Clear,NA
+15668,2023-08-01,Woodbine Beaches,9,NW,16,No,NA,20,6,NONE,Clear,NA
+15669,2023-08-01,Kew Balmy Beach,9,NW,16,No,NA,20,64,NONE,Clear,NA
+15670,2023-08-01,Bluffer's Beach Park,9,NW,16,No,NA,19,5,NONE,Clear,NA
+15671,2024-07-04,Marie Curtis Park East Beach,9,W,19,No,NA,17,NA,NONE,debris,1.53
+15672,2024-07-04,Sunnyside Beach,9,W,19,No,NA,17,7,NONE,debris,1.17
+15673,2024-07-04,Hanlan's Point Beach,9,W,19,No,NA,17,3,NONE,debris,NA
+15674,2024-07-04,Gibraltar Point Beach,9,W,19,No,NA,18,4,NONE,clear,NA
+15675,2024-07-04,Centre Island Beach,9,W,19,No,NA,18,13,NONE,clear,NA
+15676,2024-07-04,Ward's Island Beach,9,W,19,No,NA,17,2,NONE,cloudy,NA
+15677,2024-07-04,Cherry Beach,9,W,19,No,NA,17,7,NONE,cloudy,NA
+15678,2024-07-04,Woodbine Beaches,9,W,19,No,NA,17,NA,NONE,clear,NA
+15679,2024-07-04,Kew Balmy Beach,9,W,19,No,NA,16,NA,NONE,clear,NA
+15680,2024-07-04,Bluffer's Beach Park,9,W,19,No,NA,16,NA,NONE,clear,NA
+15681,2024-09-06,Marie Curtis Park East Beach,18,SW,20,Yes,5,NA,NA,None,None,NA
+15682,2024-09-06,Sunnyside Beach,18,SW,20,Yes,5,18,34,NONE,Clear,2.77
+15683,2024-09-06,Hanlan's Point Beach,18,SW,20,Yes,5,NA,NA,None,None,NA
+15684,2024-09-06,Gibraltar Point Beach,18,SW,20,Yes,5,NA,NA,None,None,NA
+15685,2024-09-06,Centre Island Beach,18,SW,20,Yes,5,NA,NA,None,None,NA
+15686,2024-09-06,Ward's Island Beach,18,SW,20,Yes,5,NA,NA,None,None,NA
+15687,2024-09-06,Cherry Beach,18,SW,20,Yes,5,23,4,LOW,cloudy,NA
+15688,2024-09-06,Woodbine Beaches,18,SW,20,Yes,5,21,3,NONE,clear,NA
+15689,2024-09-06,Kew Balmy Beach,18,SW,20,Yes,5,20,15,NONE,clear,NA
+15690,2024-09-06,Bluffer's Beach Park,18,SW,20,Yes,5,NA,NA,None,None,NA
+15761,2024-07-26,Marie Curtis Park East Beach,11,W,17,No,NA,NA,NA,None,None,NA
+15762,2024-07-26,Sunnyside Beach,11,W,17,No,NA,NA,NA,None,None,NA
+15763,2024-07-26,Hanlan's Point Beach,11,W,17,No,NA,NA,NA,None,None,NA
+15764,2024-07-26,Gibraltar Point Beach,11,W,17,No,NA,NA,NA,None,None,NA
+15765,2024-07-26,Centre Island Beach,11,W,17,No,NA,NA,NA,None,None,NA
+15766,2024-07-26,Ward's Island Beach,11,W,17,No,NA,NA,NA,None,None,NA
+15767,2024-07-26,Cherry Beach,11,W,17,No,NA,NA,NA,None,None,NA
+15768,2024-07-26,Woodbine Beaches,11,W,17,No,NA,16,11,NONE,clear,NA
+15769,2024-07-26,Kew Balmy Beach,11,W,17,No,NA,17,73,NONE,clear,NA
+15770,2024-07-26,Bluffer's Beach Park,11,W,17,No,NA,17,NA,NONE,clear,NA
+15771,2024-07-29,Marie Curtis Park East Beach,4,SW,21,No,NA,22,41,NONE,murky,2.61
+15772,2024-07-29,Sunnyside Beach,4,SW,21,No,NA,23,8,NONE,murky,0.96
+15773,2024-07-29,Hanlan's Point Beach,4,SW,21,No,NA,23,2,NONE,clear,NA
+15774,2024-07-29,Gibraltar Point Beach,4,SW,21,No,NA,24,NA,NONE,clear,NA
+15775,2024-07-29,Centre Island Beach,4,SW,21,No,NA,23,6,NONE,clear,NA
+15776,2024-07-29,Ward's Island Beach,4,SW,21,No,NA,24,NA,NONE,cloudy,NA
+15777,2024-07-29,Cherry Beach,4,SW,21,No,NA,24,NA,NONE,clear,NA
+15778,2024-07-29,Woodbine Beaches,4,SW,21,No,NA,19,27,NONE,clear,NA
+15779,2024-07-29,Kew Balmy Beach,4,SW,21,No,NA,19,24,NONE,clear,NA
+15780,2024-07-29,Bluffer's Beach Park,4,SW,21,No,NA,21,NA,NONE,clear,NA
+15841,2023-06-27,Marie Curtis Park East Beach,4,SE,20,Yes,9,22,NA,NONE,Murky,2.89
+15842,2023-06-27,Sunnyside Beach,4,SE,20,Yes,9,21,18,NONE,Murky,3.06
+15843,2023-06-27,Hanlan's Point Beach,4,SE,20,Yes,9,20,NA,NONE,clear,NA
+15844,2023-06-27,Gibraltar Point Beach,4,SE,20,Yes,9,20,NA,LOW,clear,NA
+15845,2023-06-27,Centre Island Beach,4,SE,20,Yes,9,20,NA,LOW,clear,NA
+15846,2023-06-27,Ward's Island Beach,4,SE,20,Yes,9,20,NA,NONE,cloudy,NA
+15847,2023-06-27,Cherry Beach,4,SE,20,Yes,9,20,3,NONE,cloudy,NA
+15848,2023-06-27,Woodbine Beaches,4,SE,20,Yes,9,16,18,MOD,murky,NA
+15849,2023-06-27,Kew Balmy Beach,4,SE,20,Yes,9,16,61,LOW,clear,NA
+15850,2023-06-27,Bluffer's Beach Park,4,SE,20,Yes,9,21,2,LOW,cloudy,NA
+15851,2024-06-20,Marie Curtis Park East Beach,11,W,20,Yes,NA,16,NA,NONE,debris,4.7
+15852,2024-06-20,Sunnyside Beach,11,W,20,Yes,NA,19,15,NONE,cloudy,2.37
+15853,2024-06-20,Hanlan's Point Beach,11,W,20,Yes,NA,16,1,LOW,clear,NA
+15854,2024-06-20,Gibraltar Point Beach,11,W,20,Yes,NA,15,NA,LOW,clear,NA
+15855,2024-06-20,Centre Island Beach,11,W,20,Yes,NA,16,7,NONE,clear,NA
+15856,2024-06-20,Ward's Island Beach,11,W,20,Yes,NA,18,20,NONE,murky,NA
+15857,2024-06-20,Cherry Beach,11,W,20,Yes,NA,19,NA,NONE,murky,NA
+15858,2024-06-20,Woodbine Beaches,11,W,20,Yes,NA,14,NA,NONE,clear,NA
+15859,2024-06-20,Kew Balmy Beach,11,W,20,Yes,NA,16,22,NONE,clear,NA
+15860,2024-06-20,Bluffer's Beach Park,11,W,20,Yes,NA,11,5,NONE,clear,NA
+15881,2023-08-12,Marie Curtis Park East Beach,8,E,20,No,NA,20,NA,MOD,murky,1.97
+15882,2023-08-12,Sunnyside Beach,8,E,20,No,NA,20,19,LOW,clear,0.97
+15883,2023-08-12,Hanlan's Point Beach,8,E,20,No,NA,19,2,LOW,clear,NA
+15884,2023-08-12,Gibraltar Point Beach,8,E,20,No,NA,19,NA,MOD,cloudy,NA
+15885,2023-08-12,Centre Island Beach,8,E,20,No,NA,21,NA,MOD,murky,NA
+15886,2023-08-12,Ward's Island Beach,8,E,20,No,NA,20,1,LOW,cloudy,NA
+15887,2023-08-12,Cherry Beach,8,E,20,No,NA,22,NA,NONE,clear,NA
+15888,2023-08-12,Woodbine Beaches,8,E,20,No,NA,18,4,NONE,clear,NA
+15889,2023-08-12,Kew Balmy Beach,8,E,20,No,NA,18,73,NONE,clear,NA
+15890,2023-08-12,Bluffer's Beach Park,8,E,20,No,NA,14,NA,MOD,murky,NA
+15891,2023-08-13,Marie Curtis Park East Beach,9,W,18,Yes,0,16,7,NONE,Clear,0.57
+15892,2023-08-13,Sunnyside Beach,9,W,18,Yes,0,20,7,NONE,Clear,1.15
+15893,2023-08-13,Hanlan's Point Beach,9,W,18,Yes,0,17,15,NONE,Clear,NA
+15894,2023-08-13,Gibraltar Point Beach,9,W,18,Yes,0,18,NA,NONE,Clear,NA
+15895,2023-08-13,Centre Island Beach,9,W,18,Yes,0,18,NA,NONE,Clear,NA
+15896,2023-08-13,Ward's Island Beach,9,W,18,Yes,0,20,2,NONE,Clear,NA
+15897,2023-08-13,Cherry Beach,9,W,18,Yes,0,20,2,NONE,Clear,NA
+15898,2023-08-13,Woodbine Beaches,9,W,18,Yes,0,14,12,NONE,Clear,NA
+15899,2023-08-13,Kew Balmy Beach,9,W,18,Yes,0,15,69,NONE,Clear,NA
+15900,2023-08-13,Bluffer's Beach Park,9,W,18,Yes,0,16,4,NONE,Clear,NA
+15901,2023-08-14,Marie Curtis Park East Beach,11,W,17,No,NA,13,NA,NONE,Clear,0.34
+15902,2023-08-14,Sunnyside Beach,11,W,17,No,NA,16,7,NONE,Clear,0.81
+15903,2023-08-14,Hanlan's Point Beach,11,W,17,No,NA,16,NA,NONE,Clear,NA
+15904,2023-08-14,Gibraltar Point Beach,11,W,17,No,NA,17,NA,NONE,Clear,NA
+15905,2023-08-14,Centre Island Beach,11,W,17,No,NA,17,NA,NONE,Clear,NA
+15906,2023-08-14,Ward's Island Beach,11,W,17,No,NA,16,NA,NONE,Clear,NA
+15907,2023-08-14,Cherry Beach,11,W,17,No,NA,19,10,NONE,Clear,NA
+15908,2023-08-14,Woodbine Beaches,11,W,17,No,NA,14,4,NONE,Clear,NA
+15909,2023-08-14,Kew Balmy Beach,11,W,17,No,NA,14,23,NONE,Clear,NA
+15910,2023-08-14,Bluffer's Beach Park,11,W,17,No,NA,17,7,NONE,Clear,NA
+15911,2023-08-19,Marie Curtis Park East Beach,15,NW,15,No,NA,9,21,NONE,clear,0.45
+15912,2023-08-19,Sunnyside Beach,15,NW,15,No,NA,13,3,NONE,clear,1.06
+15913,2023-08-19,Hanlan's Point Beach,15,NW,15,No,NA,18,NA,LOW,clear,NA
+15914,2023-08-19,Gibraltar Point Beach,15,NW,15,No,NA,18,NA,LOW,clear,NA
+15915,2023-08-19,Centre Island Beach,15,NW,15,No,NA,18,12,NONE,clear,NA
+15916,2023-08-19,Ward's Island Beach,15,NW,15,No,NA,17,NA,LOW,clear,NA
+15917,2023-08-19,Cherry Beach,15,NW,15,No,NA,19,NA,NONE,clear,NA
+15918,2023-08-19,Woodbine Beaches,15,NW,15,No,NA,13,NA,NONE,clear,NA
+15919,2023-08-19,Kew Balmy Beach,15,NW,15,No,NA,13,48,NONE,clear,NA
+15920,2023-08-19,Bluffer's Beach Park,15,NW,15,No,NA,13,2,NONE,clear,NA
+15941,2023-05-26,Marie Curtis Park East Beach,9,NW,10,No,NA,11,17,NONE,Cloudy,3.3
+15942,2023-05-26,Sunnyside Beach,9,NW,10,No,NA,11,18,NONE,Clear,1.07
+15943,2023-05-26,Hanlan's Point Beach,9,NW,10,No,NA,10,15,None,Clear,NA
+15944,2023-05-26,Gibraltar Point Beach,9,NW,10,No,NA,11,NA,None,Clear,NA
+15945,2023-05-26,Centre Island Beach,9,NW,10,No,NA,12,20,None,Clear,NA
+15946,2023-05-26,Ward's Island Beach,9,NW,10,No,NA,10,10,None,Clear,NA
+15947,2023-05-26,Cherry Beach,9,NW,10,No,NA,10,10,None,Clear,NA
+15948,2023-05-26,Woodbine Beaches,9,NW,10,No,NA,8,7,NONE,Clear,NA
+15949,2023-05-26,Kew Balmy Beach,9,NW,10,No,NA,10,21,NONE,"Clear, algae",NA
+15950,2023-05-26,Bluffer's Beach Park,9,NW,10,No,NA,7,5,NONE,Cloudy,NA
+15961,2023-08-08,Marie Curtis Park East Beach,33,NW,18,Yes,6,20,NA,NONE,murky,5.18
+15962,2023-08-08,Sunnyside Beach,33,NW,18,Yes,6,20,8,NONE,clear,1.08
+15963,2023-08-08,Hanlan's Point Beach,33,NW,18,Yes,6,18,NA,HIGH,clear,NA
+15964,2023-08-08,Gibraltar Point Beach,33,NW,18,Yes,6,19,NA,MOD,clear,NA
+15965,2023-08-08,Centre Island Beach,33,NW,18,Yes,6,19,15,NONE,clear,NA
+15966,2023-08-08,Ward's Island Beach,33,NW,18,Yes,6,19,3,NONE,clear,NA
+15967,2023-08-08,Cherry Beach,33,NW,18,Yes,6,19,3,LOW,cloudy,NA
+15968,2023-08-08,Woodbine Beaches,33,NW,18,Yes,6,20,68,NONE,Cloudy,NA
+15969,2023-08-08,Kew Balmy Beach,33,NW,18,Yes,6,20,94,NONE,Cloudy,NA
+15970,2023-08-08,Bluffer's Beach Park,33,NW,18,Yes,6,21,21,NONE,Murky,NA
+15971,2024-05-27,Marie Curtis Park East Beach,4,SE,16,Yes,3,16,NA,LOW,Clear,4.22
+15972,2024-05-27,Sunnyside Beach,4,SE,16,Yes,3,16,5,NONE,Debris,1.07
+15973,2024-05-27,Hanlan's Point Beach,4,SE,16,Yes,3,14,NA,MOD,Clear,NA
+15974,2024-05-27,Gibraltar Point Beach,4,SE,16,Yes,3,14,NA,HIGH,Clear,NA
+15975,2024-05-27,Centre Island Beach,4,SE,16,Yes,3,14,3,NONE,Debris,NA
+15976,2024-05-27,Ward's Island Beach,4,SE,16,Yes,3,14,2,LOW,Clear,NA
+15977,2024-05-27,Cherry Beach,4,SE,16,Yes,3,13,4,LOW,murky,NA
+15978,2024-05-27,Woodbine Beaches,4,SE,16,Yes,3,14,47,LOW,cloudy,NA
+15979,2024-05-27,Kew Balmy Beach,4,SE,16,Yes,3,14,23,LOW,cloudy,NA
+15980,2024-05-27,Bluffer's Beach Park,4,SE,16,Yes,3,14,NA,MOD,cloudy/murky,NA
+15981,2024-07-11,Marie Curtis Park East Beach,13,N,19,Yes,47,20,3,NONE,Murky,7.97
+15982,2024-07-11,Sunnyside Beach,13,N,19,Yes,47,20,24,NONE,Murky,1.87
+15983,2024-07-11,Hanlan's Point Beach,13,N,19,Yes,47,22,NA,NONE,Murky,NA
+15984,2024-07-11,Gibraltar Point Beach,13,N,19,Yes,47,22,NA,HIGH,Cloudy,NA
+15985,2024-07-11,Centre Island Beach,13,N,19,Yes,47,22,24,LOW,Cloudy,NA
+15986,2024-07-11,Ward's Island Beach,13,N,19,Yes,47,21,NA,NONE,Cloudy ,NA
+15987,2024-07-11,Cherry Beach,13,N,19,Yes,47,25,11,NONE,Clear ,NA
+15988,2024-07-11,Woodbine Beaches,13,N,19,Yes,47,20,7,HIGH,Cloudy ,NA
+15989,2024-07-11,Kew Balmy Beach,13,N,19,Yes,47,20,31,HIGH,Cloudy ,NA
+15990,2024-07-11,Bluffer's Beach Park,13,N,19,Yes,47,19,NA,LOW,Murky,NA
+15991,2024-08-14,Marie Curtis Park East Beach,5,W,17,No,NA,22,NA,NONE,Clear,0.57
+15992,2024-08-14,Sunnyside Beach,5,W,17,No,NA,19,NA,NONE,Clear,0.51
+15993,2024-08-14,Hanlan's Point Beach,5,W,17,No,NA,19,NA,NONE,Clear,NA
+15994,2024-08-14,Gibraltar Point Beach,5,W,17,No,NA,20,NA,NONE,Clear,NA
+15995,2024-08-14,Centre Island Beach,5,W,17,No,NA,21,14,NONE,Clear,NA
+15996,2024-08-14,Ward's Island Beach,5,W,17,No,NA,22,7,NONE,Cloudy,NA
+15997,2024-08-14,Cherry Beach,5,W,17,No,NA,22,3,NONE,Murky,NA
+15998,2024-08-14,Woodbine Beaches,5,W,17,No,NA,14,17,NONE,Clear,NA
+15999,2024-08-14,Kew Balmy Beach,5,W,17,No,NA,15,63,NONE,Clear,NA
+16000,2024-08-14,Bluffer's Beach Park,5,W,17,No,NA,10,4,NONE,Clear,NA
+16011,2024-05-29,Marie Curtis Park East Beach,18,NE,15,Yes,12,13,4,NONE,Murky,2.31
+16012,2024-05-29,Sunnyside Beach,18,NE,15,Yes,12,15,10,NONE,clear,1.56
+16013,2024-05-29,Hanlan's Point Beach,18,NE,15,Yes,12,14,6,NONE,clear,NA
+16014,2024-05-29,Gibraltar Point Beach,18,NE,15,Yes,12,13,2,NONE,clear,NA
+16015,2024-05-29,Centre Island Beach,18,NE,15,Yes,12,15,2,NONE,clear,NA
+16016,2024-05-29,Ward's Island Beach,18,NE,15,Yes,12,15,NA,NONE,cloudy,NA
+16017,2024-05-29,Cherry Beach,18,NE,15,Yes,12,15,NA,NONE,cloudy,NA
+16018,2024-05-29,Woodbine Beaches,18,NE,15,Yes,12,16,10,LOW,clear,NA
+16019,2024-05-29,Kew Balmy Beach,18,NE,15,Yes,12,16,30,NONE,clear,NA
+16020,2024-05-29,Bluffer's Beach Park,18,NE,15,Yes,12,16,15,LOW,clear,NA
+16021,2024-06-25,Marie Curtis Park East Beach,4,SW,17,No,NA,10,4,NONE,clear,0.85
+16022,2024-06-25,Sunnyside Beach,4,SW,17,No,NA,15,7,NONE,debris,1.17
+16023,2024-06-25,Hanlan's Point Beach,4,SW,17,No,NA,17,NA,NONE,clear,NA
+16024,2024-06-25,Gibraltar Point Beach,4,SW,17,No,NA,17,NA,NONE,clear,NA
+16025,2024-06-25,Centre Island Beach,4,SW,17,No,NA,17,NA,NONE,clear,NA
+16026,2024-06-25,Ward's Island Beach,4,SW,17,No,NA,17,NA,NONE,clear,NA
+16027,2024-06-25,Cherry Beach,4,SW,17,No,NA,18,2,NONE,clear,NA
+16028,2024-06-25,Woodbine Beaches,4,SW,17,No,NA,15,NA,NONE,clear,NA
+16029,2024-06-25,Kew Balmy Beach,4,SW,17,No,NA,15,32,NONE,cloudy,NA
+16030,2024-06-25,Bluffer's Beach Park,4,SW,17,No,NA,13,102,NONE,clear,NA
+16031,2024-08-08,Marie Curtis Park East Beach,17,E,22,No,NA,22,NA,HIGH,murky,8.21
+16032,2024-08-08,Sunnyside Beach,17,E,22,No,NA,23,53,NONE,clear,0.82
+16033,2024-08-08,Hanlan's Point Beach,17,E,22,No,NA,22,NA,LOW,clear,NA
+16034,2024-08-08,Gibraltar Point Beach,17,E,22,No,NA,NA,NA,HIGH,None,NA
+16035,2024-08-08,Centre Island Beach,17,E,22,No,NA,NA,NA,HIGH,None,NA
+16036,2024-08-08,Ward's Island Beach,17,E,22,No,NA,23,NA,NONE,clear,NA
+16037,2024-08-08,Cherry Beach,17,E,22,No,NA,24,NA,NONE,clear,NA
+16038,2024-08-08,Woodbine Beaches,17,E,22,No,NA,23,NA,HIGH,cloudy,NA
+16039,2024-08-08,Kew Balmy Beach,17,E,22,No,NA,23,NA,HIGH,cloudy,NA
+16040,2024-08-08,Bluffer's Beach Park,17,E,22,No,NA,21,7,HIGH,murky,NA
+16161,2023-07-16,Marie Curtis Park East Beach,9,E,20,Yes,9,21,NA,NONE,Cloudy,1.95
+16162,2023-07-16,Sunnyside Beach,9,E,20,Yes,9,21,12,NONE,Murky,0.75
+16163,2023-07-16,Hanlan's Point Beach,9,E,20,Yes,9,20,1,LOW,Clear,NA
+16164,2023-07-16,Gibraltar Point Beach,9,E,20,Yes,9,20,NA,LOW,Clear,NA
+16165,2023-07-16,Centre Island Beach,9,E,20,Yes,9,20,7,NONE,Clear,NA
+16166,2023-07-16,Ward's Island Beach,9,E,20,Yes,9,20,1,LOW,Clear,NA
+16167,2023-07-16,Cherry Beach,9,E,20,Yes,9,20,5,LOW,Clear,NA
+16168,2023-07-16,Woodbine Beaches,9,E,20,Yes,9,18,4,NONE,Clear with algae,NA
+16169,2023-07-16,Kew Balmy Beach,9,E,20,Yes,9,18,99,NONE,Clear with algae,NA
+16170,2023-07-16,Bluffer's Beach Park,9,E,20,Yes,9,18,8,NONE,Murky,NA
+16171,2023-07-17,Marie Curtis Park East Beach,24,W,19,Yes,2,20,NA,LOW,cloudy,1.05
+16172,2023-07-17,Sunnyside Beach,24,W,19,Yes,2,22,6,NONE,clear/ murky,1.58
+16173,2023-07-17,Hanlan's Point Beach,24,W,19,Yes,2,21,NA,MOD,clear,NA
+16174,2023-07-17,Gibraltar Point Beach,24,W,19,Yes,2,19,NA,HIGH,clear,NA
+16175,2023-07-17,Centre Island Beach,24,W,19,Yes,2,20,9,LOW,clear,NA
+16176,2023-07-17,Ward's Island Beach,24,W,19,Yes,2,21,2,MOD,clear,NA
+16177,2023-07-17,Cherry Beach,24,W,19,Yes,2,21,NA,LOW,clear,NA
+16178,2023-07-17,Woodbine Beaches,24,W,19,Yes,2,19,NA,NONE,clear,NA
+16179,2023-07-17,Kew Balmy Beach,24,W,19,Yes,2,18,96,NONE,clear,NA
+16180,2023-07-17,Bluffer's Beach Park,24,W,19,Yes,2,18,3,LOW,clear,NA
+16271,2023-06-29,Marie Curtis Park East Beach,5,NW,15,No,NA,19,NA,NONE,Murky,10.8
+16272,2023-06-29,Sunnyside Beach,5,NW,15,No,NA,19,5,NONE,Murky,1.19
+16273,2023-06-29,Hanlan's Point Beach,5,NW,15,No,NA,20,NA,NONE,clear,NA
+16274,2023-06-29,Gibraltar Point Beach,5,NW,15,No,NA,19,1,NONE,clear,NA
+16275,2023-06-29,Centre Island Beach,5,NW,15,No,NA,20,34,NONE,clear,NA
+16276,2023-06-29,Ward's Island Beach,5,NW,15,No,NA,20,1,NONE,clear,NA
+16277,2023-06-29,Cherry Beach,5,NW,15,No,NA,20,NA,NONE,clear,NA
+16278,2023-06-29,Woodbine Beaches,5,NW,15,No,NA,19,4,NONE,clear,NA
+16279,2023-06-29,Kew Balmy Beach,5,NW,15,No,NA,19,26,NONE,clear,NA
+16280,2023-06-29,Bluffer's Beach Park,5,NW,15,No,NA,19,22,NONE,clear,NA
+16281,2024-08-29,Marie Curtis Park East Beach,15,NE,17,Yes,0,19,NA,LOW,Cloudy,4.38
+16282,2024-08-29,Sunnyside Beach,15,NE,17,Yes,0,19,10,NONE,Cloudy,2.12
+16283,2024-08-29,Hanlan's Point Beach,15,NE,17,Yes,0,20,6,NONE,Murky,NA
+16284,2024-08-29,Gibraltar Point Beach,15,NE,17,Yes,0,20,7,MOD,Clear,NA
+16285,2024-08-29,Centre Island Beach,15,NE,17,Yes,0,21,4,NONE,Clear,NA
+16286,2024-08-29,Ward's Island Beach,15,NE,17,Yes,0,20,3,NONE,Clear,NA
+16287,2024-08-29,Cherry Beach,15,NE,17,Yes,0,21,NA,NONE,Clear,NA
+16288,2024-08-29,Woodbine Beaches,15,NE,17,Yes,0,18,NA,MOD,Murky,NA
+16289,2024-08-29,Kew Balmy Beach,15,NE,17,Yes,0,18,6,MOD,Murky,NA
+16290,2024-08-29,Bluffer's Beach Park,15,NE,17,Yes,0,22,42,MOD,Murky,NA
+16291,2023-07-05,Marie Curtis Park East Beach,13,NW,24,No,NA,23,NA,NONE,clear,NA
+16292,2023-07-05,Sunnyside Beach,13,NW,24,No,NA,24,7,NONE,clear,NA
+16293,2023-07-05,Hanlan's Point Beach,13,NW,24,No,NA,23,3,LOW,Clear,NA
+16294,2023-07-05,Gibraltar Point Beach,13,NW,24,No,NA,23,NA,LOW,Clear,NA
+16295,2023-07-05,Centre Island Beach,13,NW,24,No,NA,23,5,NONE,Clear,NA
+16296,2023-07-05,Ward's Island Beach,13,NW,24,No,NA,23,NA,LOW,Clear,NA
+16297,2023-07-05,Cherry Beach,13,NW,24,No,NA,23,1,LOW,Clear,NA
+16298,2023-07-05,Woodbine Beaches,13,NW,24,No,NA,22,1,NONE,Clear,NA
+16299,2023-07-05,Kew Balmy Beach,13,NW,24,No,NA,24,150,NONE,Clear,NA
+16300,2023-07-05,Bluffer's Beach Park,13,NW,24,No,NA,21,7,NONE,Clear,NA
+16301,2024-07-16,Marie Curtis Park East Beach,8,E,21,Yes,34,22,NA,NONE,debris,5.47
+16302,2024-07-16,Sunnyside Beach,8,E,21,Yes,34,22,NA,NONE,debris,8.48
+16303,2024-07-16,Hanlan's Point Beach,8,E,21,Yes,34,23,14,NONE,cloudy/debris,NA
+16304,2024-07-16,Gibraltar Point Beach,8,E,21,Yes,34,23,2,NONE,cloudy/algae,NA
+16305,2024-07-16,Centre Island Beach,8,E,21,Yes,34,23,2,NONE,cloudy,NA
+16306,2024-07-16,Ward's Island Beach,8,E,21,Yes,34,24,NA,NONE,cloudy/debris,NA
+16307,2024-07-16,Cherry Beach,8,E,21,Yes,34,25,NA,NONE,cloudy/debris,NA
+16308,2024-07-16,Woodbine Beaches,8,E,21,Yes,34,18,17,NONE,cloudy,NA
+16309,2024-07-16,Kew Balmy Beach,8,E,21,Yes,34,NA,NA,None,None,NA
+16310,2024-07-16,Bluffer's Beach Park,8,E,21,Yes,34,20,NA,NONE,cloudy,NA
+16311,2025-06-12,Marie Curtis Park East Beach,5,NW,16,No,NA,11,11,NONE,Clear,0.47
+16312,2025-06-12,Sunnyside Beach,5,NW,16,No,NA,15,35,NONE,Murky,1.03
+16313,2025-06-12,Hanlan's Point Beach,5,NW,16,No,NA,11,5,NONE,Clear,NA
+16314,2025-06-12,Gibraltar Point Beach,5,NW,16,No,NA,10,46,NONE,Clear,NA
+16315,2025-06-12,Centre Island Beach,5,NW,16,No,NA,11,52,NONE,Clear,NA
+16316,2025-06-12,Ward's Island Beach,5,NW,16,No,NA,13,21,NONE,Clear,NA
+16317,2025-06-12,Cherry Beach,5,NW,16,No,NA,14,27,NONE,Cloudy,NA
+16318,2025-06-12,Woodbine Beaches,5,NW,16,No,NA,9,4,NONE,Clear,NA
+16319,2025-06-12,Kew Balmy Beach,5,NW,16,No,NA,8,11,NONE,Clear,NA
+16320,2025-06-12,Bluffer's Beach Park,5,NW,16,No,NA,7,NA,NONE,Clear,NA
+16341,2024-06-29,Marie Curtis Park East Beach,21,E,17,No,NA,15,7,MOD,Murky,4.81
+16342,2024-06-29,Sunnyside Beach,21,E,17,No,NA,15,5,NONE,Murky,0.83
+16343,2024-06-29,Hanlan's Point Beach,21,E,17,No,NA,16,NA,HIGH,Murky,NA
+16344,2024-06-29,Gibraltar Point Beach,21,E,17,No,NA,16,NA,HIGH,Murky,NA
+16345,2024-06-29,Centre Island Beach,21,E,17,No,NA,16,NA,HIGH,Murky,NA
+16346,2024-06-29,Ward's Island Beach,21,E,17,No,NA,16,NA,HIGH,Murky,NA
+16347,2024-06-29,Cherry Beach,21,E,17,No,NA,17,NA,HIGH,Murky,NA
+16348,2024-06-29,Woodbine Beaches,21,E,17,No,NA,10,NA,HIGH,Cloudy,NA
+16349,2024-06-29,Kew Balmy Beach,21,E,17,No,NA,9,NA,HIGH,Murky,NA
+16350,2024-06-29,Bluffer's Beach Park,21,E,17,No,NA,13,10,HIGH,Murky,NA
+16351,2024-06-30,Marie Curtis Park East Beach,24,NW,20,Yes,20,16,NA,NONE,murky,2.92
+16352,2024-06-30,Sunnyside Beach,24,NW,20,Yes,20,17,22,NONE,murky,1.41
+16353,2024-06-30,Hanlan's Point Beach,24,NW,20,Yes,20,16,NA,LOW,murky,NA
+16354,2024-06-30,Gibraltar Point Beach,24,NW,20,Yes,20,14,NA,NONE,clear,NA
+16355,2024-06-30,Centre Island Beach,24,NW,20,Yes,20,14,NA,NONE,clear,NA
+16356,2024-06-30,Ward's Island Beach,24,NW,20,Yes,20,16,13,NONE,cloudy,NA
+16357,2024-06-30,Cherry Beach,24,NW,20,Yes,20,16,NA,NONE,cloudy,NA
+16358,2024-06-30,Woodbine Beaches,24,NW,20,Yes,20,16,2,NONE,Cloudy,NA
+16359,2024-06-30,Kew Balmy Beach,24,NW,20,Yes,20,16,17,LOW,Cloudy,NA
+16360,2024-06-30,Bluffer's Beach Park,24,NW,20,Yes,20,15,2,NONE,Clear,NA
+16361,2024-07-01,Marie Curtis Park East Beach,15,NW,13,No,NA,12,16,NONE,clear,0.43
+16362,2024-07-01,Sunnyside Beach,15,NW,13,No,NA,14,13,NONE,clear,0.63
+16363,2024-07-01,Hanlan's Point Beach,15,NW,13,No,NA,14,NA,NONE,clear,NA
+16364,2024-07-01,Gibraltar Point Beach,15,NW,13,No,NA,16,NA,NONE,clear,NA
+16365,2024-07-01,Centre Island Beach,15,NW,13,No,NA,15,NA,NONE,"clear, algae",NA
+16366,2024-07-01,Ward's Island Beach,15,NW,13,No,NA,14,NA,NONE,"murky, algae",NA
+16367,2024-07-01,Cherry Beach,15,NW,13,No,NA,16,NA,NONE,"clear, algae",NA
+16368,2024-07-01,Woodbine Beaches,15,NW,13,No,NA,12,NA,NONE,Clear,NA
+16369,2024-07-01,Kew Balmy Beach,15,NW,13,No,NA,14,NA,NONE,Clear,NA
+16370,2024-07-01,Bluffer's Beach Park,15,NW,13,No,NA,14,5,NONE,Clear,NA
+16371,2024-07-02,Marie Curtis Park East Beach,4,NW,16,No,NA,14,NA,NONE,Clear,NA
+16372,2024-07-02,Sunnyside Beach,4,NW,16,No,NA,15,7,NONE,Debris,NA
+16373,2024-07-02,Hanlan's Point Beach,4,NW,16,No,NA,16,NA,NONE,Clear,NA
+16374,2024-07-02,Gibraltar Point Beach,4,NW,16,No,NA,16,NA,NONE,Clear,NA
+16375,2024-07-02,Centre Island Beach,4,NW,16,No,NA,16,12,NONE,clear,NA
+16376,2024-07-02,Ward's Island Beach,4,NW,16,No,NA,17,NA,NONE,Clear,NA
+16377,2024-07-02,Cherry Beach,4,NW,16,No,NA,16,2,NONE,None,NA
+16378,2024-07-02,Woodbine Beaches,4,NW,16,No,NA,16,25,NONE,Cloudy,NA
+16379,2024-07-02,Kew Balmy Beach,4,NW,16,No,NA,16,36,NONE,Cloudy,NA
+16380,2024-07-02,Bluffer's Beach Park,4,NW,16,No,NA,12,NA,NONE,Clear,NA
+16431,2025-05-31,Marie Curtis Park East Beach,22,NW,10,No,NA,9,NA,NONE,Clear,0.31
+16432,2025-05-31,Sunnyside Beach,22,NW,10,No,NA,11,13,NONE,Clear,0.56
+16433,2025-05-31,Hanlan's Point Beach,22,NW,10,No,NA,10,NA,LOW,Murky,NA
+16434,2025-05-31,Gibraltar Point Beach,22,NW,10,No,NA,8,12,NONE,Clear,NA
+16435,2025-05-31,Centre Island Beach,22,NW,10,No,NA,10,3,NONE,Clear,NA
+16436,2025-05-31,Ward's Island Beach,22,NW,10,No,NA,10,12,NONE,Clear,NA
+16437,2025-05-31,Cherry Beach,22,NW,10,No,NA,12,NA,NONE,Clear,NA
+16438,2025-05-31,Woodbine Beaches,22,NW,10,No,NA,12,1,LOW,Cloudy,NA
+16439,2025-05-31,Kew Balmy Beach,22,NW,10,No,NA,11,8,LOW,Cloudy,NA
+16440,2025-05-31,Bluffer's Beach Park,22,NW,10,No,NA,9,30,NONE,Murky,NA
+16441,2025-06-18,Marie Curtis Park East Beach,4,SW,19,No,NA,18,NA,NONE,Clear,0.98
+16442,2025-06-18,Sunnyside Beach,4,SW,19,No,NA,19,32,NONE,Clear,1.02
+16443,2025-06-18,Hanlan's Point Beach,4,SW,19,No,NA,17,NA,LOW,Clear,NA
+16444,2025-06-18,Gibraltar Point Beach,4,SW,19,No,NA,16,NA,LOW,Clear,NA
+16445,2025-06-18,Centre Island Beach,4,SW,19,No,NA,17,11,LOW,Clear,NA
+16446,2025-06-18,Ward's Island Beach,4,SW,19,No,NA,17,NA,LOW,Clear,NA
+16447,2025-06-18,Cherry Beach,4,SW,19,No,NA,17,5,LOW,Clear,NA
+16448,2025-06-18,Woodbine Beaches,4,SW,19,No,NA,18,12,NONE,Clear,NA
+16449,2025-06-18,Kew Balmy Beach,4,SW,19,No,NA,18,63,NONE,Clear,NA
+16450,2025-06-18,Bluffer's Beach Park,4,SW,19,No,NA,14,18,NONE,Clear,NA
+16491,2024-06-19,Marie Curtis Park East Beach,4,S,21,Yes,15,16,NA,NONE,cloudy,1.46
+16492,2024-06-19,Sunnyside Beach,4,S,21,Yes,15,20,15,NONE,debris,1.31
+16493,2024-06-19,Hanlan's Point Beach,4,S,21,Yes,15,17,3,NONE,clear,NA
+16494,2024-06-19,Gibraltar Point Beach,4,S,21,Yes,15,16,3,NONE,clear,NA
+16495,2024-06-19,Centre Island Beach,4,S,21,Yes,15,16,NA,NONE,clear,NA
+16496,2024-06-19,Ward's Island Beach,4,S,21,Yes,15,17,5,NONE,clear,NA
+16497,2024-06-19,Cherry Beach,4,S,21,Yes,15,18,NA,NONE,clear,NA
+16498,2024-06-19,Woodbine Beaches,4,S,21,Yes,15,15,NA,NONE,clear,NA
+16499,2024-06-19,Kew Balmy Beach,4,S,21,Yes,15,15,40,NONE,clear,NA
+16500,2024-06-19,Bluffer's Beach Park,4,S,21,Yes,15,16,75,NONE,clear,NA
+16561,2024-06-11,Marie Curtis Park East Beach,13,N,12,No,NA,9,NA,NONE,Clear,0.45
+16562,2024-06-11,Sunnyside Beach,13,N,12,No,NA,8,20,NONE,Clear,0.23
+16563,2024-06-11,Hanlan's Point Beach,13,N,12,No,NA,8,NA,NONE,Clear,NA
+16564,2024-06-11,Gibraltar Point Beach,13,N,12,No,NA,10,NA,NONE,Clear,NA
+16565,2024-06-11,Centre Island Beach,13,N,12,No,NA,11,NA,NONE,Clear,NA
+16566,2024-06-11,Ward's Island Beach,13,N,12,No,NA,10,NA,NONE,Clear,NA
+16567,2024-06-11,Cherry Beach,13,N,12,No,NA,11,NA,NONE,Clear,NA
+16568,2024-06-11,Woodbine Beaches,13,N,12,No,NA,8,NA,NONE,Clear,NA
+16569,2024-06-11,Kew Balmy Beach,13,N,12,No,NA,8,7,NONE,Clear,NA
+16570,2024-06-11,Bluffer's Beach Park,13,N,12,No,NA,6,NA,NONE,Clear,NA
+16571,2024-07-03,Marie Curtis Park East Beach,9,E,20,No,NA,16,NA,NONE,algae,2.12
+16572,2024-07-03,Sunnyside Beach,9,E,20,No,NA,17,25,NONE,cloudy,0.54
+16573,2024-07-03,Hanlan's Point Beach,9,E,20,No,NA,18,NA,NONE,clear,NA
+16574,2024-07-03,Gibraltar Point Beach,9,E,20,No,NA,18,NA,NONE,clear,NA
+16575,2024-07-03,Centre Island Beach,9,E,20,No,NA,18,NA,NONE,clear,NA
+16576,2024-07-03,Ward's Island Beach,9,E,20,No,NA,19,3,NONE,clear,NA
+16577,2024-07-03,Cherry Beach,9,E,20,No,NA,18,NA,NONE,clear,NA
+16578,2024-07-03,Woodbine Beaches,9,E,20,No,NA,20,3,NONE,murky,NA
+16579,2024-07-03,Kew Balmy Beach,9,E,20,No,NA,18,6,NONE,murky,NA
+16580,2024-07-03,Bluffer's Beach Park,9,E,20,No,NA,16,24,LOW,clear,NA
+16601,2024-08-25,Marie Curtis Park East Beach,4,SE,17,No,NA,20,7,NONE,Clear,1.27
+16602,2024-08-25,Sunnyside Beach,4,SE,17,No,NA,20,32,NONE,Clear,0.95
+16603,2024-08-25,Hanlan's Point Beach,4,SE,17,No,NA,21,3,NONE,Clear,NA
+16604,2024-08-25,Gibraltar Point Beach,4,SE,17,No,NA,20,NA,NONE,Clear,NA
+16605,2024-08-25,Centre Island Beach,4,SE,17,No,NA,20,19,NONE,Clear,NA
+16606,2024-08-25,Ward's Island Beach,4,SE,17,No,NA,19,4,NONE,Clear,NA
+16607,2024-08-25,Cherry Beach,NA,None,17,No,NA,21,12,NONE,Clear,NA
+16608,2024-08-25,Woodbine Beaches,NA,None,17,No,NA,18,16,NONE,Clear,NA
+16609,2024-08-25,Kew Balmy Beach,NA,None,17,No,NA,19,22,NONE,Clear,NA
+16610,2024-08-25,Bluffer's Beach Park,NA,None,17,No,NA,17,7,NONE,Clear,NA
+16611,2025-06-07,Marie Curtis Park East Beach,18,N,18,No,NA,13,10,NONE,Clear,0.74
+16612,2025-06-07,Sunnyside Beach,18,N,18,No,NA,13,27,NONE,Cloudy,0.55
+16613,2025-06-07,Hanlan's Point Beach,18,N,18,No,NA,13,2,LOW,Clear,NA
+16614,2025-06-07,Gibraltar Point Beach,18,N,18,No,NA,14,3,LOW,Clear,NA
+16615,2025-06-07,Centre Island Beach,18,N,18,No,NA,14,NA,NONE,Clear,NA
+16616,2025-06-07,Ward's Island Beach,18,N,18,No,NA,14,2,NONE,Clear,NA
+16617,2025-06-07,Cherry Beach,18,N,18,No,NA,15,NA,NONE,Clear,NA
+16618,2025-06-07,Woodbine Beaches,18,N,18,No,NA,14,1,LOW,Cloudy,NA
+16619,2025-06-07,Kew Balmy Beach,18,N,18,No,NA,13,10,LOW,Cloudy,NA
+16620,2025-06-07,Bluffer's Beach Park,18,N,18,No,NA,13,7,NONE,Clear,NA
+16651,2024-05-22,Marie Curtis Park East Beach,9,SE,19,No,NA,16,NA,NONE,clear,1.21
+16652,2024-05-22,Sunnyside Beach,9,SE,19,No,NA,17,2,NONE,cloudy,1.32
+16653,2024-05-22,Hanlan's Point Beach,9,SE,19,No,NA,15,NA,NONE,clear,NA
+16654,2024-05-22,Gibraltar Point Beach,9,SE,19,No,NA,15,NA,NONE,clear,NA
+16655,2024-05-22,Centre Island Beach,9,SE,19,No,NA,16,NA,NONE,clear,NA
+16656,2024-05-22,Ward's Island Beach,9,SE,19,No,NA,6,NA,NONE,clear,NA
+16657,2024-05-22,Cherry Beach,9,SE,19,No,NA,15,NA,NONE,clear,NA
+16658,2024-05-22,Woodbine Beaches,9,SE,19,No,NA,18,8,NONE,clear,NA
+16659,2024-05-22,Kew Balmy Beach,9,SE,19,No,NA,18,NA,NONE,clear,NA
+16660,2024-05-22,Bluffer's Beach Park,9,SE,19,No,NA,18,11,NONE,clear,NA
+16681,2023-06-01,Marie Curtis Park East Beach,9,W,19,No,NA,18,NA,NONE,clear,0.57
+16682,2023-06-01,Sunnyside Beach,9,W,19,No,NA,18,2,NONE,clear,0.71
+16683,2023-06-01,Hanlan's Point Beach,9,W,19,No,NA,17,2,NONE,clear,NA
+16684,2023-06-01,Gibraltar Point Beach,9,W,19,No,NA,15,NA,NONE,clear,NA
+16685,2023-06-01,Centre Island Beach,9,W,19,No,NA,16,NA,NONE,clear,NA
+16686,2023-06-01,Ward's Island Beach,9,W,19,No,NA,17,NA,NONE,clear,NA
+16687,2023-06-01,Cherry Beach,9,W,19,No,NA,18,NA,NONE,claer,NA
+16688,2023-06-01,Woodbine Beaches,9,W,19,No,NA,16,2,NONE,clear,NA
+16689,2023-06-01,Kew Balmy Beach,9,W,19,No,NA,17,30,NONE,clear,NA
+16690,2023-06-01,Bluffer's Beach Park,9,W,19,No,NA,17,20,NONE,clear,NA
+16691,2023-06-17,Marie Curtis Park East Beach,15,NW,15,No,NA,16,NA,NONE,Cloudy,1.33
+16692,2023-06-17,Sunnyside Beach,15,NW,15,No,NA,15,7,NONE,Clear,0.66
+16693,2023-06-17,Hanlan's Point Beach,15,NW,15,No,NA,14,19,NONE,Clear,NA
+16694,2023-06-17,Gibraltar Point Beach,15,NW,15,No,NA,15,NA,NONE,Clear,NA
+16695,2023-06-17,Centre Island Beach,15,NW,15,No,NA,15,53,NONE,Clear,NA
+16696,2023-06-17,Ward's Island Beach,15,NW,15,No,NA,16,NA,NONE,Clear,NA
+16697,2023-06-17,Cherry Beach,15,NW,15,No,NA,18,NA,NONE,Murky,NA
+16698,2023-06-17,Woodbine Beaches,15,NW,15,No,NA,14,NA,NONE,clear,NA
+16699,2023-06-17,Kew Balmy Beach,15,NW,15,No,NA,13,17,NONE,clear,NA
+16700,2023-06-17,Bluffer's Beach Park,15,NW,15,No,NA,14,NA,NONE,clear,NA
+16701,2023-06-18,Marie Curtis Park East Beach,8,NW,16,No,NA,14,NA,NONE,Clear,0.65
+16702,2023-06-18,Sunnyside Beach,8,NW,16,No,NA,10,8,NONE,Clear,0.47
+16703,2023-06-18,Hanlan's Point Beach,8,NW,16,No,NA,12,4,NONE,Clear,NA
+16704,2023-06-18,Gibraltar Point Beach,8,NW,16,No,NA,12,8,NONE,Clear,NA
+16705,2023-06-18,Centre Island Beach,8,NW,16,No,NA,12,8,NONE,Clear,NA
+16706,2023-06-18,Ward's Island Beach,8,NW,16,No,NA,12,7,NONE,Clear,NA
+16707,2023-06-18,Cherry Beach,8,NW,16,No,NA,12,NA,NONE,Clear,NA
+16708,2023-06-18,Woodbine Beaches,8,NW,16,No,NA,13,3,NONE,clear,NA
+16709,2023-06-18,Kew Balmy Beach,8,NW,16,No,NA,13,12,NONE,clear,NA
+16710,2023-06-18,Bluffer's Beach Park,8,NW,16,No,NA,14,6,NONE,clear,NA
+16711,2023-06-19,Marie Curtis Park East Beach,22,NE,17,No,NA,17,7,NONE,Murky,1.19
+16712,2023-06-19,Sunnyside Beach,22,NE,17,No,NA,18,14,LOW,Cloudy,0.55
+16713,2023-06-19,Hanlan's Point Beach,22,NE,17,No,NA,16,8,NONE,Clear,NA
+16714,2023-06-19,Gibraltar Point Beach,22,NE,17,No,NA,16,NA,MOD,Clear,NA
+16715,2023-06-19,Centre Island Beach,22,NE,17,No,NA,16,22,LOW,Clear,NA
+16716,2023-06-19,Ward's Island Beach,22,NE,17,No,NA,16,3,NONE,Clear,NA
+16717,2023-06-19,Cherry Beach,22,NE,17,No,NA,17,4,NONE,Cloudy,NA
+16718,2023-06-19,Woodbine Beaches,22,NE,17,No,NA,15,11,MOD,Clear,NA
+16719,2023-06-19,Kew Balmy Beach,22,NE,17,No,NA,15,48,MOD,Clear,NA
+16720,2023-06-19,Bluffer's Beach Park,22,NE,17,No,NA,15,20,LOW,"Murky, debris",NA
+16741,2025-05-24,Marie Curtis Park East Beach,13,NW,10,Yes,1,10,NA,NONE,Clear,1.93
+16742,2025-05-24,Sunnyside Beach,13,NW,10,Yes,1,10,NA,NONE,Clear,0.6
+16743,2025-05-24,Hanlan's Point Beach,13,NW,10,Yes,1,10,NA,NONE,Clear,NA
+16744,2025-05-24,Gibraltar Point Beach,13,NW,10,Yes,1,10,NA,NONE,Clear,NA
+16745,2025-05-24,Centre Island Beach,13,NW,10,Yes,1,11,3,NONE,Clear,NA
+16746,2025-05-24,Ward's Island Beach,13,NW,10,Yes,1,10,NA,NONE,Clear,NA
+16747,2025-05-24,Cherry Beach,13,NW,10,Yes,1,9,NA,NONE,Clear,NA
+16748,2025-05-24,Woodbine Beaches,13,NW,10,Yes,1,10,78,LOW,Cloudy,NA
+16749,2025-05-24,Kew Balmy Beach,13,NW,10,Yes,1,11,200,LOW,Cloiudy,NA
+16750,2025-05-24,Bluffer's Beach Park,13,NW,10,Yes,1,10,175,LOW,Clear,NA
+16751,2025-05-25,Marie Curtis Park East Beach,9,NW,8,Yes,0,10,3,NONE,Clear,1.06
+16752,2025-05-25,Sunnyside Beach,9,NW,8,Yes,0,10,12,NONE,Cloudy,1.1
+16753,2025-05-25,Hanlan's Point Beach,9,NW,8,Yes,0,8,30,NONE,Clear,NA
+16754,2025-05-25,Gibraltar Point Beach,9,NW,8,Yes,0,9,35,NONE,Clear,NA
+16755,2025-05-25,Centre Island Beach,9,NW,8,Yes,0,9,20,NONE,Clear,NA
+16756,2025-05-25,Ward's Island Beach,9,NW,8,Yes,0,9,15,NONE,Clear,NA
+16757,2025-05-25,Cherry Beach,9,NW,8,Yes,0,10,30,NONE,Clear,NA
+16758,2025-05-25,Woodbine Beaches,9,NW,8,Yes,0,9,5,NONE,Cloudy,NA
+16759,2025-05-25,Kew Balmy Beach,9,NW,8,Yes,0,9,80,NONE,Cloudy,NA
+16760,2025-05-25,Bluffer's Beach Park,9,NW,8,Yes,0,9,NA,LOW,Cloudy,NA
+16761,2025-06-11,Marie Curtis Park East Beach,15,SW,14,No,NA,9,7,NONE,Clear,0.68
+16762,2025-06-11,Sunnyside Beach,15,SW,14,No,NA,15,42,NONE,Clear,1.05
+16763,2025-06-11,Hanlan's Point Beach,15,SW,14,No,NA,13,13,LOW,Murky,NA
+16764,2025-06-11,Gibraltar Point Beach,15,SW,14,No,NA,13,15,LOW,Murky,NA
+16765,2025-06-11,Centre Island Beach,15,SW,14,No,NA,13,200,NONE,Clear,NA
+16766,2025-06-11,Ward's Island Beach,15,SW,14,No,NA,14,NA,NONE,Cloudy,NA
+16767,2025-06-11,Cherry Beach,15,SW,14,No,NA,14,10,NONE,Cloudy,NA
+16768,2025-06-11,Woodbine Beaches,15,SW,14,No,NA,11,NA,NONE,Cloudy,NA
+16769,2025-06-11,Kew Balmy Beach,15,SW,14,No,NA,11,28,NONE,Cloudy,NA
+16770,2025-06-11,Bluffer's Beach Park,15,SW,14,No,NA,8,15,NONE,Clear,NA
+16801,2023-07-29,Marie Curtis Park East Beach,8,NE,24,No,NA,NA,NA,None,None,NA
+16802,2023-07-29,Sunnyside Beach,8,NE,24,No,NA,NA,NA,None,None,NA
+16803,2023-07-29,Hanlan's Point Beach,8,NE,24,No,NA,NA,NA,None,None,NA
+16804,2023-07-29,Gibraltar Point Beach,8,NE,24,No,NA,NA,NA,None,None,NA
+16805,2023-07-29,Centre Island Beach,8,NE,24,No,NA,NA,NA,None,None,NA
+16806,2023-07-29,Ward's Island Beach,8,NE,24,No,NA,NA,NA,None,None,NA
+16807,2023-07-29,Cherry Beach,8,NE,24,No,NA,NA,NA,None,None,NA
+16808,2023-07-29,Woodbine Beaches,8,NE,24,No,NA,NA,NA,None,None,NA
+16809,2023-07-29,Kew Balmy Beach,8,NE,24,No,NA,NA,NA,None,None,NA
+16810,2023-07-29,Bluffer's Beach Park,8,NE,24,No,NA,NA,NA,None,None,NA
+16811,2023-07-30,Marie Curtis Park East Beach,13,NW,17,Yes,10,20,NA,NONE,Very cloudy,7.49
+16812,2023-07-30,Sunnyside Beach,13,NW,17,Yes,10,21,NA,NONE,Clear,1.42
+16813,2023-07-30,Hanlan's Point Beach,13,NW,17,Yes,10,20,8,NONE,Clear,NA
+16814,2023-07-30,Gibraltar Point Beach,13,NW,17,Yes,10,20,NA,NONE,Clear,NA
+16815,2023-07-30,Centre Island Beach,13,NW,17,Yes,10,19,18,NONE,Clear,NA
+16816,2023-07-30,Ward's Island Beach,13,NW,17,Yes,10,21,NA,NONE,Clear,NA
+16817,2023-07-30,Cherry Beach,13,NW,17,Yes,10,21,7,NONE,Clear,NA
+16818,2023-07-30,Woodbine Beaches,13,NW,17,Yes,10,21,2,NONE,Cloudy,NA
+16819,2023-07-30,Kew Balmy Beach,13,NW,17,Yes,10,21,33,NONE,Cloudy,NA
+16820,2023-07-30,Bluffer's Beach Park,13,NW,17,Yes,10,21,1,LOW,Cloudy,NA
+16821,2023-07-31,Marie Curtis Park East Beach,8,W,17,No,NA,NA,NA,None,None,NA
+16822,2023-07-31,Sunnyside Beach,8,W,17,No,NA,NA,NA,None,None,NA
+16823,2023-07-31,Hanlan's Point Beach,8,W,17,No,NA,19,NA,NONE,Murky,NA
+16824,2023-07-31,Gibraltar Point Beach,8,W,17,No,NA,20,NA,NONE,Clear,NA
+16825,2023-07-31,Centre Island Beach,8,W,17,No,NA,20,NA,NONE,Clear,NA
+16826,2023-07-31,Ward's Island Beach,8,W,17,No,NA,20,2,NONE,Clear,NA
+16827,2023-07-31,Cherry Beach,8,W,17,No,NA,19,2,NONE,Clear,NA
+16828,2023-07-31,Woodbine Beaches,8,W,17,No,NA,20,11,NONE,clear,NA
+16829,2023-07-31,Kew Balmy Beach,8,W,17,No,NA,20,59,NONE,clear,NA
+16830,2023-07-31,Bluffer's Beach Park,8,W,17,No,NA,18,5,NONE,clear,NA
+16861,2024-08-15,Marie Curtis Park East Beach,9,SW,18,No,NA,19,NA,NONE,Clear,0.77
+16862,2024-08-15,Sunnyside Beach,9,SW,18,No,NA,19,16,NONE,Clear,0.82
+16863,2024-08-15,Hanlan's Point Beach,9,SW,18,No,NA,20,20,NONE,Clear,NA
+16864,2024-08-15,Gibraltar Point Beach,9,SW,18,No,NA,20,NA,NONE,Clear,NA
+16865,2024-08-15,Centre Island Beach,9,SW,18,No,NA,20,50,NONE,Clear,NA
+16866,2024-08-15,Ward's Island Beach,9,SW,18,No,NA,21,15,NONE,Clear,NA
+16867,2024-08-15,Cherry Beach,9,SW,18,N/A,NA,22,15,NONE,Clear,NA
+16868,2024-08-15,Woodbine Beaches,9,SW,18,N/A,NA,12,3,NONE,Clear,NA
+16869,2024-08-15,Kew Balmy Beach,9,SW,18,N/A,NA,13,NA,NONE,Clear,NA
+16870,2024-08-15,Bluffer's Beach Park,9,SW,18,N/A,NA,9,7,NONE,Clear,NA
+16881,2025-06-04,Marie Curtis Park East Beach,4,SE,15,No,NA,12,4,NONE,Clear,1.25
+16882,2025-06-04,Sunnyside Beach,4,SE,15,No,NA,11,7,NONE,Clear,0.86
+16883,2025-06-04,Hanlan's Point Beach,4,SE,15,No,NA,12,7,NONE,Clear,NA
+16884,2025-06-04,Gibraltar Point Beach,4,SE,15,No,NA,13,1,LOW,Clear,NA
+16885,2025-06-04,Centre Island Beach,4,SE,15,No,NA,14,30,NONE,Clear,NA
+16886,2025-06-04,Ward's Island Beach,4,SE,15,No,NA,13,7,LOW,Clear,NA
+16887,2025-06-04,Cherry Beach,4,SE,15,No,NA,14,7,NONE,Murky,NA
+16888,2025-06-04,Woodbine Beaches,4,SE,15,No,NA,11,3,LOW,Clear,NA
+16889,2025-06-04,Kew Balmy Beach,4,SE,15,No,NA,12,12,LOW,Clear,NA
+16890,2025-06-04,Bluffer's Beach Park,4,SE,15,No,NA,11,69,NONE,Clear,NA
+16891,2024-05-28,Marie Curtis Park East Beach,30,NW,16,Yes,23,14,NA,NONE,clear,1.08
+16892,2024-05-28,Sunnyside Beach,30,NW,16,Yes,23,15,NA,NONE,murky,3.47
+16893,2024-05-28,Hanlan's Point Beach,30,NW,16,Yes,23,15,NA,NONE,clear,NA
+16894,2024-05-28,Gibraltar Point Beach,30,NW,16,Yes,23,14,NA,NONE,clear,NA
+16895,2024-05-28,Centre Island Beach,30,NW,16,Yes,23,13,7,NONE,clear,NA
+16896,2024-05-28,Ward's Island Beach,30,NW,16,Yes,23,14,2,NONE,clear,NA
+16897,2024-05-28,Cherry Beach,30,NW,16,Yes,23,15,NA,NONE,clear,NA
+16898,2024-05-28,Woodbine Beaches,30,NW,16,Yes,23,14,2,NONE,cloudy,NA
+16899,2024-05-28,Kew Balmy Beach,30,NW,16,Yes,23,14,NA,NONE,cloudy,NA
+16900,2024-05-28,Bluffer's Beach Park,30,NW,16,Yes,23,14,NA,NONE,clear,NA
+16901,2024-08-30,Marie Curtis Park East Beach,13,NE,19,Yes,3,20,NA,LOW,cloudy,4.49
+16902,2024-08-30,Sunnyside Beach,13,NE,19,Yes,3,20,30,NONE,cloudy,0.61
+16903,2024-08-30,Hanlan's Point Beach,13,NE,19,Yes,3,21,NA,NONE,clear,NA
+16904,2024-08-30,Gibraltar Point Beach,13,NE,19,Yes,3,20,NA,None,clear,NA
+16905,2024-08-30,Centre Island Beach,13,NE,19,Yes,3,20,NA,None,clear,NA
+16906,2024-08-30,Ward's Island Beach,13,NE,19,Yes,3,21,NA,None,clear,NA
+16907,2024-08-30,Cherry Beach,7,NE,16,Yes,3,22,NA,NONE,clear,NA
+16908,2024-08-30,Woodbine Beaches,7,NE,16,Yes,3,20,11,HIGH,clear,NA
+16909,2024-08-30,Kew Balmy Beach,7,NE,16,Yes,3,20,42,MOD,cloudy,NA
+16910,2024-08-30,Bluffer's Beach Park,7,NE,16,Yes,3,21,NA,MOD,cloudy,NA
+16911,2025-06-01,Marie Curtis Park East Beach,15,W,9,No,NA,9,10,NONE,Clear,0.31
+16912,2025-06-01,Sunnyside Beach,15,W,9,No,NA,9,7,NONE,Clear,0.41
+16913,2025-06-01,Hanlan's Point Beach,15,W,9,No,NA,8,8,LOW,Clear,NA
+16914,2025-06-01,Gibraltar Point Beach,15,W,9,No,NA,11,NA,LOW,Clear,NA
+16915,2025-06-01,Centre Island Beach,15,W,9,No,NA,9,67,NONE,Clear,NA
+16916,2025-06-01,Ward's Island Beach,15,W,9,No,NA,10,29,NONE,Clear,NA
+16917,2025-06-01,Cherry Beach,15,W,9,No,NA,11,NA,NONE,Cloudy,NA
+16918,2025-06-01,Woodbine Beaches,15,W,9,No,NA,11,26,NONE,Clear,NA
+16919,2025-06-01,Kew Balmy Beach,15,W,9,No,NA,11,3,NONE,Clear,NA
+16920,2025-06-01,Bluffer's Beach Park,15,W,9,No,NA,10,25,NONE,Clear,NA
+16931,2024-04-26,Marie Curtis Park East Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+16932,2024-04-26,Sunnyside Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+16933,2024-04-26,Hanlan's Point Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+16934,2024-04-26,Gibraltar Point Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+16935,2024-04-26,Centre Island Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+16936,2024-04-26,Ward's Island Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+16937,2024-04-26,Cherry Beach,NA,None,NA,N/A,NA,NA,NA,NONE,None,NA
+16938,2024-04-26,Woodbine Beaches,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+16939,2024-04-26,Kew Balmy Beach,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+16940,2024-04-26,Bluffer's Beach Park,NA,None,NA,N/A,NA,NA,NA,None,None,NA
+16951,2023-07-21,Marie Curtis Park East Beach,19,NW,19,Yes,3,19,NA,NONE,murky,1.6
+16952,2023-07-21,Sunnyside Beach,19,NW,19,Yes,3,21,2,NONE,clear,1.53
+16953,2023-07-21,Hanlan's Point Beach,19,NW,19,Yes,3,21,10,MOD,clear,NA
+16954,2023-07-21,Gibraltar Point Beach,19,NW,19,Yes,3,21,NA,MOD,clear,NA
+16955,2023-07-21,Centre Island Beach,19,NW,19,Yes,3,22,7,NONE,clear,NA
+16956,2023-07-21,Ward's Island Beach,19,NW,19,Yes,3,21,1,LOW,clear,NA
+16957,2023-07-21,Cherry Beach,19,NW,19,Yes,3,21,2,LOW,clear,NA
+16958,2023-07-21,Woodbine Beaches,19,NW,19,Yes,3,20,NA,NONE,Cloudy,NA
+16959,2023-07-21,Kew Balmy Beach,19,NW,19,Yes,3,19,57,NONE,Cloudy,NA
+16960,2023-07-21,Bluffer's Beach Park,19,NW,19,Yes,3,21,4,LOW,Clear,NA
+16961,2024-07-31,Marie Curtis Park East Beach,17,NW,23,No,NA,24,NA,NONE,Murky,4.05
+16962,2024-07-31,Sunnyside Beach,17,NW,23,No,NA,25,10,NONE,Murky,1.13
+16963,2024-07-31,Hanlan's Point Beach,17,NW,23,No,NA,24,NA,LOW,Murky,NA
+16964,2024-07-31,Gibraltar Point Beach,17,NW,23,No,NA,23,NA,NONE,Clear,NA
+16965,2024-07-31,Centre Island Beach,17,NW,23,No,NA,23,13,NONE,Clear,NA
+16966,2024-07-31,Ward's Island Beach,17,NW,23,No,NA,25,NA,NONE,Clear,NA
+16967,2024-07-31,Cherry Beach,17,NW,23,Yes,NA,26,11,NONE,Clear,NA
+16968,2024-07-31,Woodbine Beaches,17,NW,23,Yes,NA,20,6,NONE,Clear,NA
+16969,2024-07-31,Kew Balmy Beach,17,NW,23,Yes,NA,20,34,NONE,Clear,NA
+16970,2024-07-31,Bluffer's Beach Park,17,NW,23,Yes,NA,23,13,NONE,Clear,NA
+16981,2023-06-07,Marie Curtis Park East Beach,30,NW,13,No,NA,14,5,NONE,clear,1.4
+16982,2023-06-07,Sunnyside Beach,30,NW,13,No,NA,15,NA,NONE,clear,0.42
+16983,2023-06-07,Hanlan's Point Beach,30,NW,13,No,NA,NA,NA,NONE,clear,NA
+16984,2023-06-07,Gibraltar Point Beach,30,NW,13,No,NA,NA,1,NONE,clear,NA
+16985,2023-06-07,Centre Island Beach,30,NW,13,No,NA,NA,2,NONE,clear,NA
+16986,2023-06-07,Ward's Island Beach,30,NW,13,No,NA,NA,NA,NONE,clear,NA
+16987,2023-06-07,Cherry Beach,30,NW,13,No,NA,NA,12,NONE,clear,NA
+16988,2023-06-07,Woodbine Beaches,30,NW,13,No,NA,15,3,NONE,clear,NA
+16989,2023-06-07,Kew Balmy Beach,30,NW,13,No,NA,15,39,NONE,clear,NA
+16990,2023-06-07,Bluffer's Beach Park,30,NW,13,No,NA,12,25,NONE,clear,NA
+16991,2025-06-16,Marie Curtis Park East Beach,11,E,17,No,NA,14,11,NONE,Clear,1.11
+16992,2025-06-16,Sunnyside Beach,11,E,17,No,NA,14,2,NONE,Slightly murky,0.65
+16993,2025-06-16,Hanlan's Point Beach,11,E,17,No,NA,14,NA,NONE,Cloudy,NA
+16994,2025-06-16,Gibraltar Point Beach,11,E,17,No,NA,14,NA,NONE,Clear,NA
+16995,2025-06-16,Centre Island Beach,11,E,17,No,NA,14,2,NONE,Clear,NA
+16996,2025-06-16,Ward's Island Beach,11,E,17,No,NA,14,NA,NONE,Clear,NA
+16997,2025-06-16,Cherry Beach,11,E,17,No,NA,14,4,NONE,Cloudy,NA
+16998,2025-06-16,Woodbine Beaches,11,E,17,No,NA,14,NA,LOW,Clear,NA
+16999,2025-06-16,Kew Balmy Beach,11,E,17,No,NA,14,65,LOW,Clear,NA
+17000,2025-06-16,Bluffer's Beach Park,11,E,17,No,NA,16,NA,NONE,Cloudy,NA
+17101,2023-09-01,Marie Curtis Park East Beach,9,N,15,No,NA,19,NA,NONE,clear,1.04
+17102,2023-09-01,Sunnyside Beach,9,N,15,No,NA,18,NA,NONE,clear,0.8
+17103,2023-09-01,Hanlan's Point Beach,9,N,15,No,NA,19,8,NONE,clear,NA
+17104,2023-09-01,Gibraltar Point Beach,9,N,15,No,NA,19,NA,NONE,clear,NA
+17105,2023-09-01,Centre Island Beach,9,N,15,No,NA,19,NA,NONE,clear,NA
+17106,2023-09-01,Ward's Island Beach,9,N,15,No,NA,19,NA,NONE,clear,NA
+17107,2023-09-01,Cherry Beach,9,N,15,No,NA,20,4,NONE,clear,NA
+17108,2023-09-01,Woodbine Beaches,9,N,15,No,NA,20,5,NONE,Clear,NA
+17109,2023-09-01,Kew Balmy Beach,9,N,15,No,NA,20,37,NONE,Clear,NA
+17110,2023-09-01,Bluffer's Beach Park,9,N,15,No,NA,20,11,NONE,Clear,NA
+17111,2024-06-02,Marie Curtis Park East Beach,13,NE,16,No,NA,16,NA,NONE,Murky,2.07
+17112,2024-06-02,Sunnyside Beach,13,NE,16,No,NA,15,3,NONE,Clear,1.5
+17113,2024-06-02,Hanlan's Point Beach,13,NE,16,No,NA,15,2,NONE,Clear,NA
+17114,2024-06-02,Gibraltar Point Beach,13,NE,16,No,NA,16,2,NONE,Clear,NA
+17115,2024-06-02,Centre Island Beach,13,NE,16,No,NA,16,1,NONE,Clear,NA
+17116,2024-06-02,Ward's Island Beach,13,NE,16,No,NA,17,NA,NONE,Clear,NA
+17117,2024-06-02,Cherry Beach,13,NE,16,No,NA,18,2,NONE,Clear,NA
+17118,2024-06-02,Woodbine Beaches,13,NE,16,No,NA,13,11,LOW,Clear,NA
+17119,2024-06-02,Kew Balmy Beach,13,NE,16,No,NA,12,75,LOW,Clear,NA
+17120,2024-06-02,Bluffer's Beach Park,13,NE,16,No,NA,7,60,NONE,Clear,NA
+17131,2024-06-21,Marie Curtis Park East Beach,17,E,21,Yes,54,19,NA,NONE,debris,8.9
+17132,2024-06-21,Sunnyside Beach,17,E,21,Yes,54,21,15,NONE,debris,3.7
+17133,2024-06-21,Hanlan's Point Beach,17,E,21,Yes,54,16,4,NONE,clear,NA
+17134,2024-06-21,Gibraltar Point Beach,17,E,21,Yes,54,19,4,NONE,clear,NA
+17135,2024-06-21,Centre Island Beach,17,E,21,Yes,54,19,21,NONE,clear,NA
+17136,2024-06-21,Ward's Island Beach,17,E,21,Yes,54,18,NA,NONE,clear,NA
+17137,2024-06-21,Cherry Beach,17,E,21,Yes,54,20,7,NONE,clear,NA
+17138,2024-06-21,Woodbine Beaches,17,E,21,Yes,54,15,6,NONE,cloudy,NA
+17139,2024-06-21,Kew Balmy Beach,17,E,21,Yes,54,15,81,NONE,cloudy,NA
+17140,2024-06-21,Bluffer's Beach Park,17,E,21,Yes,54,16,12,NONE,clear,NA
+17141,2024-06-12,Marie Curtis Park East Beach,11,E,11,No,NA,10,1,NONE,clear,0.69
+17142,2024-06-12,Sunnyside Beach,11,E,11,No,NA,11,2,NONE,clear,0.57
+17143,2024-06-12,Hanlan's Point Beach,11,E,11,No,NA,12,3,NONE,clear,NA
+17144,2024-06-12,Gibraltar Point Beach,11,E,11,No,NA,11.5,NA,NONE,clear,NA
+17145,2024-06-12,Centre Island Beach,11,E,11,No,NA,12,10,NONE,clear,NA
+17146,2024-06-12,Ward's Island Beach,11,E,11,No,NA,12,2,NONE,clear,NA
+17147,2024-06-12,Cherry Beach,11,E,11,No,NA,13,2,NONE,clear,NA
+17148,2024-06-12,Woodbine Beaches,11,E,11,No,NA,9,NA,NONE,clear,NA
+17149,2024-06-12,Kew Balmy Beach,11,E,11,No,NA,10,5,NONE,clear,NA
+17150,2024-06-12,Bluffer's Beach Park,11,E,11,No,NA,10,NA,NONE,clear,NA
+17151,2024-08-28,Marie Curtis Park East Beach,8,NW,23,No,NA,20,NA,NONE,Murky,2.39
+17152,2024-08-28,Sunnyside Beach,8,NW,23,No,NA,23,3,NONE, Clear,1.31
+17153,2024-08-28,Hanlan's Point Beach,8,NW,23,No,NA,23,45,NONE,Cloudy,NA
+17154,2024-08-28,Gibraltar Point Beach,8,NW,23,No,NA,22,NA,NONE,Clear,NA
+17155,2024-08-28,Centre Island Beach,8,NW,23,No,NA,23,31,NONE,Clear,NA
+17156,2024-08-28,Ward's Island Beach,8,NW,23,No,NA,23,NA,NONE,Clear,NA
+17157,2024-08-28,Cherry Beach,8,NW,23,No,NA,24,5,NONE,Clear,NA
+17158,2024-08-28,Woodbine Beaches,8,NW,23,No,NA,19,8,NONE,Clear,NA
+17159,2024-08-28,Kew Balmy Beach,8,NW,23,No,NA,19,15,NONE,Clear,NA
+17160,2024-08-28,Bluffer's Beach Park,8,NW,23,No,NA,22,17,NONE,Clear,NA
+17221,2023-06-10,Marie Curtis Park East Beach,11,W,14,Yes,3,18,NA,NONE, Clear,0.77
+17222,2023-06-10,Sunnyside Beach,11,W,14,Yes,3,19,6,NONE,Clear,0.73
+17223,2023-06-10,Hanlan's Point Beach,11,W,14,Yes,3,11,2,NONE,Clear,NA
+17224,2023-06-10,Gibraltar Point Beach,11,W,14,Yes,3,11,NA,NONE,Clear,NA
+17225,2023-06-10,Centre Island Beach,11,W,14,Yes,3,13,18,NONE,Clear,NA
+17226,2023-06-10,Ward's Island Beach,11,W,14,Yes,3,14,3,NONE,Clear,NA
+17227,2023-06-10,Cherry Beach,11,W,14,Yes,3,14,NA,NONE,Clear,NA
+17228,2023-06-10,Woodbine Beaches,11,W,14,Yes,3,16,NA,NONE,clear,NA
+17229,2023-06-10,Kew Balmy Beach,11,W,14,Yes,3,16,12,NONE,clear,NA
+17230,2023-06-10,Bluffer's Beach Park,11,W,14,Yes,3,13,1,NONE,clear,NA
+17231,2023-06-11,Marie Curtis Park East Beach,13,NE,17,No,NA,17,NA,NONE,Clear,0.74
+17232,2023-06-11,Sunnyside Beach,13,NE,17,No,NA,16,6,NONE,Murky,0.9
+17233,2023-06-11,Hanlan's Point Beach,13,NE,17,No,NA,19,NA,NONE,Clear,NA
+17234,2023-06-11,Gibraltar Point Beach,13,NE,17,No,NA,19,NA,NONE,Clear,NA
+17235,2023-06-11,Centre Island Beach,13,NE,17,No,NA,18,4,NONE,Clear,NA
+17236,2023-06-11,Ward's Island Beach,13,NE,17,No,NA,19,1,NONE,Clear,NA
+17237,2023-06-11,Cherry Beach,13,NE,17,No,NA,19,2,NONE,Clear,NA
+17238,2023-06-11,Woodbine Beaches,13,NE,17,No,NA,13,56,NONE,clear,NA
+17239,2023-06-11,Kew Balmy Beach,13,NE,17,No,NA,13,32,MOD,clear and a little cloudy,NA
+17240,2023-06-11,Bluffer's Beach Park,13,NE,17,No,NA,12,31,NONE,cloudy,NA
+17241,2023-08-24,Marie Curtis Park East Beach,13,E,17,Yes,2,NA,NA,NONE,clear,2.26
+17242,2023-08-24,Sunnyside Beach,13,E,17,Yes,2,NA,NA,MOD,slightly murky,0.45
+17243,2023-08-24,Hanlan's Point Beach,13,E,17,Yes,2,14,8,NONE,clear,NA
+17244,2023-08-24,Gibraltar Point Beach,13,E,17,Yes,2,14,NA,LOW,clear,NA
+17245,2023-08-24,Centre Island Beach,13,E,17,Yes,2,14,15,NONE,murky,NA
+17246,2023-08-24,Ward's Island Beach,13,E,17,Yes,2,14,NA,NONE,clear,NA
+17247,2023-08-24,Cherry Beach,13,E,17,Yes,2,15,10,NONE,clear,NA
+17248,2023-08-24,Woodbine Beaches,13,E,17,Yes,2,10,10,LOW,clear,NA
+17249,2023-08-24,Kew Balmy Beach,13,E,17,Yes,2,10,44,LOW,clear,NA
+17250,2023-08-24,Bluffer's Beach Park,13,E,17,Yes,2,14,8,LOW,murky,NA
+17251,2025-05-22,Marie Curtis Park East Beach,32,NE,7,Yes,16,9,NA,HIGH,Murky,7.27
+17252,2025-05-22,Sunnyside Beach,32,NE,7,Yes,16,9,NA,NONE,Murky,1.59
+17253,2025-05-22,Hanlan's Point Beach,32,NE,7,Yes,16,9,NA,LOW,Murky,NA
+17254,2025-05-22,Gibraltar Point Beach,32,NE,7,Yes,16,NA,NA,None,None,NA
+17255,2025-05-22,Centre Island Beach,32,NE,7,Yes,16,NA,NA,None,None,NA
+17256,2025-05-22,Ward's Island Beach,32,NE,7,Yes,16,9,NA,LOW,Murky,NA
+17257,2025-05-22,Cherry Beach,32,NE,7,Yes,16,9,NA,LOW,Murky,NA
+17258,2025-05-22,Woodbine Beaches,32,NE,7,Yes,16,7,NA,HIGH,Cloudy,NA
+17259,2025-05-22,Kew Balmy Beach,32,NE,7,Yes,16,7,NA,HIGH,Cloudy,NA
+17260,2025-05-22,Bluffer's Beach Park,32,NE,7,Yes,16,8,NA,HIGH,Murky,NA
+17271,2023-06-24,Marie Curtis Park East Beach,9,W,19,Yes,4,21,NA,NONE,cloudy,0.69
+17272,2023-06-24,Sunnyside Beach,9,W,19,Yes,4,21,NA,NONE,clear,0.64
+17273,2023-06-24,Hanlan's Point Beach,9,W,19,Yes,4,19,1,NONE,clear,NA
+17274,2023-06-24,Gibraltar Point Beach,9,W,19,Yes,4,19,NA,NONE,clear,NA
+17275,2023-06-24,Centre Island Beach,9,W,19,Yes,4,19,NA,NONE,clear,NA
+17276,2023-06-24,Ward's Island Beach,9,W,19,Yes,4,19,NA,NONE,cloudy,NA
+17277,2023-06-24,Cherry Beach,9,W,19,Yes,4,21,NA,NONE,cloudy,NA
+17278,2023-06-24,Woodbine Beaches,9,W,19,Yes,4,18,15,NONE,clear,NA
+17279,2023-06-24,Kew Balmy Beach,9,W,19,Yes,4,18,47,NONE,clear,NA
+17280,2023-06-24,Bluffer's Beach Park,9,W,19,Yes,4,18,NA,NONE,clear,NA
+17281,2023-06-25,Marie Curtis Park East Beach,15,E,22,Yes,1,21,NA,NONE,clear,0.82
+17282,2023-06-25,Sunnyside Beach,15,E,22,Yes,1,21,12,NONE,clear,1.54
+17283,2023-06-25,Hanlan's Point Beach,15,E,22,Yes,1,20,NA,NONE,cloudy,NA
+17284,2023-06-25,Gibraltar Point Beach,15,E,22,Yes,1,20,11,NONE,clear,NA
+17285,2023-06-25,Centre Island Beach,15,E,22,Yes,1,20,28,NONE,clear,NA
+17286,2023-06-25,Ward's Island Beach,15,E,22,Yes,1,21,NA,NONE,clear,NA
+17287,2023-06-25,Cherry Beach,15,E,22,Yes,1,21,NA,NONE,Clear,NA
+17288,2023-06-25,Woodbine Beaches,15,E,22,Yes,1,18,NA,NONE,clear,NA
+17289,2023-06-25,Kew Balmy Beach,15,E,22,Yes,1,19,12,NONE,clear,NA
+17290,2023-06-25,Bluffer's Beach Park,15,E,22,Yes,1,18,NA,NONE,clear,NA
+17291,2023-06-26,Marie Curtis Park East Beach,24,NE,20,Yes,9,21,NA,MOD,cloudy,1.84
+17292,2023-06-26,Sunnyside Beach,24,NE,20,Yes,9,21,11,NONE,cloudy,1.09
+17293,2023-06-26,Hanlan's Point Beach,24,NE,20,Yes,9,20,NA,NONE,clear,NA
+17294,2023-06-26,Gibraltar Point Beach,24,NE,20,Yes,9,20,2,LOW,clear,NA
+17295,2023-06-26,Centre Island Beach,24,NE,20,Yes,9,20,3,NONE,clear,NA
+17296,2023-06-26,Ward's Island Beach,24,NE,20,Yes,9,20,7,NONE,clear,NA
+17297,2023-06-26,Cherry Beach,24,NE,20,Yes,9,20,NA,LOW,clear,NA
+17298,2023-06-26,Woodbine Beaches,24,NE,20,Yes,9,17,NA,NONE,clear,NA
+17299,2023-06-26,Kew Balmy Beach,24,NE,20,Yes,9,17,7,LOW,clear,NA
+17300,2023-06-26,Bluffer's Beach Park,24,NE,20,Yes,9,21,NA,MOD,murky,NA
+17301,2024-07-19,Marie Curtis Park East Beach,4,NW,15,No,NA,19,NA,NONE,Murky,5.23
+17302,2024-07-19,Sunnyside Beach,4,NW,15,No,NA,18,9,NONE,Algae,1.6
+17303,2024-07-19,Hanlan's Point Beach,4,NW,15,No,NA,20,7,NONE,Cloudy,NA
+17304,2024-07-19,Gibraltar Point Beach,4,NW,15,No,NA,20,NA,NONE,Cloudy,NA
+17305,2024-07-19,Centre Island Beach,4,NW,15,No,NA,20,54,NONE,Cloudy,NA
+17306,2024-07-19,Ward's Island Beach,4,NW,15,No,NA,21,NA,NONE,Murky ,NA
+17307,2024-07-19,Cherry Beach,4,NW,15,No,NA,21,11,NONE,Murky ,NA
+17308,2024-07-19,Woodbine Beaches,4,NW,15,No,NA,21,6,NONE,Clear,NA
+17309,2024-07-19,Kew Balmy Beach,4,NW,15,No,NA,22,27,NONE,Clear,NA
+17310,2024-07-19,Bluffer's Beach Park,4,NW,15,No,NA,19,4,NONE,Clear,NA
+17361,2023-07-27,Marie Curtis Park East Beach,9,SW,21,Yes,9,21,NA,LOW,"murky, debris",2.79
+17362,2023-07-27,Sunnyside Beach,9,SW,21,Yes,9,23,3,NONE,murky,3.6
+17363,2023-07-27,Hanlan's Point Beach,9,SW,21,Yes,9,21,NA,NONE,cloudy,NA
+17364,2023-07-27,Gibraltar Point Beach,9,SW,21,Yes,9,22,NA,LOW,cloudy,NA
+17365,2023-07-27,Centre Island Beach,9,SW,21,Yes,9,21,1,LOW,clear,NA
+17366,2023-07-27,Ward's Island Beach,9,SW,21,Yes,9,22,NA,NONE,murky,NA
+17367,2023-07-27,Cherry Beach,9,SW,21,Yes,9,24,NA,NONE,Clear,NA
+17368,2023-07-27,Woodbine Beaches,9,SW,21,Yes,9,18,8,LOW,Clear,NA
+17369,2023-07-27,Kew Balmy Beach,9,SW,21,Yes,9,18,44,LOW,Cloudy,NA
+17370,2023-07-27,Bluffer's Beach Park,9,SW,21,Yes,9,18,5,NONE,Cloudy,NA
+17371,2023-08-05,Marie Curtis Park East Beach,15,NE,20,No,NA,16,NA,LOW,Clear ,1.02
+17372,2023-08-05,Sunnyside Beach,15,NE,20,No,NA,18,6,NONE,Clear,0.53
+17373,2023-08-05,Hanlan's Point Beach,15,NE,20,No,NA,16,15,NONE,Clear,NA
+17374,2023-08-05,Gibraltar Point Beach,15,NE,20,No,NA,18,NA,MOD,Clear,NA
+17375,2023-08-05,Centre Island Beach,15,NE,20,No,NA,18,6,NONE,Clear,NA
+17376,2023-08-05,Ward's Island Beach,15,NE,20,No,NA,19,NA,NONE,Murky,NA
+17377,2023-08-05,Cherry Beach,15,NE,20,No,NA,21,NA,NONE,Murky,NA
+17378,2023-08-05,Woodbine Beaches,15,NE,20,No,NA,17,3,MOD,Clear,NA
+17379,2023-08-05,Kew Balmy Beach,15,NE,20,No,NA,17,51,MOD,Clear,NA
+17380,2023-08-05,Bluffer's Beach Park,15,NE,20,No,NA,15,3,LOW,Murky,NA
+17381,2023-08-06,Marie Curtis Park East Beach,4,NW,18,No,NA,18,NA,LOW,Murky,1.83
+17382,2023-08-06,Sunnyside Beach,4,NW,18,No,NA,18,9,NONE,Clear,0.68
+17383,2023-08-06,Hanlan's Point Beach,4,NW,18,No,NA,19,NA,NONE,Clear,NA
+17384,2023-08-06,Gibraltar Point Beach,4,NW,18,No,NA,19,NA,NONE,Clear,NA
+17385,2023-08-06,Centre Island Beach,4,NW,18,No,NA,19,NA,NONE,Clear,NA
+17386,2023-08-06,Ward's Island Beach,4,NW,18,No,NA,20,NA,NONE,Clear,NA
+17387,2023-08-06,Cherry Beach,4,NW,18,No,NA,20,NA,NONE,Clear,NA
+17388,2023-08-06,Woodbine Beaches,4,NW,18,No,NA,20,NA,LOW,Clear,NA
+17389,2023-08-06,Kew Balmy Beach,4,NW,18,No,NA,20,94,NONE,Clear,NA
+17390,2023-08-06,Bluffer's Beach Park,4,NW,18,No,NA,19,7,NONE,Murky,NA
+17391,2023-05-23,Marie Curtis Park East Beach,21,NE,12,No,NA,11,NA,LOW,Clear,1.55
+17392,2023-05-23,Sunnyside Beach,21,NE,12,No,NA,11,21,NONE,Clear,1.08
+17393,2023-05-23,Hanlan's Point Beach,21,NE,12,No,NA,9,NA,LOW,Clear,NA
+17394,2023-05-23,Gibraltar Point Beach,21,NE,12,No,NA,9,NA,LOW,Clear,NA
+17395,2023-05-23,Centre Island Beach,21,NE,12,No,NA,9,10,LOW,Clear,NA
+17396,2023-05-23,Ward's Island Beach,21,NE,12,No,NA,9,NA,LOW,Clear,NA
+17397,2023-05-23,Cherry Beach,21,NE,12,No,NA,9,NA,LOW,Clear,NA
+17398,2023-05-23,Woodbine Beaches,21,NE,12,No,NA,8,NA,LOW,Cloudy,NA
+17399,2023-05-23,Kew Balmy Beach,21,NE,12,No,NA,8,7,LOW,Cloudy,NA
+17400,2023-05-23,Bluffer's Beach Park,21,NE,12,No,NA,7,41,LOW,Cloudy,NA
+17401,2023-07-08,Marie Curtis Park East Beach,4,SW,17,No,NA,21,NA,NONE,clear,1.44
+17402,2023-07-08,Sunnyside Beach,4,SW,17,No,NA,21,NA,NONE,clear,1.01
+17403,2023-07-08,Hanlan's Point Beach,4,SW,17,No,NA,22,16,NONE,clear,NA
+17404,2023-07-08,Gibraltar Point Beach,4,SW,17,No,NA,22,NA,NONE,clear,NA
+17405,2023-07-08,Centre Island Beach,4,SW,17,No,NA,22,53,NONE,cloudy,NA
+17406,2023-07-08,Ward's Island Beach,4,SW,17,No,NA,22,NA,NONE, clear,NA
+17407,2023-07-08,Cherry Beach,4,SW,17,No,NA,24,5,NONE,clear,NA
+17408,2023-07-08,Woodbine Beaches,4,SW,17,No,NA,20,13,NONE,murky,NA
+17409,2023-07-08,Kew Balmy Beach,4,SW,17,No,NA,20,76,NONE,clear,NA
+17410,2023-07-08,Bluffer's Beach Park,4,SW,17,No,NA,26,NA,NONE,clear,NA
+17411,2023-07-09,Marie Curtis Park East Beach,9,W,18,Yes,NA,19,NA,NONE,Slightly Murky,1.66
+17412,2023-07-09,Sunnyside Beach,9,W,18,Yes,NA,20,NA,NONE,clear,0.98
+17413,2023-07-09,Hanlan's Point Beach,9,W,18,Yes,NA,21,NA,NONE,clear,NA
+17414,2023-07-09,Gibraltar Point Beach,9,W,18,Yes,NA,21,NA,NONE,clear,NA
+17415,2023-07-09,Centre Island Beach,9,W,18,Yes,NA,21,15,NONE,clear,NA
+17416,2023-07-09,Ward's Island Beach,9,W,18,Yes,NA,21,NA,NONE,clear,NA
+17417,2023-07-09,Cherry Beach,9,W,18,Yes,NA,21,NA,NONE,clear,NA
+17418,2023-07-09,Woodbine Beaches,9,W,18,Yes,NA,20,3,NONE,clear,NA
+17419,2023-07-09,Kew Balmy Beach,9,W,18,Yes,NA,21,57,NONE,clear,NA
+17420,2023-07-09,Bluffer's Beach Park,9,W,18,Yes,NA,16,8,NONE,clear,NA
+17421,2023-07-10,Marie Curtis Park East Beach,11,NW,18,Yes,0,20,NA,NONE,clear,0.81
+17422,2023-07-10,Sunnyside Beach,11,NW,18,Yes,0,20,NA,NONE,"clear, debris",0.89
+17423,2023-07-10,Hanlan's Point Beach,11,NW,18,Yes,0,20,NA,NONE,clear,NA
+17424,2023-07-10,Gibraltar Point Beach,11,NW,18,Yes,0,20,NA,NONE,clear,NA
+17425,2023-07-10,Centre Island Beach,11,NW,18,Yes,0,20,7,NONE,clear,NA
+17426,2023-07-10,Ward's Island Beach,11,NW,18,Yes,0,20,1,NONE,clear,NA
+17427,2023-07-10,Cherry Beach,11,NW,18,Yes,0,21,NA,NONE,clear,NA
+17428,2023-07-10,Woodbine Beaches,11,NW,18,Yes,0,20,15,NONE,clear,NA
+17429,2023-07-10,Kew Balmy Beach,11,NW,18,Yes,0,20,48,NONE,clear,NA
+17430,2023-07-10,Bluffer's Beach Park,11,NW,18,Yes,0,16,3,NONE,clear,NA
+17431,2025-06-17,Marie Curtis Park East Beach,21,NE,16,No,NA,13,NA,NONE,"Clear, pollen",1.19
+17432,2025-06-17,Sunnyside Beach,21,NE,16,No,NA,18,NA,NONE,"Clear, pollen",0.83
+17433,2025-06-17,Hanlan's Point Beach,21,NE,16,No,NA,15,2,NONE,Clear,NA
+17434,2025-06-17,Gibraltar Point Beach,21,NE,16,No,NA,15,5,LOW,Cloudy,NA
+17435,2025-06-17,Centre Island Beach,21,NE,16,No,NA,15,3,NONE,Cloudy,NA
+17436,2025-06-17,Ward's Island Beach,21,NE,16,No,NA,14,NA,MOD,Cloudy,NA
+17437,2025-06-17,Cherry Beach,21,NE,16,No,NA,14,1,LOW,Cloudy,NA
+17438,2025-06-17,Woodbine Beaches,21,NE,16,No,NA,15,13,LOW,Cloudy,NA
+17439,2025-06-17,Kew Balmy Beach,21,NE,16,No,NA,15,197,LOW,Cloudy,NA
+17440,2025-06-17,Bluffer's Beach Park,21,NE,16,No,NA,18,NA,NONE,Clear,NA
+17451,2024-08-26,Marie Curtis Park East Beach,9,W,18,No,NA,20,7,NONE,Clear,0.73
+17452,2024-08-26,Sunnyside Beach,9,W,18,No,NA,20,7,NONE,Clear,0.78
+17453,2024-08-26,Hanlan's Point Beach,9,W,18,No,NA,19,NA,NONE,Clear,NA
+17454,2024-08-26,Gibraltar Point Beach,9,W,18,No,NA,19,NA,NONE,Clear,NA
+17455,2024-08-26,Centre Island Beach,9,W,18,No,NA,19,40,NONE,Clear,NA
+17456,2024-08-26,Ward's Island Beach,9,W,18,No,NA,20,NA,NONE,Clear,NA
+17457,2024-08-26,Cherry Beach,9,W,18,No,NA,22,NA,NONE,Clear,NA
+17458,2024-08-26,Woodbine Beaches,9,W,18,No,NA,18,12,NONE,Clear,NA
+17459,2024-08-26,Kew Balmy Beach,9,W,18,No,NA,18,64,NONE,Clear,NA
+17460,2024-08-26,Bluffer's Beach Park,9,W,18,No,NA,19,NA,NONE,Clear,NA
+17461,2023-05-27,Marie Curtis Park East Beach,5,SW,11,No,NA,12,11,NONE,Cloudy,2.25
+17462,2023-05-27,Sunnyside Beach,5,SW,11,No,NA,12,21,NONE,Clear,0.64
+17463,2023-05-27,Hanlan's Point Beach,5,SW,11,No,NA,10,NA,NONE,Clear,NA
+17464,2023-05-27,Gibraltar Point Beach,5,SW,11,No,NA,10,NA,NONE,Cloudy,NA
+17465,2023-05-27,Centre Island Beach,5,SW,11,No,NA,8,14,NONE,Clear,NA
+17466,2023-05-27,Ward's Island Beach,5,SW,11,No,NA,10,2,NONE,Clear,NA
+17467,2023-05-27,Cherry Beach,5,SW,11,No,NA,11,3,NONE,Clear,NA
+17468,2023-05-27,Woodbine Beaches,5,SW,11,No,NA,10,1,NONE,Clear,NA
+17469,2023-05-27,Kew Balmy Beach,5,SW,11,No,NA,10,8,NONE,"Clear, algae",NA
+17470,2023-05-27,Bluffer's Beach Park,5,SW,11,No,NA,11,6,NONE,Clear,NA
+17471,2023-05-28,Marie Curtis Park East Beach,4,NW,14,No,NA,11,21,NONE,clear,1.46
+17472,2023-05-28,Sunnyside Beach,4,NW,14,No,NA,13,27,NONE,clear,0.52
+17473,2023-05-28,Hanlan's Point Beach,4,NW,14,No,NA,13,6,NONE,clear,NA
+17474,2023-05-28,Gibraltar Point Beach,4,NW,14,No,NA,13,1,NONE,clear,NA
+17475,2023-05-28,Centre Island Beach,4,NW,14,No,NA,13,23,NONE,clear,NA
+17476,2023-05-28,Ward's Island Beach,4,NW,14,No,NA,12,NA,NONE,clear,NA
+17477,2023-05-28,Cherry Beach,4,NW,14,No,NA,12,6,NONE,clear,NA
+17478,2023-05-28,Woodbine Beaches,4,NW,14,No,NA,12,NA,NONE,clear,NA
+17479,2023-05-28,Kew Balmy Beach,4,NW,14,No,NA,12,2,NONE,clear,NA
+17480,2023-05-28,Bluffer's Beach Park,4,NW,14,No,NA,11,24,NONE,clear,NA
+17481,2023-05-29,Marie Curtis Park East Beach,21,NE,20,No,NA,11,14,NONE,clear,1.04
+17482,2023-05-29,Sunnyside Beach,21,NE,20,No,NA,14,7,NONE,clear,0.6
+17483,2023-05-29,Hanlan's Point Beach,21,NE,20,No,NA,10,22,NONE,clear,NA
+17484,2023-05-29,Gibraltar Point Beach,21,NE,20,No,NA,11,NA,LOW,clear,NA
+17485,2023-05-29,Centre Island Beach,21,NE,20,No,NA,13,50,NONE,clear,NA
+17486,2023-05-29,Ward's Island Beach,21,NE,20,No,NA,12,16,LOW,clear,NA
+17487,2023-05-29,Cherry Beach,21,NE,20,No,NA,11,4,LOW,clear,NA
+17488,2023-05-29,Woodbine Beaches,21,NE,20,No,NA,10,47,LOW,clear,NA
+17489,2023-05-29,Kew Balmy Beach,21,NE,20,No,NA,10,71,LOW,clear,NA
+17490,2023-05-29,Bluffer's Beach Park,21,NE,20,No,NA,11,36,LOW,clear,NA
+17491,2023-06-22,Marie Curtis Park East Beach,13,E,19,No,NA,18,NA,LOW,clear,1.4
+17492,2023-06-22,Sunnyside Beach,13,E,19,No,NA,18,2,NONE,clear,0.85
+17493,2023-06-22,Hanlan's Point Beach,13,E,19,No,NA,18,NA,NONE,clear,NA
+17494,2023-06-22,Gibraltar Point Beach,13,E,19,No,NA,19,NA,LOW,clear,NA
+17495,2023-06-22,Centre Island Beach,13,E,19,No,NA,19,27,NONE,clear,NA
+17496,2023-06-22,Ward's Island Beach,13,E,19,No,NA,19,NA,LOW,clear,NA
+17497,2023-06-22,Cherry Beach,13,E,19,No,NA,18,NA,NONE,clear,NA
+17498,2023-06-22,Woodbine Beaches,13,E,19,No,NA,17,29,LOW,murky,NA
+17499,2023-06-22,Kew Balmy Beach,13,E,19,No,NA,17,48,LOW,murky,NA
+17500,2023-06-22,Bluffer's Beach Park,13,E,19,No,NA,19,17,LOW,murky,NA
+17571,2023-07-12,Marie Curtis Park East Beach,13,NW,16,Yes,1,14,2,NONE,Clear,NA
+17572,2023-07-12,Sunnyside Beach,13,NW,16,Yes,1,23,NA,NONE,Clear,NA
+17573,2023-07-12,Hanlan's Point Beach,13,NW,16,Yes,1,19,53,NONE,Clear,NA
+17574,2023-07-12,Gibraltar Point Beach,13,NW,16,Yes,1,20,1,NONE,Clear,NA
+17575,2023-07-12,Centre Island Beach,13,NW,16,Yes,1,20,27,NONE,Clear,NA
+17576,2023-07-12,Ward's Island Beach,13,NW,16,Yes,1,20,5,NONE,Clear,NA
+17577,2023-07-12,Cherry Beach,13,NW,16,Yes,1,23,NA,NONE,Clear,NA
+17578,2023-07-12,Woodbine Beaches,13,NW,16,Yes,1,12,11,NONE,Clear,NA
+17579,2023-07-12,Kew Balmy Beach,13,NW,16,Yes,1,10,58,NONE,Clear,NA
+17580,2023-07-12,Bluffer's Beach Park,13,NW,16,Yes,1,13,NA,NONE,Clear,NA
+17581,2024-06-14,Marie Curtis Park East Beach,13,SW,15,Yes,4,12,NA,NONE,Clear,0.61
+17582,2024-06-14,Sunnyside Beach,13,SW,15,Yes,4,14,NA,NONE,Clear ,1.45
+17583,2024-06-14,Hanlan's Point Beach,13,SW,15,Yes,4,8,NA,NONE,Cloudy,NA
+17584,2024-06-14,Gibraltar Point Beach,13,SW,15,Yes,4,8,2,NONE,Clear ,NA
+17585,2024-06-14,Centre Island Beach,13,SW,15,Yes,4,11,4,NONE,Clear ,NA
+17586,2024-06-14,Ward's Island Beach,13,SW,15,Yes,4,12,5,NONE,Clear ,NA
+17587,2024-06-14,Cherry Beach,13,SW,15,Yes,4,14,3,NONE,Clear,NA
+17588,2024-06-14,Woodbine Beaches,13,SW,15,Yes,4,10,NA,NONE,Clear ,NA
+17589,2024-06-14,Kew Balmy Beach,13,SW,15,Yes,4,9,27,NONE,Clear ,NA
+17590,2024-06-14,Bluffer's Beach Park,13,SW,15,Yes,4,9,NA,NONE,Clear ,NA
+17591,2024-07-27,Marie Curtis Park East Beach,8,W,18,No,NA,19,3,NONE,clear,1.41
+17592,2024-07-27,Sunnyside Beach,8,W,18,No,NA,20,35,NONE,clear,0.92
+17593,2024-07-27,Hanlan's Point Beach,8,W,18,No,NA,21,NA,NONE,clear,NA
+17594,2024-07-27,Gibraltar Point Beach,8,W,18,No,NA,21,NA,NONE,clear,NA
+17595,2024-07-27,Centre Island Beach,8,W,18,No,NA,22,17,NONE,clear,NA
+17596,2024-07-27,Ward's Island Beach,8,W,18,No,NA,22,NA,NONE,clear,NA
+17597,2024-07-27,Cherry Beach,8,W,18,No,NA,23,NA,NONE,debris,NA
+17598,2024-07-27,Woodbine Beaches,8,W,18,No,NA,18,21,NONE,clear,NA
+17599,2024-07-27,Kew Balmy Beach,8,W,18,No,NA,19,86,NONE,clear,NA
+17600,2024-07-27,Bluffer's Beach Park,8,W,18,No,NA,16,2,NONE,clear,NA
+17601,2024-07-28,Marie Curtis Park East Beach,13,E,20,No,NA,19,4,LOW,murky,2.55
+17602,2024-07-28,Sunnyside Beach,13,E,20,No,NA,22,16,NONE,clear,2.51
+17603,2024-07-28,Hanlan's Point Beach,13,E,20,No,NA,22,11,NONE,clear,NA
+17604,2024-07-28,Gibraltar Point Beach,13,E,20,No,NA,23,1,LOW,clear,NA
+17605,2024-07-28,Centre Island Beach,13,E,20,No,NA,23,54,NONE,clear,NA
+17606,2024-07-28,Ward's Island Beach,13,E,20,No,NA,23,2,NONE,clear,NA
+17607,2024-07-28,Cherry Beach,13,E,20,No,NA,24,11,NONE,clear,NA
+17608,2024-07-28,Woodbine Beaches,13,E,20,No,NA,21,2,LOW,Cloudy,NA
+17609,2024-07-28,Kew Balmy Beach,13,E,20,No,NA,21,13,LOW,Cloudy,NA
+17610,2024-07-28,Bluffer's Beach Park,13,E,20,No,NA,19,NA,LOW,Cloudy ,NA
+17611,2024-08-23,Marie Curtis Park East Beach,9,SW,16,N/A,NA,19,NA,NONE,Clear,1.23
+17612,2024-08-23,Sunnyside Beach,9,SW,16,N/A,NA,19,16,NONE,"Light debris, bird feathers clear water",1.15
+17613,2024-08-23,Hanlan's Point Beach,9,SW,16,N/A,NA,19,12,LOW,Clear,NA
+17614,2024-08-23,Gibraltar Point Beach,9,SW,16,N/A,NA,19,NA,LOW,clear,NA
+17615,2024-08-23,Centre Island Beach,9,SW,16,N/A,NA,19,8,NONE,clear,NA
+17616,2024-08-23,Ward's Island Beach,9,SW,16,N/A,NA,20,NA,NONE,clear,NA
+17617,2024-08-23,Cherry Beach,9,SW,16,No,NA,20,NA,NONE,Clear,NA
+17618,2024-08-23,Woodbine Beaches,9,SW,16,No,NA,16,NA,NONE,Clear,NA
+17619,2024-08-23,Kew Balmy Beach,9,SW,16,No,NA,17,NA,NONE,Clear,NA
+17620,2024-08-23,Bluffer's Beach Park,9,SW,16,No,NA,17,NA,NONE,Clear,NA
+17691,2023-08-09,Marie Curtis Park East Beach,8,W,19,No,NA,20,NA,NONE,clear,1.28
+17692,2023-08-09,Sunnyside Beach,8,W,19,No,NA,20,NA,NONE,clear and debris,0.65
+17693,2023-08-09,Hanlan's Point Beach,8,W,19,No,NA,18,NA,NONE,clear,NA
+17694,2023-08-09,Gibraltar Point Beach,8,W,19,No,NA,19,NA,NONE,clear,NA
+17695,2023-08-09,Centre Island Beach,8,W,19,No,NA,18,NA,NONE,clear,NA
+17696,2023-08-09,Ward's Island Beach,8,W,19,No,NA,19,NA,NONE,clear,NA
+17697,2023-08-09,Cherry Beach,8,W,19,No,NA,20,NA,NONE,clear,NA
+17698,2023-08-09,Woodbine Beaches,8,W,19,No,NA,20,2,NONE,clear,NA
+17699,2023-08-09,Kew Balmy Beach,8,W,19,No,NA,22,66,NONE,clear,NA
+17700,2023-08-09,Bluffer's Beach Park,8,W,19,No,NA,20,17,NONE,cloudy,NA
+17711,2023-06-15,Marie Curtis Park East Beach,8,W,14,Yes,6,16,19,NONE,cloudy,1.61
+17712,2023-06-15,Sunnyside Beach,8,W,14,Yes,6,15,NA,NONE,murky,0.96
+17713,2023-06-15,Hanlan's Point Beach,8,W,14,Yes,6,13,NA,NONE,clear,NA
+17714,2023-06-15,Gibraltar Point Beach,8,W,14,Yes,6,14,2,NONE,clear,NA
+17715,2023-06-15,Centre Island Beach,8,W,14,Yes,6,15,18,NONE,clear,NA
+17716,2023-06-15,Ward's Island Beach,8,W,14,Yes,6,15,21,NONE,clear,NA
+17717,2023-06-15,Cherry Beach,8,W,14,Yes,6,15,6,NONE,clear,NA
+17718,2023-06-15,Woodbine Beaches,8,W,14,Yes,6,14,4,LOW,Clear,NA
+17719,2023-06-15,Kew Balmy Beach,8,W,14,Yes,6,14,27,LOW,Clear,NA
+17720,2023-06-15,Bluffer's Beach Park,8,W,14,Yes,6,15,2,NONE,Clear,NA
+17721,2023-08-18,Marie Curtis Park East Beach,32,W,15,Yes,6,16,NA,LOW,slightly murky,1.04
+17722,2023-08-18,Sunnyside Beach,32,W,15,Yes,6,16,22,MOD,clear,2.13
+17723,2023-08-18,Hanlan's Point Beach,32,W,15,Yes,6,18,1,HIGH,Murky,NA
+17724,2023-08-18,Gibraltar Point Beach,32,W,15,Yes,6,15,NA,HIGH,Murky,NA
+17725,2023-08-18,Centre Island Beach,32,W,15,Yes,6,23,20,MOD,Murky,NA
+17726,2023-08-18,Ward's Island Beach,32,W,15,Yes,6,21,NA,HIGH,Murky,NA
+17727,2023-08-18,Cherry Beach,32,W,15,Yes,6,20,1,MOD,Murky,NA
+17728,2023-08-18,Woodbine Beaches,32,W,15,Yes,6,17,NA,NONE,Algae,NA
+17729,2023-08-18,Kew Balmy Beach,32,W,15,Yes,6,17,25,NONE,Clear,NA
+17730,2023-08-18,Bluffer's Beach Park,32,W,15,Yes,6,15,NA,LOW,Murky,NA
+17741,2023-06-14,Marie Curtis Park East Beach,28,NE,14,Yes,3,15,NA,NONE,cloudy,4.5
+17742,2023-06-14,Sunnyside Beach,28,NE,14,Yes,3,15,NA,NONE,cloudy,1.43
+17743,2023-06-14,Hanlan's Point Beach,28,NE,14,Yes,3,15,NA,NONE,clear,NA
+17744,2023-06-14,Gibraltar Point Beach,28,NE,14,Yes,3,15,NA,NONE,clear,NA
+17745,2023-06-14,Centre Island Beach,28,NE,14,Yes,3,16,2,NONE,clear,NA
+17746,2023-06-14,Ward's Island Beach,28,NE,14,Yes,3,17,12,NONE,cloudy,NA
+17747,2023-06-14,Cherry Beach,28,NE,14,Yes,3,17,21,NONE,cloudy,NA
+17748,2023-06-14,Woodbine Beaches,28,NE,14,Yes,3,15,11,MOD,clear,NA
+17749,2023-06-14,Kew Balmy Beach,28,NE,14,Yes,3,15,37,MOD,clear,NA
+17750,2023-06-14,Bluffer's Beach Park,28,NE,14,Yes,3,16,20,LOW,"murky, debris",NA
+17751,2024-06-07,Marie Curtis Park East Beach,15,W,16,Yes,1,17,NA,NONE,clear,0.54
+17752,2024-06-07,Sunnyside Beach,15,W,16,Yes,1,18,NA,NONE,clear,0.83
+17753,2024-06-07,Hanlan's Point Beach,15,W,16,Yes,1,16,8,NONE,cloudy,NA
+17754,2024-06-07,Gibraltar Point Beach,15,W,16,Yes,1,14,NA,NONE,cloudy,NA
+17755,2024-06-07,Centre Island Beach,15,W,16,Yes,1,15,17,NONE,clear,NA
+17756,2024-06-07,Ward's Island Beach,15,W,16,Yes,1,15,NA,NONE,cloudy,NA
+17757,2024-06-07,Cherry Beach,15,W,16,Yes,1,15,3,NONE,cloudy,NA
+17758,2024-06-07,Woodbine Beaches,15,W,16,Yes,1,13,3,NONE,clear,NA
+17759,2024-06-07,Kew Balmy Beach,15,W,16,Yes,1,13,7,LOW,clear,NA
+17760,2024-06-07,Bluffer's Beach Park,15,W,16,Yes,1,12,1,NONE,clear,NA
+17801,2025-06-19,Marie Curtis Park East Beach,15,S,18,Yes,14,16,12,HIGH,Debris,9
+17802,2025-06-19,Sunnyside Beach,15,S,18,Yes,14,19,19,MOD,Debris,9.74
+17803,2025-06-19,Hanlan's Point Beach,15,S,18,Yes,14,16,47,MOD,Cloudy,NA
+17804,2025-06-19,Gibraltar Point Beach,15,S,18,Yes,14,17,12,MOD,Cloudy,NA
+17805,2025-06-19,Centre Island Beach,15,S,18,Yes,14,17,36,MOD,Clear,NA
+17806,2025-06-19,Ward's Island Beach,15,S,18,Yes,14,17,NA,MOD,Cloudy,NA
+17807,2025-06-19,Cherry Beach,15,S,18,Yes,14,18,8,MOD,Cloudy,NA
+17808,2025-06-19,Woodbine Beaches,15,S,18,Yes,14,18,3,HIGH,Cloudy,NA
+17809,2025-06-19,Kew Balmy Beach,15,S,18,Yes,14,18,18,HIGH,Cloudy,NA
+17810,2025-06-19,Bluffer's Beach Park,15,S,18,Yes,14,16,13,MOD,Cloudy,NA
+17831,2023-06-30,Marie Curtis Park East Beach,11,SE,19,Yes,NA,20,NA,MOD,murky debris,2.89
+17832,2023-06-30,Sunnyside Beach,11,SE,19,Yes,NA,21,14,NONE,clear,1.2
+17833,2023-06-30,Hanlan's Point Beach,11,SE,19,Yes,NA,20,3,NONE,slightly murky,NA
+17834,2023-06-30,Gibraltar Point Beach,11,SE,19,Yes,NA,20,NA,MOD,clear,NA
+17835,2023-06-30,Centre Island Beach,11,SE,19,Yes,NA,20,23,LOW,clear,NA
+17836,2023-06-30,Ward's Island Beach,11,SE,19,Yes,NA,21,NA,NONE,slightly murky,NA
+17837,2023-06-30,Cherry Beach,11,SE,19,Yes,NA,21,NA,LOW,slightly murky,NA
+17838,2023-06-30,Woodbine Beaches,11,SE,19,Yes,NA,17,13,LOW,murky,NA
+17839,2023-06-30,Kew Balmy Beach,11,SE,19,Yes,NA,17,41,LOW,clear,NA
+17840,2023-06-30,Bluffer's Beach Park,11,SE,19,Yes,NA,19,1,LOW,murky,NA
+17841,2024-08-03,Marie Curtis Park East Beach,13,NW,24,No,NA,NA,3,NONE,Clear,1.62
+17842,2024-08-03,Sunnyside Beach,13,NW,24,No,NA,NA,16,NONE,Clear,1.2
+17843,2024-08-03,Hanlan's Point Beach,13,NW,24,No,NA,25,4,NONE,Clear,NA
+17844,2024-08-03,Gibraltar Point Beach,13,NW,24,No,NA,24,NA,NONE,Cleare,NA
+17845,2024-08-03,Centre Island Beach,13,NW,24,No,NA,24,28,NONE,Clear,NA
+17846,2024-08-03,Ward's Island Beach,13,NW,24,No,NA,25,NA,NONE,Clear ,NA
+17847,2024-08-03,Cherry Beach,13,NW,24,No,NA,26,NA,NONE,Clear,NA
+17848,2024-08-03,Woodbine Beaches,13,NW,24,No,NA,21,14,NONE,clear,NA
+17849,2024-08-03,Kew Balmy Beach,13,NW,24,No,NA,22,62,NONE,clear,NA
+17850,2024-08-03,Bluffer's Beach Park,13,NW,24,No,NA,21,2,NONE,clear,NA
+17861,2023-06-05,Marie Curtis Park East Beach,5,N,16,No,NA,17,NA,LOW,Murky,1.71
+17862,2023-06-05,Sunnyside Beach,5,N,16,No,NA,17,29,NONE,Clear,0.65
+17863,2023-06-05,Hanlan's Point Beach,5,N,16,No,NA,11,17,NONE,Cloudy,NA
+17864,2023-06-05,Gibraltar Point Beach,5,N,16,No,NA,13,NA,NONE,Cloudy,NA
+17865,2023-06-05,Centre Island Beach,5,N,16,No,NA,12,53,NONE,Clear,NA
+17866,2023-06-05,Ward's Island Beach,5,N,16,No,NA,12,NA,NONE,Clear,NA
+17867,2023-06-05,Cherry Beach,5,N,16,No,NA,14,12,NONE,Clearly,NA
+17868,2023-06-05,Woodbine Beaches,5,N,16,No,NA,13,7,NONE,Cloudy,NA
+17869,2023-06-05,Kew Balmy Beach,5,N,16,No,NA,16,25,LOW,Cloudy,NA
+17870,2023-06-05,Bluffer's Beach Park,5,N,16,No,NA,16,56,NONE,Cloudy,NA
+17901,2023-05-24,Marie Curtis Park East Beach,8,W,12,No,NA,NA,6,LOW,clear ,2.52
+17902,2023-05-24,Sunnyside Beach,8,W,12,No,NA,NA,22,LOW,murky,0.94
+17903,2023-05-24,Hanlan's Point Beach,8,W,12,No,NA,NA,3,LOW,clear,NA
+17904,2023-05-24,Gibraltar Point Beach,8,W,12,No,NA,NA,NA,LOW,clear,NA
+17905,2023-05-24,Centre Island Beach,8,W,12,No,NA,NA,28,LOW,clear,NA
+17906,2023-05-24,Ward's Island Beach,8,W,12,No,NA,NA,17,LOW,clear,NA
+17907,2023-05-24,Cherry Beach,8,W,12,No,NA,NA,1,LOW,clear,NA
+17908,2023-05-24,Woodbine Beaches,8,W,12,No,NA,6,63,LOW,clear,NA
+17909,2023-05-24,Kew Balmy Beach,8,W,12,No,NA,7,31,LOW,clear,NA
+17910,2023-05-24,Bluffer's Beach Park,8,W,12,No,NA,8,7,NONE,murky,NA
+17931,2024-06-18,Marie Curtis Park East Beach,21,S,19,No,NA,NA,NA,None,None,NA
+17932,2024-06-18,Sunnyside Beach,21,S,19,No,NA,18,14,NONE,Cloudy,2.03
+17933,2024-06-18,Hanlan's Point Beach,21,S,19,No,NA,NA,NA,None,None,NA
+17934,2024-06-18,Gibraltar Point Beach,21,S,19,No,NA,NA,NA,None,None,NA
+17935,2024-06-18,Centre Island Beach,21,S,19,No,NA,NA,NA,None,None,NA
+17936,2024-06-18,Ward's Island Beach,21,S,19,No,NA,NA,NA,None,None,NA
+17937,2024-06-18,Cherry Beach,21,S,19,No,NA,13,NA,LOW,Murky,NA
+17938,2024-06-18,Woodbine Beaches,21,S,19,No,NA,NA,NA,None,None,NA
+17939,2024-06-18,Kew Balmy Beach,21,S,19,No,NA,NA,10,NONE,Clear,NA
+17940,2024-06-18,Bluffer's Beach Park,21,S,19,No,NA,13,2,NONE,Clear,NA
+17991,2023-06-09,Marie Curtis Park East Beach,11,W,14,Yes,0,14,NA,NONE,clear,0.84
+17992,2023-06-09,Sunnyside Beach,11,W,14,Yes,0,14,4,NONE,clear,0.78
+17993,2023-06-09,Hanlan's Point Beach,11,W,14,Yes,0,13,NA,LOW,clear,NA
+17994,2023-06-09,Gibraltar Point Beach,11,W,14,Yes,0,13,1,NONE,clear,NA
+17995,2023-06-09,Centre Island Beach,11,W,14,Yes,0,14,4,NONE,clear,NA
+17996,2023-06-09,Ward's Island Beach,11,W,14,Yes,0,14,2,NONE,clear,NA
+17997,2023-06-09,Cherry Beach,11,W,14,Yes,0,15,NA,NONE,clear,NA
+17998,2023-06-09,Woodbine Beaches,11,W,14,Yes,0,14,2,NONE,clear,NA
+17999,2023-06-09,Kew Balmy Beach,11,W,14,Yes,0,14,20,NONE,clear,NA
+18000,2023-06-09,Bluffer's Beach Park,11,W,14,Yes,0,16,13,NONE,clear,NA
+18011,2023-07-13,Marie Curtis Park East Beach,17,E,20,No,NA,19,7,MOD,Murky,NA
+18012,2023-07-13,Sunnyside Beach,17,E,20,No,NA,20,46,NONE,Cloudy,NA
+18013,2023-07-13,Hanlan's Point Beach,17,E,20,No,NA,NA,NA,HIGH,Cloudy,NA
+18014,2023-07-13,Gibraltar Point Beach,17,E,20,No,NA,NA,NA,HIGH,Cloudy,NA
+18015,2023-07-13,Centre Island Beach,17,E,20,No,NA,19,NA,MOD,Cloudy,NA
+18016,2023-07-13,Ward's Island Beach,17,E,20,No,NA,21,NA,NONE,Clear,NA
+18017,2023-07-13,Cherry Beach,17,E,20,No,NA,21.5,NA,NONE,Clear,NA
+18018,2023-07-13,Woodbine Beaches,17,E,20,No,NA,14,1,HIGH,"Cloudy, Algae + Debris",NA
+18019,2023-07-13,Kew Balmy Beach,17,E,20,No,NA,14,60,HIGH,"Cloudy, Algae + Debris",NA
+18020,2023-07-13,Bluffer's Beach Park,17,E,20,No,NA,14,NA,HIGH,Murky,NA
+18141,2023-06-03,Marie Curtis Park East Beach,28,NE,21,Yes,2,18,NA,LOW,Cloudy,3.79
+18142,2023-06-03,Sunnyside Beach,28,NE,21,Yes,2,17,23,NONE,Clear,0.62
+18143,2023-06-03,Hanlan's Point Beach,28,NE,21,Yes,2,19,2,LOW,Clear,NA
+18144,2023-06-03,Gibraltar Point Beach,28,NE,21,Yes,2,19,12,MOD,Clear,NA
+18145,2023-06-03,Centre Island Beach,28,NE,21,Yes,2,19,4,LOW,Clear,NA
+18146,2023-06-03,Ward's Island Beach,28,NE,21,Yes,2,17,2,MOD,Clear,NA
+18147,2023-06-03,Cherry Beach,28,NE,21,Yes,2,18,7,MOD,Clear,NA
+18148,2023-06-03,Woodbine Beaches,28,NE,21,Yes,2,15,55,MOD,clear,NA
+18149,2023-06-03,Kew Balmy Beach,28,NE,21,Yes,2,14,14,MOD,clear,NA
+18150,2023-06-03,Bluffer's Beach Park,28,NE,21,Yes,2,16,NA,LOW,murky,NA
+18171,2024-08-16,Marie Curtis Park East Beach,17,NE,20,No,NA,21,3,MOD,Debris,0.58
+18172,2024-08-16,Sunnyside Beach,17,NE,20,No,NA,21,15,NONE,Clear,0.41
+18173,2024-08-16,Hanlan's Point Beach,17,NE,20,No,NA,21,NA,NONE,Clear,NA
+18174,2024-08-16,Gibraltar Point Beach,17,NE,20,No,NA,22,NA,NONE,Clear,NA
+18175,2024-08-16,Centre Island Beach,17,NE,20,No,NA,22,6,NONE,Clear,NA
+18176,2024-08-16,Ward's Island Beach,17,NE,20,No,NA,22,NA,NONE,Murky,NA
+18177,2024-08-16,Cherry Beach,17,NE,20,No,NA,23,NA,NONE,Clear,NA
+18178,2024-08-16,Woodbine Beaches,17,NE,20,No,NA,14,4,NONE,Clear,NA
+18179,2024-08-16,Kew Balmy Beach,17,NE,20,No,NA,15,13,NONE,Clear,NA
+18180,2024-08-16,Bluffer's Beach Park,17,NE,20,No,NA,15,5,LOW,Clear,NA
+18211,2023-09-05,Marie Curtis Park East Beach,9,W,21,No,NA,NA,NA,None,None,NA
+18212,2023-09-05,Sunnyside Beach,9,W,21,No,NA,NA,NA,None,None,NA
+18213,2023-09-05,Hanlan's Point Beach,9,W,21,No,NA,NA,NA,None,None,NA
+18214,2023-09-05,Gibraltar Point Beach,9,W,21,No,NA,NA,NA,None,None,NA
+18215,2023-09-05,Centre Island Beach,9,W,21,No,NA,NA,NA,None,None,NA
+18216,2023-09-05,Ward's Island Beach,9,W,21,No,NA,NA,NA,None,None,NA
+18217,2023-09-05,Cherry Beach,9,W,21,No,NA,24,NA,NONE,Clear,NA
+18218,2023-09-05,Woodbine Beaches,9,W,21,No,NA,20,NA,NONE,Clear,NA
+18219,2023-09-05,Kew Balmy Beach,9,W,21,No,NA,20,NA,NONE,Clear,NA
+18220,2023-09-05,Bluffer's Beach Park,9,W,21,No,NA,NA,NA,None,None,NA
+18221,2023-09-09,Marie Curtis Park East Beach,13,E,19,No,NA,NA,NA,None,None,NA
+18222,2023-09-09,Sunnyside Beach,13,E,19,No,NA,NA,NA,None,None,NA
+18223,2023-09-09,Hanlan's Point Beach,13,E,19,No,NA,NA,NA,None,None,NA
+18224,2023-09-09,Gibraltar Point Beach,13,E,19,No,NA,NA,NA,None,None,NA
+18225,2023-09-09,Centre Island Beach,13,E,19,No,NA,NA,NA,None,None,NA
+18226,2023-09-09,Ward's Island Beach,13,E,19,No,NA,NA,NA,None,None,NA
+18227,2023-09-09,Cherry Beach,13,E,19,No,NA,20,6,LOW,clear,NA
+18228,2023-09-09,Woodbine Beaches,13,E,19,No,NA,19,8,LOW,clear,NA
+18229,2023-09-09,Kew Balmy Beach,13,E,19,No,NA,19,100,LOW,clear,NA
+18230,2023-09-09,Bluffer's Beach Park,13,E,19,No,NA,NA,NA,None,None,NA
+18231,2024-06-06,Marie Curtis Park East Beach,8,SW,17,Yes,1,18,NA,NONE,Algae,1.42
+18232,2024-06-06,Sunnyside Beach,8,SW,17,Yes,1,20,12,NONE,Algae,1.15
+18233,2024-06-06,Hanlan's Point Beach,8,SW,17,Yes,1,18,2,NONE,Clear,NA
+18234,2024-06-06,Gibraltar Point Beach,8,SW,17,Yes,1,15,30,NONE,Clear,NA
+18235,2024-06-06,Centre Island Beach,8,SW,17,Yes,1,17,29,NONE,Clear,NA
+18236,2024-06-06,Ward's Island Beach,8,SW,17,Yes,1,17,NA,NONE,Clear,NA
+18237,2024-06-06,Cherry Beach,8,SW,17,Yes,1,18,22,NONE,Clear ,NA
+18238,2024-06-06,Woodbine Beaches,8,SW,17,Yes,1,16,1,NONE,Clear ,NA
+18239,2024-06-06,Kew Balmy Beach,8,SW,17,Yes,1,18,50,NONE,Cloudy ,NA
+18240,2024-06-06,Bluffer's Beach Park,8,SW,17,Yes,1,15,2,NONE,Clear,NA
+18241,2024-09-04,Marie Curtis Park East Beach,4,SE,13,No,NA,NA,NA,None,None,NA
+18242,2024-09-04,Sunnyside Beach,4,SE,13,No,NA,18,52,NONE,clear,5.97
+18243,2024-09-04,Hanlan's Point Beach,4,SE,13,No,NA,NA,NA,None,None,NA
+18244,2024-09-04,Gibraltar Point Beach,4,SE,13,No,NA,NA,NA,None,None,NA
+18245,2024-09-04,Centre Island Beach,4,SE,13,No,NA,NA,NA,None,None,NA
+18246,2024-09-04,Ward's Island Beach,4,SE,13,No,NA,NA,NA,None,None,NA
+18247,2024-09-04,Cherry Beach,4,SE,13,No,NA,22,11,NONE,clear,NA
+18248,2024-09-04,Woodbine Beaches,4,SE,13,No,NA,20,2,NONE,clear,NA
+18249,2024-09-04,Kew Balmy Beach,4,SE,13,No,NA,21,2,NONE,cloudy,NA
+18250,2024-09-04,Bluffer's Beach Park,4,SE,13,No,NA,NA,NA,None,None,NA
+18251,2025-06-14,Marie Curtis Park East Beach,20,NE,15,No,NA,12,24,HIGH,"Algae, Murky",1.74
+18252,2025-06-14,Sunnyside Beach,20,NE,15,No,NA,12,20,NONE,Clear,0.45
+18253,2025-06-14,Hanlan's Point Beach,20,NE,15,No,NA,11,1,NONE,Clear,NA
+18254,2025-06-14,Gibraltar Point Beach,20,NE,15,No,NA,12,5,MOD,Cloudy,NA
+18255,2025-06-14,Centre Island Beach,20,NE,15,No,NA,11,28,LOW,Clear,NA
+18256,2025-06-14,Ward's Island Beach,20,NE,15,No,NA,12,NA,NONE,Clear,NA
+18257,2025-06-14,Cherry Beach,24,NE,15,No,NA,10,6,NONE,Clear,NA
+18258,2025-06-14,Woodbine Beaches,24,NE,15,No,NA,12,NA,MOD,Cloudy,NA
+18259,2025-06-14,Kew Balmy Beach,24,NE,15,No,NA,12,3,MOD,Cloudy,NA
+18260,2025-06-14,Bluffer's Beach Park,24,NE,15,No,NA,12,NA,LOW,Cloudy,NA
+18301,2023-07-22,Marie Curtis Park East Beach,5,W,18,No,NA,20,NA,NONE,Clear,0.66
+18302,2023-07-22,Sunnyside Beach,5,W,18,No,NA,18,8,NONE,Clear,0.53
+18303,2023-07-22,Hanlan's Point Beach,5,W,18,No,NA,18,4,NONE,Murky,NA
+18304,2023-07-22,Gibraltar Point Beach,5,W,18,No,NA,18,NA,NONE,Clear,NA
+18305,2023-07-22,Centre Island Beach,5,W,18,No,NA,18,12,NONE,Clear,NA
+18306,2023-07-22,Ward's Island Beach,5,W,18,No,NA,20,NA,NONE,Murky,NA
+18307,2023-07-22,Cherry Beach,5,W,18,No,NA,21,2,NONE,Clear,NA
+18308,2023-07-22,Woodbine Beaches,5,W,18,No,NA,21,2,NONE,Clear,NA
+18309,2023-07-22,Kew Balmy Beach,5,W,18,No,NA,22,63,NONE,Clear,NA
+18310,2023-07-22,Bluffer's Beach Park,5,W,18,No,NA,20,5,NONE,Clear,NA
+18311,2023-07-23,Marie Curtis Park East Beach,5,W,19,No,NA,19,NA,NONE,Clear,NA
+18312,2023-07-23,Sunnyside Beach,5,W,19,No,NA,20,5,NONE,"Clear, Algae, Debris",NA
+18313,2023-07-23,Hanlan's Point Beach,5,W,19,No,NA,20,2,NONE,Clear,NA
+18314,2023-07-23,Gibraltar Point Beach,5,W,19,No,NA,19,NA,NONE,Clear,NA
+18315,2023-07-23,Centre Island Beach,5,W,19,No,NA,19,4,NONE,Clear,NA
+18316,2023-07-23,Ward's Island Beach,5,W,19,No,NA,21,4,NONE,Clear,NA
+18317,2023-07-23,Cherry Beach,5,W,19,No,NA,22,12,NONE,Clear,NA
+18318,2023-07-23,Woodbine Beaches,5,W,19,No,NA,20,NA,NONE,Cloudy,NA
+18319,2023-07-23,Kew Balmy Beach,5,W,19,No,NA,20,75,NONE,Clear,NA
+18320,2023-07-23,Bluffer's Beach Park,5,W,19,No,NA,21,20,NONE,Clear,NA
+18341,2023-06-21,Marie Curtis Park East Beach,30,NE,20,No,NA,18,NA,MOD,cloudy,3.49
+18342,2023-06-21,Sunnyside Beach,30,NE,20,No,NA,19,8,MOD,clear,0.91
+18343,2023-06-21,Hanlan's Point Beach,30,NE,20,No,NA,17,NA,NONE,"clear, pollen",NA
+18344,2023-06-21,Gibraltar Point Beach,30,NE,20,No,NA,16,NA,MOD,clear,NA
+18345,2023-06-21,Centre Island Beach,30,NE,20,No,NA,18,8,LOW,"clear, pollen",NA
+18346,2023-06-21,Ward's Island Beach,30,NE,20,No,NA,17,NA,NONE,clear,NA
+18347,2023-06-21,Cherry Beach,30,NE,20,No,NA,17,NA,NONE,"clear, pollen",NA
+18348,2023-06-21,Woodbine Beaches,30,NE,20,No,NA,17,9,LOW,Cloudy,NA
+18349,2023-06-21,Kew Balmy Beach,30,NE,20,No,NA,17,16,LOW,Cloudy,NA
+18350,2023-06-21,Bluffer's Beach Park,30,NE,20,No,NA,18,NA,LOW,Murky,NA

@@ -1,0 +1,415 @@
+---
+title: "Data Manipulation: Part 1"
+format: html
+---
+
+In this lesson, we will be learning about the fundamentals of data in R.
+
+## Contents
+
+1.  Vectors
+2.  Data types
+    a.  Doubles and integers (numbers)
+    b.  Character strings
+    c.  Logical
+    d.  Factors
+    e.  Dates and times
+3.  Coercing between data types
+4.  Data frames and tibbles
+
+### Resources for this lesson
+
+-   [Chapter 5: R Objects in *Hands-On Programming with R*](https://rstudio-education.github.io/hopr/r-objects.html)
+
+-   [Chapter 16: Factors in *R for Data Science (2nd ed.)*](https://r4ds.hadley.nz/factors.html)
+
+-   [Chapter 17: Dates and times in *R for Data Science (2nd ed.)*](https://r4ds.hadley.nz/datetimes.html)
+
+## 1. Vectors
+
+Atomic vectors (or just *vectors*) are an object that store sets of values. They are made using the `c()` function, and each contains only values from one "data type".
+
+For example,
+
+```{r}
+some_numbers <- c(1, -3, 5/3, 2.1) # contains only numbers
+some_strings <- c("apple", "abc", "R") # contains only strings
+```
+
+They are important because:
+
+-   they allow for operations of groups of values at a time
+
+-   many more complicated objects in R are made of vectors
+
+You can extract specific elements of a vector using `[]`, like:
+
+```{r}
+some_numbers[3]
+
+numbers_i_want <- c(3, 4)
+some_numbers[numbers_i_want]
+```
+
+## 2. Data types
+
+Every object in R has a **type**, which determines what kind of operations can be done on the object. We'll go through some of the common ones that you'll encounter.
+
+### a. Doubles and integers
+
+Numbers in R are doubles by default, which can be positive or negative, and have decimal values or not.
+
+```{r}
+double_vector <- c(3.1, -73, 2700) 
+typeof(double_vector) 
+length(double_vector)
+```
+
+Numbers can be specified to be integers by ending the number with an `L`.
+
+```{r}
+integer_vector <- c(3L, -73L, 2700L)
+typeof(integer_vector)
+length(integer_vector)
+```
+
+It's unlikely that you'll need to make this distinction in practice – mostly you will just work with doubles.
+
+### b. Character strings
+
+Character strings contain text information, and can be defined by enclosing text in quotes `""`.
+
+``` r
+character_vector <- c("hello", "world", "2,000")
+typeof(character_vector)
+length(character_vector)
+```
+
+A common error is to try to work with numbers that are defined as character strings, for example:
+
+```{r}
+x <- "5"
+y <- "4"
+
+x + y
+```
+
+A very useful package for working with strings is the `stringr` package, which is included in the tidyverse. Functions from this package typically start with `str_`.
+
+```{r}
+library(tidyverse)
+
+# Open vignettes and look at "Introduction to stringr"
+browseVignettes(package = "stringr")
+```
+
+Using this package, you can, for example:
+
+-   check the length of a string:
+
+    ```{r}
+    favourite_movie <- "Ice Age 2"
+    str_length(favourite_movie)
+    ```
+
+-   combine strings:
+
+    ```{r}
+    favourite_movie_subtitle <- "The Meltdown"
+    str_c(favourite_movie, ": ", favourite_movie_subtitle)
+    ```
+
+-   change capitalization:
+
+    ```{r}
+    str_to_lower("LOWER case")
+    str_to_upper("UPPER case")
+    ```
+
+-   check whether a pattern appears in a string:
+
+    ```{r}
+    movies <- c("Ice Age 2", "Madagascar", "A Bug's Life")
+    str_detect(movies, "Ice Age")
+    ```
+
+When using functions like `str_detect`, `str_extract`, and `str_subset`, the pattern is usually defined as a regular expression, or **regex**.
+
+Regular expressions provide ways to match more specific or general strings. For example,
+
+-   `^` matches to the start of a string
+
+    ```{r}
+    places <- c("TORONTO", "ONTARIO")
+    str_detect(places, "^ON")
+    ```
+
+-   `$` matches to the end of a string
+
+    ```{r}
+    places <- c("TORONTO", "LONDON", "ONTARIO")
+    str_detect(places, "ON$")
+    ```
+
+-   a period `.` matches any character
+
+    ```{r}
+    provinces <- c("BC", "NL", "NS", "QC")
+    str_extract(provinces, "N.")
+    str_extract(provinces, ".C")
+    ```
+
+More help with regular expressions is available by looking at the vignette:
+
+```{r}
+# open regular expressions vignette
+vignette("regular-expressions")
+```
+
+You can find more information on the `stringr` package and functions:
+
+-   on the website: <https://stringr.tidyverse.org/>
+
+-   using the package documentation:
+
+    ```{r}
+    help(package = "stringr")
+    ```
+
+### c. Logical values
+
+Logical values are usually the result of checking whether something is true. They can either be `TRUE` or `FALSE`. We already saw an example above:
+
+```{r}
+movies <- c("Ice Age 2", "Madagascar", "A Bug's Life")
+str_detect(movies, "Ice Age")
+```
+
+Comparisons between objects or values also often return logical values:
+
+```{r}
+x <- 1:5
+x > 3
+x == 3
+x != 3
+```
+
+Checking whether something is "in" a vector also returns a logical value:
+
+```{r}
+favourite_fruits <- c("apple", "pomengranate", "mango", "pear")
+"mango" %in% favourite_fruits
+"blueberry" %in% favourite_fruits
+```
+
+You can check whether multiple things are true at once, or if one of several things is true:
+
+```{r}
+vowels <- "aeiou"
+
+# Check that 2 things are true at once
+str_detect(vowels, "a") & str_detect(vowels, "o")
+str_detect(vowels, "a") & str_detect(vowels, "q") 
+
+# Check that at least one thing is true
+str_detect(vowels, "a") | str_detect(vowels, "o")
+str_detect(vowels, "a") | str_detect(vowels, "q")
+str_detect(vowels, "b") | str_detect(vowels, "q")
+```
+
+### d. Factors
+
+Factors are used for categorical variables that are known to only take a fixed set of possible values. The set of possible values is referred to as the **levels** of a factor. For example,
+
+```{r}
+# Define levels
+all_months <- c(
+  "Jan", "Feb", "Mar", "Apr", "May", "Jun", 
+  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+)
+
+months <- c("Dec", "Apr", "Jan", "Mar", "Apr")
+
+factor(months, levels = all_months)
+```
+
+This might be useful if the levels of the factor have some natural order, in which case we use the `ordered` argument:
+
+```{r}
+months_factor <- factor(months, levels = all_months, ordered = TRUE)
+
+months_factor[1]
+months_factor[4]
+
+months_factor[1] > months_factor[4]
+```
+
+Or, we might "recode" the factor so that we can change all of the relevant values at once:
+
+```{r}
+library(forcats)
+
+fct_recode(months_factor, "April" = "Apr")
+```
+
+The `forcats` package (also in the tidyverse) provides some useful functions for working with factors.
+
+### e. Dates and times
+
+The `lubridate` package provides useful tools to work with dates. There are three relevant data types:
+
+-   a date
+
+-   a time (within a day)
+
+-   a date-time, which uniquely identifies a moment in time
+
+```{r}
+library(lubridate)
+
+today()
+class(today())
+
+now()
+class(now())
+```
+
+You can define dates from strings and other objects:
+
+```{r}
+ymd("2017-01-31")
+ymd(20170131)
+mdy("January 31st, 2017")
+dmy("31-Jan-2017")
+```
+
+And you can define datetimes similarly:
+
+```{r}
+ymd_hms("2016-07-08 12:34:56")
+mdy_hms("July 1, 1867 15:00:00")
+```
+
+You can perform operations with dates and times:
+
+```{r}
+canadian_confederation_date <- mdy("July 1, 1867")
+american_independence_date <- mdy("July 4, 1776")
+
+country_age_gap <- canadian_confederation_date - american_independence_date
+
+country_age_gap
+as.duration(country_age_gap)
+
+canada_age <- today() - canadian_confederation_date
+```
+
+## Coercing between different types
+
+R will sometimes convert your objects to different types, according to these rules:
+
+![from Hands-On Programming with R](../../03_instructional_team/markdown_slides/pics/03_coercion_rules.png){width="443"}
+
+For example, if the thing you're trying to do requires a number, but you supply a logical value, it will convert it for you.
+
+```{r}
+TRUE + 3.14159
+```
+
+This means you can use functions for numbers on logical values. For example,
+
+```{r}
+sum(c(TRUE, TRUE, FALSE))
+```
+
+It will not convert it for you if you supply a character string
+
+```{r}
+"500" + 500
+```
+
+Anything will be converted to a string if the function is for strings.
+
+```{r}
+str_c("Ice Age ", 1+1)
+```
+
+In many cases you can "force" objects to be converted by using `as.___` functions. If the input doesn't make sense, or can't be easily converted, it'll return an `NA` value.
+
+```{r}
+as.numeric("500") + 500
+as.numeric("eight") + 500
+```
+
+## In-Class Exercises
+
+1.  Find how many days are left in the year.
+2.  How many spaces appear in the sentence, "The quick brown fox jumped over the lazy dog."? (Hint: you may need to look up a relevant function to use.)
+
+## Data frames and tibbles
+
+Dataframes are one of the most common ways in R to store tabular data. They consist of rows, usually each representing an observation, and columns, each usually representing a variable. You can construct a simple dataframe with the `data.frame()` function, and giving vectors to be its columns.
+
+```{r}
+simple_dataframe <- data.frame(numbers = 1:14, letters = c("a", "b", "c", "d"))
+simple_dataframe
+```
+
+You can then retrieve the columns as vectorsusing `$` or `[[]]` syntax:
+
+```{r}
+simple_dataframe$numbers
+simple_dataframe[["letters"]]
+```
+
+Using `[]` syntax extracts that column but keeps it as a dataframe:
+
+```{r}
+simple_dataframe["letters"]
+```
+
+Tibbles are a specific kind of dataframe with a few subtle differences:
+
+-   Tibbles print more nicely and are easier to read in the console
+-   Subsetting works differently in some cases
+-   Tibbles are "stricter" and so they're safer to use
+    -   more predictable behaviour
+
+They generally print more nicely in the console:
+
+```{r}
+simple_tibble <- as.tibble(simple_dataframe)
+simple_tibble
+```
+
+With respect to subsetting, dataframes allow for "partial matching", but tibbles do not. Compare:
+
+```{r}
+simple_dataframe$num
+simple_tibble$num
+```
+
+There are some more minor differences, but in most cases, tibbles and dataframes are interchangeable, but tibbles are generally recommended to use because of less unexpected behaviour.
+
+You can see the names of all the columns with the `colnames()` function, and count the number of rows with the `nrow()` function, and count the number of columns with the `ncol()` function:
+
+```{r}
+colnames(simple_tibble)
+nrow(simple_tibble)
+```
+
+### In-Class Exercises
+
+1.  Make a tibble where the vectors do not have equal length. What happens? Compare this with what happens when you do this with a dataframe.
+2.  Load the `palmerpenguins` library, which comes with the `penguins` dataset as a dataframe.
+    a.  How many rows are in this dataframe?
+    b.  How many columns are in the dataframe?
+    c.  What is the average body mass of all the penguins?
+    d.  How many of the penguins in the data are of the "Chinstrap" species?
+3.  Load the `nycflights13` library and its `planes` dataset. Each row represents a plane in the FAA aircraft registry (see `?plane`).
+    a.  How many planes are a variant of a 737? (These will have model numbers starting with 737)
+    b.  How many of the planes have more than 50 and less than 100 seats?
+4.  (Difficult) Load the `flights` dataset from the `nycflights13` package. Find out how much time separates the first and last departure time in the dataset.
+    -   You will likely need to break this task down into several steps.
+
+    -   The `max()` and `min()` functions work on date-time objects and may be helpful.
