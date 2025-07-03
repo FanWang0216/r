@@ -120,7 +120,7 @@ beaches_data |>
   select(dataCollectionDate, beachName)
 ```
 
-##  4. Transforming data
+## 4. Transforming data
 
 -   `mutate()` creates new columns that are functions of existing columns
 

@@ -1,0 +1,1357 @@
+X_id,beachId,beachName,siteName,collectionDate,eColi,comments
+553,1,Marie Curtis Park East Beach,29W,2024-09-08,NA,None
+554,1,Marie Curtis Park East Beach,33W,2024-09-08,NA,None
+555,1,Marie Curtis Park East Beach,32W,2024-09-08,NA,None
+556,1,Marie Curtis Park East Beach,31W,2024-09-08,NA,None
+557,1,Marie Curtis Park East Beach,30W,2024-09-08,NA,None
+558,2,Sunnyside Beach,23W,2024-09-08,NA,None
+559,2,Sunnyside Beach,18W,2024-09-08,70,None
+560,2,Sunnyside Beach,17W,2024-09-08,60,None
+561,2,Sunnyside Beach,20W,2024-09-08,130,None
+562,2,Sunnyside Beach,21W,2024-09-08,120,None
+563,2,Sunnyside Beach,19W,2024-09-08,50,None
+564,2,Sunnyside Beach,22W,2024-09-08,100,None
+565,1,Marie Curtis Park East Beach,29W,2024-09-07,NA,None
+566,1,Marie Curtis Park East Beach,33W,2024-09-07,NA,None
+567,1,Marie Curtis Park East Beach,32W,2024-09-07,NA,None
+568,1,Marie Curtis Park East Beach,31W,2024-09-07,NA,None
+569,1,Marie Curtis Park East Beach,30W,2024-09-07,NA,None
+570,2,Sunnyside Beach,23W,2024-09-07,NA,None
+571,2,Sunnyside Beach,18W,2024-09-07,NA,None
+572,2,Sunnyside Beach,17W,2024-09-07,50,None
+573,2,Sunnyside Beach,20W,2024-09-07,50,None
+574,2,Sunnyside Beach,21W,2024-09-07,70,None
+575,2,Sunnyside Beach,19W,2024-09-07,100,None
+576,2,Sunnyside Beach,22W,2024-09-07,40,None
+577,1,Marie Curtis Park East Beach,29W,2024-09-06,NA,None
+578,1,Marie Curtis Park East Beach,33W,2024-09-06,NA,None
+579,1,Marie Curtis Park East Beach,32W,2024-09-06,NA,None
+580,1,Marie Curtis Park East Beach,31W,2024-09-06,NA,None
+581,1,Marie Curtis Park East Beach,30W,2024-09-06,NA,None
+582,2,Sunnyside Beach,23W,2024-09-06,NA,No data
+583,2,Sunnyside Beach,18W,2024-09-06,460,None
+584,2,Sunnyside Beach,17W,2024-09-06,530,None
+585,2,Sunnyside Beach,20W,2024-09-06,170,None
+586,2,Sunnyside Beach,21W,2024-09-06,610,None
+587,2,Sunnyside Beach,19W,2024-09-06,70,None
+588,2,Sunnyside Beach,22W,2024-09-06,190,None
+589,1,Marie Curtis Park East Beach,29W,2024-09-05,NA,None
+590,1,Marie Curtis Park East Beach,33W,2024-09-05,NA,None
+591,1,Marie Curtis Park East Beach,32W,2024-09-05,NA,None
+592,1,Marie Curtis Park East Beach,31W,2024-09-05,NA,None
+593,1,Marie Curtis Park East Beach,30W,2024-09-05,NA,None
+594,2,Sunnyside Beach,23W,2024-09-05,NA,No data
+595,2,Sunnyside Beach,18W,2024-09-05,10,None
+596,2,Sunnyside Beach,17W,2024-09-05,10,None
+597,2,Sunnyside Beach,20W,2024-09-05,80,None
+598,2,Sunnyside Beach,21W,2024-09-05,210,None
+599,2,Sunnyside Beach,19W,2024-09-05,10,None
+600,2,Sunnyside Beach,22W,2024-09-05,10,<
+601,1,Marie Curtis Park East Beach,29W,2024-09-04,NA,None
+602,1,Marie Curtis Park East Beach,33W,2024-09-04,NA,None
+603,1,Marie Curtis Park East Beach,32W,2024-09-04,NA,None
+604,1,Marie Curtis Park East Beach,31W,2024-09-04,NA,None
+605,1,Marie Curtis Park East Beach,30W,2024-09-04,NA,None
+606,2,Sunnyside Beach,23W,2024-09-04,NA,No data
+607,2,Sunnyside Beach,18W,2024-09-04,750,None
+608,2,Sunnyside Beach,17W,2024-09-04,700,None
+609,2,Sunnyside Beach,20W,2024-09-04,780,None
+610,2,Sunnyside Beach,21W,2024-09-04,770,None
+611,2,Sunnyside Beach,19W,2024-09-04,780,None
+612,2,Sunnyside Beach,22W,2024-09-04,750,None
+613,1,Marie Curtis Park East Beach,29W,2024-09-03,NA,None
+614,1,Marie Curtis Park East Beach,33W,2024-09-03,NA,None
+615,1,Marie Curtis Park East Beach,32W,2024-09-03,NA,None
+616,1,Marie Curtis Park East Beach,31W,2024-09-03,NA,None
+617,1,Marie Curtis Park East Beach,30W,2024-09-03,NA,None
+618,2,Sunnyside Beach,23W,2024-09-03,NA,No data
+619,2,Sunnyside Beach,18W,2024-09-03,1000,>
+620,2,Sunnyside Beach,17W,2024-09-03,1000,>
+621,2,Sunnyside Beach,20W,2024-09-03,1000,>
+622,2,Sunnyside Beach,21W,2024-09-03,1000,>
+623,2,Sunnyside Beach,19W,2024-09-03,1000,>
+624,2,Sunnyside Beach,22W,2024-09-03,1000,>
+625,1,Marie Curtis Park East Beach,29W,2024-09-02,110,None
+626,1,Marie Curtis Park East Beach,33W,2024-09-02,110,None
+627,1,Marie Curtis Park East Beach,32W,2024-09-02,60,None
+628,1,Marie Curtis Park East Beach,31W,2024-09-02,100,None
+629,1,Marie Curtis Park East Beach,30W,2024-09-02,70,None
+630,2,Sunnyside Beach,23W,2024-09-02,NA,No data
+631,2,Sunnyside Beach,18W,2024-09-02,440,None
+632,2,Sunnyside Beach,17W,2024-09-02,340,None
+633,2,Sunnyside Beach,20W,2024-09-02,10,None
+634,2,Sunnyside Beach,21W,2024-09-02,10,<
+635,2,Sunnyside Beach,19W,2024-09-02,60,None
+636,2,Sunnyside Beach,22W,2024-09-02,30,None
+637,1,Marie Curtis Park East Beach,29W,2024-09-01,230,None
+638,1,Marie Curtis Park East Beach,33W,2024-09-01,220,None
+639,1,Marie Curtis Park East Beach,32W,2024-09-01,240,None
+640,1,Marie Curtis Park East Beach,31W,2024-09-01,200,None
+641,1,Marie Curtis Park East Beach,30W,2024-09-01,200,None
+642,2,Sunnyside Beach,23W,2024-09-01,NA,None
+643,2,Sunnyside Beach,18W,2024-09-01,910,None
+644,2,Sunnyside Beach,17W,2024-09-01,210,None
+645,2,Sunnyside Beach,20W,2024-09-01,170,None
+646,2,Sunnyside Beach,21W,2024-09-01,80,None
+647,2,Sunnyside Beach,19W,2024-09-01,400,None
+648,2,Sunnyside Beach,22W,2024-09-01,360,None
+649,1,Marie Curtis Park East Beach,29W,2024-08-31,50,None
+650,1,Marie Curtis Park East Beach,33W,2024-08-31,870,None
+651,1,Marie Curtis Park East Beach,32W,2024-08-31,1010,None
+652,1,Marie Curtis Park East Beach,31W,2024-08-31,250,None
+653,1,Marie Curtis Park East Beach,30W,2024-08-31,150,None
+654,2,Sunnyside Beach,23W,2024-08-31,NA,None
+655,2,Sunnyside Beach,18W,2024-08-31,290,None
+656,2,Sunnyside Beach,17W,2024-08-31,350,None
+657,2,Sunnyside Beach,20W,2024-08-31,110,None
+658,2,Sunnyside Beach,21W,2024-08-31,400,None
+659,2,Sunnyside Beach,19W,2024-08-31,200,None
+660,2,Sunnyside Beach,22W,2024-08-31,330,None
+661,1,Marie Curtis Park East Beach,29W,2024-08-30,30,None
+662,1,Marie Curtis Park East Beach,33W,2024-08-30,30,None
+663,1,Marie Curtis Park East Beach,32W,2024-08-30,40,None
+664,1,Marie Curtis Park East Beach,31W,2024-08-30,40,None
+665,1,Marie Curtis Park East Beach,30W,2024-08-30,60,None
+666,2,Sunnyside Beach,23W,2024-08-30,NA,No data
+667,2,Sunnyside Beach,18W,2024-08-30,70,None
+668,2,Sunnyside Beach,17W,2024-08-30,20,None
+669,2,Sunnyside Beach,20W,2024-08-30,30,None
+670,2,Sunnyside Beach,21W,2024-08-30,110,None
+671,2,Sunnyside Beach,19W,2024-08-30,20,None
+672,2,Sunnyside Beach,22W,2024-08-30,30,None
+673,1,Marie Curtis Park East Beach,29W,2024-08-29,50,None
+674,1,Marie Curtis Park East Beach,33W,2024-08-29,100,None
+675,1,Marie Curtis Park East Beach,32W,2024-08-29,110,None
+676,1,Marie Curtis Park East Beach,31W,2024-08-29,30,None
+677,1,Marie Curtis Park East Beach,30W,2024-08-29,100,None
+678,2,Sunnyside Beach,23W,2024-08-29,NA,No data
+679,2,Sunnyside Beach,18W,2024-08-29,120,None
+680,2,Sunnyside Beach,17W,2024-08-29,60,None
+681,2,Sunnyside Beach,20W,2024-08-29,90,None
+682,2,Sunnyside Beach,21W,2024-08-29,290,None
+683,2,Sunnyside Beach,19W,2024-08-29,40,None
+684,2,Sunnyside Beach,22W,2024-08-29,40,None
+685,1,Marie Curtis Park East Beach,29W,2024-08-28,10,<
+686,1,Marie Curtis Park East Beach,33W,2024-08-28,40,None
+687,1,Marie Curtis Park East Beach,32W,2024-08-28,50,None
+688,1,Marie Curtis Park East Beach,31W,2024-08-28,50,None
+689,1,Marie Curtis Park East Beach,30W,2024-08-28,10,None
+690,2,Sunnyside Beach,23W,2024-08-28,NA,No data
+691,2,Sunnyside Beach,18W,2024-08-28,490,None
+692,2,Sunnyside Beach,17W,2024-08-28,600,None
+693,2,Sunnyside Beach,20W,2024-08-28,260,None
+694,2,Sunnyside Beach,21W,2024-08-28,320,None
+695,2,Sunnyside Beach,19W,2024-08-28,320,None
+696,2,Sunnyside Beach,22W,2024-08-28,280,None
+697,1,Marie Curtis Park East Beach,29W,2024-08-27,200,None
+698,1,Marie Curtis Park East Beach,33W,2024-08-27,100,None
+699,1,Marie Curtis Park East Beach,32W,2024-08-27,110,None
+700,1,Marie Curtis Park East Beach,31W,2024-08-27,200,None
+701,1,Marie Curtis Park East Beach,30W,2024-08-27,230,None
+702,2,Sunnyside Beach,23W,2024-08-27,NA,No data
+703,2,Sunnyside Beach,18W,2024-08-27,870,None
+704,2,Sunnyside Beach,17W,2024-08-27,80,None
+705,2,Sunnyside Beach,20W,2024-08-27,10,<
+706,2,Sunnyside Beach,21W,2024-08-27,150,None
+707,2,Sunnyside Beach,19W,2024-08-27,150,None
+708,2,Sunnyside Beach,22W,2024-08-27,440,None
+709,1,Marie Curtis Park East Beach,29W,2024-08-26,40,None
+710,1,Marie Curtis Park East Beach,33W,2024-08-26,30,None
+711,1,Marie Curtis Park East Beach,32W,2024-08-26,50,None
+712,1,Marie Curtis Park East Beach,31W,2024-08-26,20,None
+713,1,Marie Curtis Park East Beach,30W,2024-08-26,30,None
+714,2,Sunnyside Beach,23W,2024-08-26,NA,No data
+715,2,Sunnyside Beach,18W,2024-08-26,40,None
+716,2,Sunnyside Beach,17W,2024-08-26,30,None
+717,2,Sunnyside Beach,20W,2024-08-26,20,None
+718,2,Sunnyside Beach,21W,2024-08-26,30,None
+719,2,Sunnyside Beach,19W,2024-08-26,10,<
+720,2,Sunnyside Beach,22W,2024-08-26,10,None
+721,1,Marie Curtis Park East Beach,29W,2024-08-25,50,None
+722,1,Marie Curtis Park East Beach,33W,2024-08-25,30,None
+723,1,Marie Curtis Park East Beach,32W,2024-08-25,60,None
+724,1,Marie Curtis Park East Beach,31W,2024-08-25,40,None
+725,1,Marie Curtis Park East Beach,30W,2024-08-25,20,None
+726,2,Sunnyside Beach,23W,2024-08-25,NA,None
+727,2,Sunnyside Beach,18W,2024-08-25,10,None
+728,2,Sunnyside Beach,17W,2024-08-25,40,None
+729,2,Sunnyside Beach,20W,2024-08-25,40,None
+730,2,Sunnyside Beach,21W,2024-08-25,20,None
+731,2,Sunnyside Beach,19W,2024-08-25,50,None
+732,2,Sunnyside Beach,22W,2024-08-25,80,None
+733,1,Marie Curtis Park East Beach,29W,2024-08-24,200,None
+734,1,Marie Curtis Park East Beach,33W,2024-08-24,130,None
+735,1,Marie Curtis Park East Beach,32W,2024-08-24,100,None
+736,1,Marie Curtis Park East Beach,31W,2024-08-24,140,None
+737,1,Marie Curtis Park East Beach,30W,2024-08-24,140,None
+738,2,Sunnyside Beach,23W,2024-08-24,NA,None
+739,2,Sunnyside Beach,18W,2024-08-24,80,None
+740,2,Sunnyside Beach,17W,2024-08-24,60,None
+741,2,Sunnyside Beach,20W,2024-08-24,400,None
+742,2,Sunnyside Beach,21W,2024-08-24,210,None
+743,2,Sunnyside Beach,19W,2024-08-24,280,None
+744,2,Sunnyside Beach,22W,2024-08-24,180,None
+745,1,Marie Curtis Park East Beach,29W,2024-08-23,40,None
+746,1,Marie Curtis Park East Beach,33W,2024-08-23,50,None
+747,1,Marie Curtis Park East Beach,32W,2024-08-23,20,None
+748,1,Marie Curtis Park East Beach,31W,2024-08-23,110,None
+749,1,Marie Curtis Park East Beach,30W,2024-08-23,40,None
+750,2,Sunnyside Beach,23W,2024-08-23,NA,No data
+751,2,Sunnyside Beach,18W,2024-08-23,300,None
+752,2,Sunnyside Beach,17W,2024-08-23,490,None
+753,2,Sunnyside Beach,20W,2024-08-23,140,None
+754,2,Sunnyside Beach,21W,2024-08-23,50,None
+755,2,Sunnyside Beach,19W,2024-08-23,190,None
+756,2,Sunnyside Beach,22W,2024-08-23,70,None
+757,1,Marie Curtis Park East Beach,29W,2024-08-22,50,None
+758,1,Marie Curtis Park East Beach,33W,2024-08-22,40,None
+759,1,Marie Curtis Park East Beach,32W,2024-08-22,40,None
+760,1,Marie Curtis Park East Beach,31W,2024-08-22,80,None
+761,1,Marie Curtis Park East Beach,30W,2024-08-22,20,None
+762,2,Sunnyside Beach,23W,2024-08-22,NA,No data
+763,2,Sunnyside Beach,18W,2024-08-22,130,None
+764,2,Sunnyside Beach,17W,2024-08-22,140,None
+765,2,Sunnyside Beach,20W,2024-08-22,70,None
+766,2,Sunnyside Beach,21W,2024-08-22,110,None
+767,2,Sunnyside Beach,19W,2024-08-22,160,None
+768,2,Sunnyside Beach,22W,2024-08-22,60,None
+769,1,Marie Curtis Park East Beach,29W,2024-08-21,10,None
+770,1,Marie Curtis Park East Beach,33W,2024-08-21,20,None
+771,1,Marie Curtis Park East Beach,32W,2024-08-21,10,None
+772,1,Marie Curtis Park East Beach,31W,2024-08-21,10,<
+773,1,Marie Curtis Park East Beach,30W,2024-08-21,20,None
+774,2,Sunnyside Beach,23W,2024-08-21,NA,No data
+775,2,Sunnyside Beach,18W,2024-08-21,190,None
+776,2,Sunnyside Beach,17W,2024-08-21,200,None
+777,2,Sunnyside Beach,20W,2024-08-21,40,None
+778,2,Sunnyside Beach,21W,2024-08-21,60,None
+779,2,Sunnyside Beach,19W,2024-08-21,90,None
+780,2,Sunnyside Beach,22W,2024-08-21,50,None
+781,1,Marie Curtis Park East Beach,29W,2024-08-20,300,None
+782,1,Marie Curtis Park East Beach,33W,2024-08-20,180,None
+783,1,Marie Curtis Park East Beach,32W,2024-08-20,350,None
+784,1,Marie Curtis Park East Beach,31W,2024-08-20,270,None
+785,1,Marie Curtis Park East Beach,30W,2024-08-20,330,None
+786,2,Sunnyside Beach,23W,2024-08-20,NA,No data
+787,2,Sunnyside Beach,18W,2024-08-20,350,None
+788,2,Sunnyside Beach,17W,2024-08-20,30,None
+789,2,Sunnyside Beach,20W,2024-08-20,150,None
+790,2,Sunnyside Beach,21W,2024-08-20,70,None
+791,2,Sunnyside Beach,19W,2024-08-20,380,None
+792,2,Sunnyside Beach,22W,2024-08-20,50,None
+793,1,Marie Curtis Park East Beach,29W,2024-08-19,370,None
+794,1,Marie Curtis Park East Beach,33W,2024-08-19,250,None
+795,1,Marie Curtis Park East Beach,32W,2024-08-19,370,None
+796,1,Marie Curtis Park East Beach,31W,2024-08-19,360,None
+797,1,Marie Curtis Park East Beach,30W,2024-08-19,350,None
+798,2,Sunnyside Beach,23W,2024-08-19,NA,No data
+799,2,Sunnyside Beach,18W,2024-08-19,80,None
+800,2,Sunnyside Beach,17W,2024-08-19,80,None
+801,2,Sunnyside Beach,20W,2024-08-19,70,None
+802,2,Sunnyside Beach,21W,2024-08-19,180,None
+803,2,Sunnyside Beach,19W,2024-08-19,90,None
+804,2,Sunnyside Beach,22W,2024-08-19,110,None
+805,1,Marie Curtis Park East Beach,29W,2024-08-18,300,None
+806,1,Marie Curtis Park East Beach,33W,2024-08-18,10,None
+807,1,Marie Curtis Park East Beach,32W,2024-08-18,20,None
+808,1,Marie Curtis Park East Beach,31W,2024-08-18,210,None
+809,1,Marie Curtis Park East Beach,30W,2024-08-18,340,None
+810,2,Sunnyside Beach,23W,2024-08-18,NA,None
+811,2,Sunnyside Beach,18W,2024-08-18,600,None
+812,2,Sunnyside Beach,17W,2024-08-18,320,None
+813,2,Sunnyside Beach,20W,2024-08-18,240,None
+814,2,Sunnyside Beach,21W,2024-08-18,190,None
+815,2,Sunnyside Beach,19W,2024-08-18,350,None
+816,2,Sunnyside Beach,22W,2024-08-18,280,None
+817,1,Marie Curtis Park East Beach,29W,2024-08-17,40,None
+818,1,Marie Curtis Park East Beach,33W,2024-08-17,10,None
+819,1,Marie Curtis Park East Beach,32W,2024-08-17,20,None
+820,1,Marie Curtis Park East Beach,31W,2024-08-17,10,<10
+821,1,Marie Curtis Park East Beach,30W,2024-08-17,40,None
+822,2,Sunnyside Beach,23W,2024-08-17,NA,None
+823,2,Sunnyside Beach,18W,2024-08-17,90,None
+824,2,Sunnyside Beach,17W,2024-08-17,100,None
+825,2,Sunnyside Beach,20W,2024-08-17,60,None
+826,2,Sunnyside Beach,21W,2024-08-17,20,None
+827,2,Sunnyside Beach,19W,2024-08-17,140,None
+828,2,Sunnyside Beach,22W,2024-08-17,20,None
+829,1,Marie Curtis Park East Beach,29W,2024-08-16,10,None
+830,1,Marie Curtis Park East Beach,33W,2024-08-16,10,None
+831,1,Marie Curtis Park East Beach,32W,2024-08-16,10,<
+832,1,Marie Curtis Park East Beach,31W,2024-08-16,10,<
+833,1,Marie Curtis Park East Beach,30W,2024-08-16,10,<
+834,2,Sunnyside Beach,23W,2024-08-16,NA,No data
+835,2,Sunnyside Beach,18W,2024-08-16,90,None
+836,2,Sunnyside Beach,17W,2024-08-16,160,None
+837,2,Sunnyside Beach,20W,2024-08-16,40,None
+838,2,Sunnyside Beach,21W,2024-08-16,30,None
+839,2,Sunnyside Beach,19W,2024-08-16,50,None
+840,2,Sunnyside Beach,22W,2024-08-16,20,None
+841,1,Marie Curtis Park East Beach,29W,2024-08-15,30,None
+842,1,Marie Curtis Park East Beach,33W,2024-08-15,10,None
+843,1,Marie Curtis Park East Beach,32W,2024-08-15,20,None
+844,1,Marie Curtis Park East Beach,31W,2024-08-15,10,None
+845,1,Marie Curtis Park East Beach,30W,2024-08-15,10,None
+846,2,Sunnyside Beach,23W,2024-08-15,NA,No data
+847,2,Sunnyside Beach,18W,2024-08-15,220,None
+848,2,Sunnyside Beach,17W,2024-08-15,130,None
+849,2,Sunnyside Beach,20W,2024-08-15,10,None
+850,2,Sunnyside Beach,21W,2024-08-15,10,<
+851,2,Sunnyside Beach,19W,2024-08-15,60,None
+852,2,Sunnyside Beach,22W,2024-08-15,20,None
+853,1,Marie Curtis Park East Beach,29W,2024-08-14,10,<
+854,1,Marie Curtis Park East Beach,33W,2024-08-14,10,<
+855,1,Marie Curtis Park East Beach,32W,2024-08-14,20,None
+856,1,Marie Curtis Park East Beach,31W,2024-08-14,30,None
+857,1,Marie Curtis Park East Beach,30W,2024-08-14,10,None
+858,2,Sunnyside Beach,23W,2024-08-14,NA,No data
+859,2,Sunnyside Beach,18W,2024-08-14,220,None
+860,2,Sunnyside Beach,17W,2024-08-14,160,None
+861,2,Sunnyside Beach,20W,2024-08-14,30,None
+862,2,Sunnyside Beach,21W,2024-08-14,30,None
+863,2,Sunnyside Beach,19W,2024-08-14,170,None
+864,2,Sunnyside Beach,22W,2024-08-14,20,None
+865,1,Marie Curtis Park East Beach,29W,2024-08-13,10,<
+866,1,Marie Curtis Park East Beach,33W,2024-08-13,30,None
+867,1,Marie Curtis Park East Beach,32W,2024-08-13,20,None
+868,1,Marie Curtis Park East Beach,31W,2024-08-13,10,None
+869,1,Marie Curtis Park East Beach,30W,2024-08-13,10,<
+870,2,Sunnyside Beach,23W,2024-08-13,NA,No Data
+871,2,Sunnyside Beach,18W,2024-08-13,800,None
+872,2,Sunnyside Beach,17W,2024-08-13,160,None
+873,2,Sunnyside Beach,20W,2024-08-13,90,None
+874,2,Sunnyside Beach,21W,2024-08-13,50,None
+875,2,Sunnyside Beach,19W,2024-08-13,200,None
+876,2,Sunnyside Beach,22W,2024-08-13,20,None
+877,1,Marie Curtis Park East Beach,29W,2024-08-12,20,None
+878,1,Marie Curtis Park East Beach,33W,2024-08-12,10,None
+879,1,Marie Curtis Park East Beach,32W,2024-08-12,10,None
+880,1,Marie Curtis Park East Beach,31W,2024-08-12,20,None
+881,1,Marie Curtis Park East Beach,30W,2024-08-12,10,None
+882,2,Sunnyside Beach,23W,2024-08-12,NA,None
+883,2,Sunnyside Beach,18W,2024-08-12,90,None
+884,2,Sunnyside Beach,17W,2024-08-12,390,None
+885,2,Sunnyside Beach,20W,2024-08-12,100,None
+886,2,Sunnyside Beach,21W,2024-08-12,100,None
+887,2,Sunnyside Beach,19W,2024-08-12,30,None
+888,2,Sunnyside Beach,22W,2024-08-12,30,None
+889,1,Marie Curtis Park East Beach,29W,2024-08-11,180,None
+890,1,Marie Curtis Park East Beach,33W,2024-08-11,110,None
+891,1,Marie Curtis Park East Beach,32W,2024-08-11,150,None
+892,1,Marie Curtis Park East Beach,31W,2024-08-11,140,None
+893,1,Marie Curtis Park East Beach,30W,2024-08-11,180,None
+894,2,Sunnyside Beach,23W,2024-08-11,NA,None
+895,2,Sunnyside Beach,18W,2024-08-11,70,None
+896,2,Sunnyside Beach,17W,2024-08-11,60,None
+897,2,Sunnyside Beach,20W,2024-08-11,30,None
+898,2,Sunnyside Beach,21W,2024-08-11,60,None
+899,2,Sunnyside Beach,19W,2024-08-11,10,None
+900,2,Sunnyside Beach,22W,2024-08-11,170,None
+901,1,Marie Curtis Park East Beach,29W,2024-08-10,290,None
+902,1,Marie Curtis Park East Beach,33W,2024-08-10,230,None
+903,1,Marie Curtis Park East Beach,32W,2024-08-10,100,None
+904,1,Marie Curtis Park East Beach,31W,2024-08-10,240,None
+905,1,Marie Curtis Park East Beach,30W,2024-08-10,210,None
+906,2,Sunnyside Beach,23W,2024-08-10,NA,None
+907,2,Sunnyside Beach,18W,2024-08-10,190,None
+908,2,Sunnyside Beach,17W,2024-08-10,80,None
+909,2,Sunnyside Beach,20W,2024-08-10,140,None
+910,2,Sunnyside Beach,21W,2024-08-10,240,None
+911,2,Sunnyside Beach,19W,2024-08-10,250,None
+912,2,Sunnyside Beach,22W,2024-08-10,340,None
+913,1,Marie Curtis Park East Beach,29W,2024-08-09,460,None
+914,1,Marie Curtis Park East Beach,33W,2024-08-09,300,None
+915,1,Marie Curtis Park East Beach,32W,2024-08-09,110,None
+916,1,Marie Curtis Park East Beach,31W,2024-08-09,50,None
+917,1,Marie Curtis Park East Beach,30W,2024-08-09,90,None
+918,2,Sunnyside Beach,23W,2024-08-09,NA,No data
+919,2,Sunnyside Beach,18W,2024-08-09,710,None
+920,2,Sunnyside Beach,17W,2024-08-09,160,None
+921,2,Sunnyside Beach,20W,2024-08-09,210,None
+922,2,Sunnyside Beach,21W,2024-08-09,90,None
+923,2,Sunnyside Beach,19W,2024-08-09,260,None
+924,2,Sunnyside Beach,22W,2024-08-09,200,None
+925,1,Marie Curtis Park East Beach,29W,2024-08-08,110,None
+926,1,Marie Curtis Park East Beach,33W,2024-08-08,70,None
+927,1,Marie Curtis Park East Beach,32W,2024-08-08,90,None
+928,1,Marie Curtis Park East Beach,31W,2024-08-08,220,None
+929,1,Marie Curtis Park East Beach,30W,2024-08-08,100,None
+930,2,Sunnyside Beach,23W,2024-08-08,NA,No data
+931,2,Sunnyside Beach,18W,2024-08-08,20,None
+932,2,Sunnyside Beach,17W,2024-08-08,210,None
+933,2,Sunnyside Beach,20W,2024-08-08,60,None
+934,2,Sunnyside Beach,21W,2024-08-08,50,None
+935,2,Sunnyside Beach,19W,2024-08-08,170,None
+936,2,Sunnyside Beach,22W,2024-08-08,80,None
+937,1,Marie Curtis Park East Beach,29W,2024-08-07,620,None
+938,1,Marie Curtis Park East Beach,33W,2024-08-07,160,None
+939,1,Marie Curtis Park East Beach,32W,2024-08-07,310,None
+940,1,Marie Curtis Park East Beach,31W,2024-08-07,180,None
+941,1,Marie Curtis Park East Beach,30W,2024-08-07,380,None
+942,2,Sunnyside Beach,23W,2024-08-07,NA,No data
+943,2,Sunnyside Beach,18W,2024-08-07,100,None
+944,2,Sunnyside Beach,17W,2024-08-07,70,None
+945,2,Sunnyside Beach,20W,2024-08-07,220,None
+946,2,Sunnyside Beach,21W,2024-08-07,160,None
+947,2,Sunnyside Beach,19W,2024-08-07,430,None
+948,2,Sunnyside Beach,22W,2024-08-07,270,None
+949,1,Marie Curtis Park East Beach,29W,2024-08-06,580,None
+950,1,Marie Curtis Park East Beach,33W,2024-08-06,230,None
+951,1,Marie Curtis Park East Beach,32W,2024-08-06,570,None
+952,1,Marie Curtis Park East Beach,31W,2024-08-06,360,None
+953,1,Marie Curtis Park East Beach,30W,2024-08-06,620,None
+954,2,Sunnyside Beach,23W,2024-08-06,NA,None
+955,2,Sunnyside Beach,18W,2024-08-06,1000,>
+956,2,Sunnyside Beach,17W,2024-08-06,1000,>
+957,2,Sunnyside Beach,20W,2024-08-06,1000,>
+958,2,Sunnyside Beach,21W,2024-08-06,980,None
+959,2,Sunnyside Beach,19W,2024-08-06,1000,>
+960,2,Sunnyside Beach,22W,2024-08-06,1000,>
+961,1,Marie Curtis Park East Beach,29W,2024-08-05,40,None
+962,1,Marie Curtis Park East Beach,33W,2024-08-05,30,None
+963,1,Marie Curtis Park East Beach,32W,2024-08-05,30,None
+964,1,Marie Curtis Park East Beach,31W,2024-08-05,30,None
+965,1,Marie Curtis Park East Beach,30W,2024-08-05,20,None
+966,2,Sunnyside Beach,23W,2024-08-05,NA,No data
+967,2,Sunnyside Beach,18W,2024-08-05,40,None
+968,2,Sunnyside Beach,17W,2024-08-05,10,None
+969,2,Sunnyside Beach,20W,2024-08-05,360,None
+970,2,Sunnyside Beach,21W,2024-08-05,240,None
+971,2,Sunnyside Beach,19W,2024-08-05,100,None
+972,2,Sunnyside Beach,22W,2024-08-05,10,None
+973,1,Marie Curtis Park East Beach,29W,2024-08-04,90,None
+974,1,Marie Curtis Park East Beach,33W,2024-08-04,40,None
+975,1,Marie Curtis Park East Beach,32W,2024-08-04,50,None
+976,1,Marie Curtis Park East Beach,31W,2024-08-04,10,None
+977,1,Marie Curtis Park East Beach,30W,2024-08-04,30,None
+978,2,Sunnyside Beach,23W,2024-08-04,NA,None
+979,2,Sunnyside Beach,18W,2024-08-04,300,None
+980,2,Sunnyside Beach,17W,2024-08-04,270,None
+981,2,Sunnyside Beach,20W,2024-08-04,60,None
+982,2,Sunnyside Beach,21W,2024-08-04,50,None
+983,2,Sunnyside Beach,19W,2024-08-04,380,None
+984,2,Sunnyside Beach,22W,2024-08-04,110,None
+985,1,Marie Curtis Park East Beach,29W,2024-08-03,20,None
+986,1,Marie Curtis Park East Beach,33W,2024-08-03,10,<10
+987,1,Marie Curtis Park East Beach,32W,2024-08-03,10,None
+988,1,Marie Curtis Park East Beach,31W,2024-08-03,10,<10
+989,1,Marie Curtis Park East Beach,30W,2024-08-03,110,None
+990,2,Sunnyside Beach,23W,2024-08-03,NA,None
+991,2,Sunnyside Beach,18W,2024-08-03,220,None
+992,2,Sunnyside Beach,17W,2024-08-03,110,None
+993,2,Sunnyside Beach,20W,2024-08-03,80,None
+994,2,Sunnyside Beach,21W,2024-08-03,210,None
+995,2,Sunnyside Beach,19W,2024-08-03,250,None
+996,2,Sunnyside Beach,22W,2024-08-03,140,None
+997,1,Marie Curtis Park East Beach,29W,2024-08-02,450,None
+998,1,Marie Curtis Park East Beach,33W,2024-08-02,490,None
+999,1,Marie Curtis Park East Beach,32W,2024-08-02,470,None
+1000,1,Marie Curtis Park East Beach,31W,2024-08-02,450,None
+1001,1,Marie Curtis Park East Beach,30W,2024-08-02,370,None
+1002,2,Sunnyside Beach,23W,2024-08-02,NA,No data
+1003,2,Sunnyside Beach,18W,2024-08-02,120,None
+1004,2,Sunnyside Beach,17W,2024-08-02,180,None
+1005,2,Sunnyside Beach,20W,2024-08-02,10,None
+1006,2,Sunnyside Beach,21W,2024-08-02,10,None
+1007,2,Sunnyside Beach,19W,2024-08-02,210,None
+1008,2,Sunnyside Beach,22W,2024-08-02,20,None
+1009,1,Marie Curtis Park East Beach,29W,2024-08-01,180,None
+1010,1,Marie Curtis Park East Beach,33W,2024-08-01,10,None
+1011,1,Marie Curtis Park East Beach,32W,2024-08-01,20,None
+1012,1,Marie Curtis Park East Beach,31W,2024-08-01,110,None
+1013,1,Marie Curtis Park East Beach,30W,2024-08-01,50,None
+1014,2,Sunnyside Beach,23W,2024-08-01,NA,No data
+1015,2,Sunnyside Beach,18W,2024-08-01,140,None
+1016,2,Sunnyside Beach,17W,2024-08-01,80,None
+1017,2,Sunnyside Beach,20W,2024-08-01,70,None
+1018,2,Sunnyside Beach,21W,2024-08-01,270,None
+1019,2,Sunnyside Beach,19W,2024-08-01,130,None
+1020,2,Sunnyside Beach,22W,2024-08-01,150,None
+1021,1,Marie Curtis Park East Beach,29W,2024-07-31,180,None
+1022,1,Marie Curtis Park East Beach,33W,2024-07-31,210,None
+1023,1,Marie Curtis Park East Beach,32W,2024-07-31,170,None
+1024,1,Marie Curtis Park East Beach,31W,2024-07-31,350,None
+1025,1,Marie Curtis Park East Beach,30W,2024-07-31,330,None
+1026,2,Sunnyside Beach,23W,2024-07-31,NA,No data
+1027,2,Sunnyside Beach,18W,2024-07-31,220,None
+1028,2,Sunnyside Beach,17W,2024-07-31,260,None
+1029,2,Sunnyside Beach,20W,2024-07-31,270,None
+1030,2,Sunnyside Beach,21W,2024-07-31,430,None
+1031,2,Sunnyside Beach,19W,2024-07-31,890,None
+1032,2,Sunnyside Beach,22W,2024-07-31,340,None
+1033,1,Marie Curtis Park East Beach,29W,2024-07-30,30,None
+1034,1,Marie Curtis Park East Beach,33W,2024-07-30,40,None
+1035,1,Marie Curtis Park East Beach,32W,2024-07-30,30,None
+1036,1,Marie Curtis Park East Beach,31W,2024-07-30,60,None
+1037,1,Marie Curtis Park East Beach,30W,2024-07-30,60,None
+1038,2,Sunnyside Beach,23W,2024-07-30,NA,No data
+1039,2,Sunnyside Beach,18W,2024-07-30,40,None
+1040,2,Sunnyside Beach,17W,2024-07-30,100,None
+1041,2,Sunnyside Beach,20W,2024-07-30,10,<
+1042,2,Sunnyside Beach,21W,2024-07-30,30,None
+1043,2,Sunnyside Beach,19W,2024-07-30,150,None
+1044,2,Sunnyside Beach,22W,2024-07-30,10,<
+1045,1,Marie Curtis Park East Beach,29W,2024-07-29,100,None
+1046,1,Marie Curtis Park East Beach,33W,2024-07-29,90,None
+1047,1,Marie Curtis Park East Beach,32W,2024-07-29,230,None
+1048,1,Marie Curtis Park East Beach,31W,2024-07-29,70,None
+1049,1,Marie Curtis Park East Beach,30W,2024-07-29,10,None
+1050,2,Sunnyside Beach,23W,2024-07-29,NA,No data
+1051,2,Sunnyside Beach,18W,2024-07-29,200,None
+1052,2,Sunnyside Beach,17W,2024-07-29,140,None
+1053,2,Sunnyside Beach,20W,2024-07-29,10,None
+1054,2,Sunnyside Beach,21W,2024-07-29,10,<
+1055,2,Sunnyside Beach,19W,2024-07-29,30,None
+1056,2,Sunnyside Beach,22W,2024-07-29,10,<
+1057,1,Marie Curtis Park East Beach,29W,2024-07-28,250,None
+1058,1,Marie Curtis Park East Beach,33W,2024-07-28,30,None
+1059,1,Marie Curtis Park East Beach,32W,2024-07-28,10,None
+1060,1,Marie Curtis Park East Beach,31W,2024-07-28,80,None
+1061,1,Marie Curtis Park East Beach,30W,2024-07-28,250,None
+1062,2,Sunnyside Beach,23W,2024-07-28,NA,None
+1063,2,Sunnyside Beach,18W,2024-07-28,70,None
+1064,2,Sunnyside Beach,17W,2024-07-28,120,None
+1065,2,Sunnyside Beach,20W,2024-07-28,20,None
+1066,2,Sunnyside Beach,21W,2024-07-28,40,None
+1067,2,Sunnyside Beach,19W,2024-07-28,70,None
+1068,2,Sunnyside Beach,22W,2024-07-28,30,None
+1069,1,Marie Curtis Park East Beach,29W,2024-07-27,130,None
+1070,1,Marie Curtis Park East Beach,33W,2024-07-27,80,None
+1071,1,Marie Curtis Park East Beach,32W,2024-07-27,110,None
+1072,1,Marie Curtis Park East Beach,31W,2024-07-27,110,None
+1073,1,Marie Curtis Park East Beach,30W,2024-07-27,150,None
+1074,2,Sunnyside Beach,23W,2024-07-27,NA,None
+1075,2,Sunnyside Beach,18W,2024-07-27,70,None
+1076,2,Sunnyside Beach,17W,2024-07-27,90,None
+1077,2,Sunnyside Beach,20W,2024-07-27,40,None
+1078,2,Sunnyside Beach,21W,2024-07-27,70,None
+1079,2,Sunnyside Beach,19W,2024-07-27,100,None
+1080,2,Sunnyside Beach,22W,2024-07-27,50,None
+1081,1,Marie Curtis Park East Beach,29W,2024-07-26,180,None
+1082,1,Marie Curtis Park East Beach,33W,2024-07-26,120,None
+1083,1,Marie Curtis Park East Beach,32W,2024-07-26,130,None
+1084,1,Marie Curtis Park East Beach,31W,2024-07-26,120,None
+1085,1,Marie Curtis Park East Beach,30W,2024-07-26,140,None
+1086,2,Sunnyside Beach,23W,2024-07-26,NA,No data
+1087,2,Sunnyside Beach,18W,2024-07-26,430,None
+1088,2,Sunnyside Beach,17W,2024-07-26,420,None
+1089,2,Sunnyside Beach,20W,2024-07-26,1000,>
+1090,2,Sunnyside Beach,21W,2024-07-26,1000,>
+1091,2,Sunnyside Beach,19W,2024-07-26,480,None
+1092,2,Sunnyside Beach,22W,2024-07-26,450,None
+1093,1,Marie Curtis Park East Beach,29W,2024-07-25,50,None
+1094,1,Marie Curtis Park East Beach,33W,2024-07-25,50,None
+1095,1,Marie Curtis Park East Beach,32W,2024-07-25,80,None
+1096,1,Marie Curtis Park East Beach,31W,2024-07-25,80,None
+1097,1,Marie Curtis Park East Beach,30W,2024-07-25,40,None
+1098,2,Sunnyside Beach,23W,2024-07-25,NA,No data
+1099,2,Sunnyside Beach,18W,2024-07-25,900,None
+1100,2,Sunnyside Beach,17W,2024-07-25,880,None
+1101,2,Sunnyside Beach,20W,2024-07-25,120,None
+1102,2,Sunnyside Beach,21W,2024-07-25,780,None
+1103,2,Sunnyside Beach,19W,2024-07-25,790,None
+1104,2,Sunnyside Beach,22W,2024-07-25,590,None
+1105,1,Marie Curtis Park East Beach,29W,2024-07-24,10,None
+1106,1,Marie Curtis Park East Beach,33W,2024-07-24,50,None
+1107,1,Marie Curtis Park East Beach,32W,2024-07-24,110,None
+1108,1,Marie Curtis Park East Beach,31W,2024-07-24,40,None
+1109,1,Marie Curtis Park East Beach,30W,2024-07-24,90,None
+1110,2,Sunnyside Beach,23W,2024-07-24,NA,No data
+1111,2,Sunnyside Beach,18W,2024-07-24,20,None
+1112,2,Sunnyside Beach,17W,2024-07-24,90,None
+1113,2,Sunnyside Beach,20W,2024-07-24,110,None
+1114,2,Sunnyside Beach,21W,2024-07-24,240,None
+1115,2,Sunnyside Beach,19W,2024-07-24,140,None
+1116,2,Sunnyside Beach,22W,2024-07-24,50,None
+1117,1,Marie Curtis Park East Beach,29W,2024-07-23,10,None
+1118,1,Marie Curtis Park East Beach,33W,2024-07-23,10,None
+1119,1,Marie Curtis Park East Beach,32W,2024-07-23,10,None
+1120,1,Marie Curtis Park East Beach,31W,2024-07-23,20,None
+1121,1,Marie Curtis Park East Beach,30W,2024-07-23,10,<
+1122,2,Sunnyside Beach,23W,2024-07-23,NA,No data
+1123,2,Sunnyside Beach,18W,2024-07-23,80,None
+1124,2,Sunnyside Beach,17W,2024-07-23,160,None
+1125,2,Sunnyside Beach,20W,2024-07-23,20,None
+1126,2,Sunnyside Beach,21W,2024-07-23,10,None
+1127,2,Sunnyside Beach,19W,2024-07-23,90,None
+1128,2,Sunnyside Beach,22W,2024-07-23,50,None
+1129,1,Marie Curtis Park East Beach,29W,2024-07-22,10,<
+1130,1,Marie Curtis Park East Beach,33W,2024-07-22,20,None
+1131,1,Marie Curtis Park East Beach,32W,2024-07-22,10,<
+1132,1,Marie Curtis Park East Beach,31W,2024-07-22,10,<
+1133,1,Marie Curtis Park East Beach,30W,2024-07-22,10,<
+1134,2,Sunnyside Beach,23W,2024-07-22,NA,No data
+1135,2,Sunnyside Beach,18W,2024-07-22,100,None
+1136,2,Sunnyside Beach,17W,2024-07-22,180,None
+1137,2,Sunnyside Beach,20W,2024-07-22,100,None
+1138,2,Sunnyside Beach,21W,2024-07-22,30,None
+1139,2,Sunnyside Beach,19W,2024-07-22,130,None
+1140,2,Sunnyside Beach,22W,2024-07-22,80,None
+1141,1,Marie Curtis Park East Beach,29W,2024-07-21,90,None
+1142,1,Marie Curtis Park East Beach,33W,2024-07-21,50,None
+1143,1,Marie Curtis Park East Beach,32W,2024-07-21,30,None
+1144,1,Marie Curtis Park East Beach,31W,2024-07-21,80,None
+1145,1,Marie Curtis Park East Beach,30W,2024-07-21,60,None
+1146,2,Sunnyside Beach,23W,2024-07-21,NA,None
+1147,2,Sunnyside Beach,18W,2024-07-21,90,None
+1148,2,Sunnyside Beach,17W,2024-07-21,150,None
+1149,2,Sunnyside Beach,20W,2024-07-21,70,None
+1150,2,Sunnyside Beach,21W,2024-07-21,150,None
+1151,2,Sunnyside Beach,19W,2024-07-21,90,None
+1152,2,Sunnyside Beach,22W,2024-07-21,150,None
+1153,1,Marie Curtis Park East Beach,29W,2024-07-20,110,None
+1154,1,Marie Curtis Park East Beach,33W,2024-07-20,60,None
+1155,1,Marie Curtis Park East Beach,32W,2024-07-20,70,None
+1156,1,Marie Curtis Park East Beach,31W,2024-07-20,70,None
+1157,1,Marie Curtis Park East Beach,30W,2024-07-20,40,None
+1158,2,Sunnyside Beach,23W,2024-07-20,NA,None
+1159,2,Sunnyside Beach,18W,2024-07-20,110,None
+1160,2,Sunnyside Beach,17W,2024-07-20,90,None
+1161,2,Sunnyside Beach,20W,2024-07-20,50,None
+1162,2,Sunnyside Beach,21W,2024-07-20,50,None
+1163,2,Sunnyside Beach,19W,2024-07-20,110,None
+1164,2,Sunnyside Beach,22W,2024-07-20,20,None
+1165,1,Marie Curtis Park East Beach,29W,2024-07-19,120,None
+1166,1,Marie Curtis Park East Beach,33W,2024-07-19,120,None
+1167,1,Marie Curtis Park East Beach,32W,2024-07-19,190,None
+1168,1,Marie Curtis Park East Beach,31W,2024-07-19,80,None
+1169,1,Marie Curtis Park East Beach,30W,2024-07-19,100,None
+1170,2,Sunnyside Beach,23W,2024-07-19,NA,No data
+1171,2,Sunnyside Beach,18W,2024-07-19,120,None
+1172,2,Sunnyside Beach,17W,2024-07-19,110,None
+1173,2,Sunnyside Beach,20W,2024-07-19,150,None
+1174,2,Sunnyside Beach,21W,2024-07-19,40,None
+1175,2,Sunnyside Beach,19W,2024-07-19,170,None
+1176,2,Sunnyside Beach,22W,2024-07-19,180,None
+1177,1,Marie Curtis Park East Beach,29W,2024-07-18,880,None
+1178,1,Marie Curtis Park East Beach,33W,2024-07-18,680,None
+1179,1,Marie Curtis Park East Beach,32W,2024-07-18,1000,>
+1180,1,Marie Curtis Park East Beach,31W,2024-07-18,1000,None
+1181,1,Marie Curtis Park East Beach,30W,2024-07-18,990,None
+1182,2,Sunnyside Beach,23W,2024-07-18,NA,No data
+1183,2,Sunnyside Beach,18W,2024-07-18,460,None
+1184,2,Sunnyside Beach,17W,2024-07-18,440,None
+1185,2,Sunnyside Beach,20W,2024-07-18,330,None
+1186,2,Sunnyside Beach,21W,2024-07-18,190,None
+1187,2,Sunnyside Beach,19W,2024-07-18,350,None
+1188,2,Sunnyside Beach,22W,2024-07-18,210,None
+1189,1,Marie Curtis Park East Beach,29W,2024-07-17,1000,>
+1190,1,Marie Curtis Park East Beach,33W,2024-07-17,1000,>
+1191,1,Marie Curtis Park East Beach,32W,2024-07-17,1000,>
+1192,1,Marie Curtis Park East Beach,31W,2024-07-17,1000,>
+1193,1,Marie Curtis Park East Beach,30W,2024-07-17,1000,>
+1194,2,Sunnyside Beach,23W,2024-07-17,NA,No data
+1195,2,Sunnyside Beach,18W,2024-07-17,1000,>
+1196,2,Sunnyside Beach,17W,2024-07-17,1000,>
+1197,2,Sunnyside Beach,20W,2024-07-17,1000,>
+1198,2,Sunnyside Beach,21W,2024-07-17,1000,>
+1199,2,Sunnyside Beach,19W,2024-07-17,1000,>
+1200,2,Sunnyside Beach,22W,2024-07-17,1000,>
+1201,1,Marie Curtis Park East Beach,29W,2024-07-16,1000,>
+1202,1,Marie Curtis Park East Beach,33W,2024-07-16,950,None
+1203,1,Marie Curtis Park East Beach,32W,2024-07-16,760,None
+1204,1,Marie Curtis Park East Beach,31W,2024-07-16,560,None
+1205,1,Marie Curtis Park East Beach,30W,2024-07-16,880,None
+1206,2,Sunnyside Beach,23W,2024-07-16,NA,No data
+1207,2,Sunnyside Beach,18W,2024-07-16,710,None
+1208,2,Sunnyside Beach,17W,2024-07-16,690,None
+1209,2,Sunnyside Beach,20W,2024-07-16,1000,>
+1210,2,Sunnyside Beach,21W,2024-07-16,690,None
+1211,2,Sunnyside Beach,19W,2024-07-16,1000,>
+1212,2,Sunnyside Beach,22W,2024-07-16,390,None
+1213,1,Marie Curtis Park East Beach,29W,2024-07-15,90,None
+1214,1,Marie Curtis Park East Beach,33W,2024-07-15,50,None
+1215,1,Marie Curtis Park East Beach,32W,2024-07-15,30,None
+1216,1,Marie Curtis Park East Beach,31W,2024-07-15,60,None
+1217,1,Marie Curtis Park East Beach,30W,2024-07-15,30,None
+1218,2,Sunnyside Beach,23W,2024-07-15,NA,No data
+1219,2,Sunnyside Beach,18W,2024-07-15,30,None
+1220,2,Sunnyside Beach,17W,2024-07-15,90,None
+1221,2,Sunnyside Beach,20W,2024-07-15,90,None
+1222,2,Sunnyside Beach,21W,2024-07-15,50,None
+1223,2,Sunnyside Beach,19W,2024-07-15,30,None
+1224,2,Sunnyside Beach,22W,2024-07-15,110,None
+1225,1,Marie Curtis Park East Beach,29W,2024-07-14,60,None
+1226,1,Marie Curtis Park East Beach,33W,2024-07-14,10,None
+1227,1,Marie Curtis Park East Beach,32W,2024-07-14,50,None
+1228,1,Marie Curtis Park East Beach,31W,2024-07-14,10,None
+1229,1,Marie Curtis Park East Beach,30W,2024-07-14,60,None
+1230,2,Sunnyside Beach,23W,2024-07-14,NA,None
+1231,2,Sunnyside Beach,18W,2024-07-14,30,None
+1232,2,Sunnyside Beach,17W,2024-07-14,40,None
+1233,2,Sunnyside Beach,20W,2024-07-14,30,None
+1234,2,Sunnyside Beach,21W,2024-07-14,30,None
+1235,2,Sunnyside Beach,19W,2024-07-14,30,None
+1236,2,Sunnyside Beach,22W,2024-07-14,30,None
+1237,1,Marie Curtis Park East Beach,29W,2024-07-13,220,None
+1238,1,Marie Curtis Park East Beach,33W,2024-07-13,20,None
+1239,1,Marie Curtis Park East Beach,32W,2024-07-13,10,None
+1240,1,Marie Curtis Park East Beach,31W,2024-07-13,20,None
+1241,1,Marie Curtis Park East Beach,30W,2024-07-13,190,None
+1242,2,Sunnyside Beach,23W,2024-07-13,NA,None
+1243,2,Sunnyside Beach,18W,2024-07-13,70,None
+1244,2,Sunnyside Beach,17W,2024-07-13,60,None
+1245,2,Sunnyside Beach,20W,2024-07-13,100,None
+1246,2,Sunnyside Beach,21W,2024-07-13,100,None
+1247,2,Sunnyside Beach,19W,2024-07-13,30,None
+1248,2,Sunnyside Beach,22W,2024-07-13,20,None
+1249,1,Marie Curtis Park East Beach,29W,2024-07-12,470,None
+1250,1,Marie Curtis Park East Beach,33W,2024-07-12,250,None
+1251,1,Marie Curtis Park East Beach,32W,2024-07-12,330,None
+1252,1,Marie Curtis Park East Beach,31W,2024-07-12,540,None
+1253,1,Marie Curtis Park East Beach,30W,2024-07-12,480,None
+1254,2,Sunnyside Beach,23W,2024-07-12,NA,No data
+1255,2,Sunnyside Beach,18W,2024-07-12,150,None
+1256,2,Sunnyside Beach,17W,2024-07-12,230,None
+1257,2,Sunnyside Beach,20W,2024-07-12,60,None
+1258,2,Sunnyside Beach,21W,2024-07-12,10,None
+1259,2,Sunnyside Beach,19W,2024-07-12,130,None
+1260,2,Sunnyside Beach,22W,2024-07-12,100,None
+1261,1,Marie Curtis Park East Beach,29W,2024-07-11,1000,>
+1262,1,Marie Curtis Park East Beach,33W,2024-07-11,820,None
+1263,1,Marie Curtis Park East Beach,32W,2024-07-11,880,None
+1264,1,Marie Curtis Park East Beach,31W,2024-07-11,720,None
+1265,1,Marie Curtis Park East Beach,30W,2024-07-11,910,None
+1266,2,Sunnyside Beach,23W,2024-07-11,NA,No data
+1267,2,Sunnyside Beach,18W,2024-07-11,1000,>
+1268,2,Sunnyside Beach,17W,2024-07-11,840,None
+1269,2,Sunnyside Beach,20W,2024-07-11,300,None
+1270,2,Sunnyside Beach,21W,2024-07-11,40,None
+1271,2,Sunnyside Beach,19W,2024-07-11,420,None
+1272,2,Sunnyside Beach,22W,2024-07-11,80,None
+1273,1,Marie Curtis Park East Beach,29W,2024-07-10,30,None
+1274,1,Marie Curtis Park East Beach,33W,2024-07-10,30,None
+1275,1,Marie Curtis Park East Beach,32W,2024-07-10,40,None
+1276,1,Marie Curtis Park East Beach,31W,2024-07-10,70,None
+1277,1,Marie Curtis Park East Beach,30W,2024-07-10,160,None
+1278,2,Sunnyside Beach,23W,2024-07-10,NA,No data
+1279,2,Sunnyside Beach,18W,2024-07-10,130,None
+1280,2,Sunnyside Beach,17W,2024-07-10,450,None
+1281,2,Sunnyside Beach,20W,2024-07-10,10,None
+1282,2,Sunnyside Beach,21W,2024-07-10,40,None
+1283,2,Sunnyside Beach,19W,2024-07-10,220,None
+1284,2,Sunnyside Beach,22W,2024-07-10,20,None
+1285,1,Marie Curtis Park East Beach,29W,2024-07-09,190,None
+1286,1,Marie Curtis Park East Beach,33W,2024-07-09,10,<
+1287,1,Marie Curtis Park East Beach,32W,2024-07-09,10,None
+1288,1,Marie Curtis Park East Beach,31W,2024-07-09,10,<
+1289,1,Marie Curtis Park East Beach,30W,2024-07-09,10,<
+1290,2,Sunnyside Beach,23W,2024-07-09,NA,No data
+1291,2,Sunnyside Beach,18W,2024-07-09,90,None
+1292,2,Sunnyside Beach,17W,2024-07-09,20,None
+1293,2,Sunnyside Beach,20W,2024-07-09,10,None
+1294,2,Sunnyside Beach,21W,2024-07-09,30,None
+1295,2,Sunnyside Beach,19W,2024-07-09,20,None
+1296,2,Sunnyside Beach,22W,2024-07-09,10,<
+1297,1,Marie Curtis Park East Beach,29W,2024-07-08,20,None
+1298,1,Marie Curtis Park East Beach,33W,2024-07-08,20,None
+1299,1,Marie Curtis Park East Beach,32W,2024-07-08,10,None
+1300,1,Marie Curtis Park East Beach,31W,2024-07-08,20,None
+1301,1,Marie Curtis Park East Beach,30W,2024-07-08,50,None
+1302,2,Sunnyside Beach,23W,2024-07-08,NA,No data
+1303,2,Sunnyside Beach,18W,2024-07-08,70,None
+1304,2,Sunnyside Beach,17W,2024-07-08,130,None
+1305,2,Sunnyside Beach,20W,2024-07-08,10,<
+1306,2,Sunnyside Beach,21W,2024-07-08,20,None
+1307,2,Sunnyside Beach,19W,2024-07-08,100,None
+1308,2,Sunnyside Beach,22W,2024-07-08,30,None
+1309,1,Marie Curtis Park East Beach,29W,2024-07-07,110,None
+1310,1,Marie Curtis Park East Beach,33W,2024-07-07,20,None
+1311,1,Marie Curtis Park East Beach,32W,2024-07-07,40,None
+1312,1,Marie Curtis Park East Beach,31W,2024-07-07,30,None
+1313,1,Marie Curtis Park East Beach,30W,2024-07-07,140,None
+1314,2,Sunnyside Beach,23W,2024-07-07,NA,None
+1315,2,Sunnyside Beach,18W,2024-07-07,140,None
+1316,2,Sunnyside Beach,17W,2024-07-07,180,None
+1317,2,Sunnyside Beach,20W,2024-07-07,50,None
+1318,2,Sunnyside Beach,21W,2024-07-07,20,None
+1319,2,Sunnyside Beach,19W,2024-07-07,30,None
+1320,2,Sunnyside Beach,22W,2024-07-07,80,None
+1321,1,Marie Curtis Park East Beach,29W,2024-07-06,1890,None
+1322,1,Marie Curtis Park East Beach,33W,2024-07-06,220,None
+1323,1,Marie Curtis Park East Beach,32W,2024-07-06,420,None
+1324,1,Marie Curtis Park East Beach,31W,2024-07-06,1270,None
+1325,1,Marie Curtis Park East Beach,30W,2024-07-06,1420,None
+1326,2,Sunnyside Beach,23W,2024-07-06,NA,None
+1327,2,Sunnyside Beach,18W,2024-07-06,80,None
+1328,2,Sunnyside Beach,17W,2024-07-06,190,None
+1329,2,Sunnyside Beach,20W,2024-07-06,30,None
+1330,2,Sunnyside Beach,21W,2024-07-06,10,<10
+1331,2,Sunnyside Beach,19W,2024-07-06,80,None
+1332,2,Sunnyside Beach,22W,2024-07-06,60,None
+1333,1,Marie Curtis Park East Beach,29W,2024-07-05,70,None
+1334,1,Marie Curtis Park East Beach,33W,2024-07-05,80,None
+1335,1,Marie Curtis Park East Beach,32W,2024-07-05,60,None
+1336,1,Marie Curtis Park East Beach,31W,2024-07-05,70,None
+1337,1,Marie Curtis Park East Beach,30W,2024-07-05,60,None
+1338,2,Sunnyside Beach,23W,2024-07-05,NA,No data
+1339,2,Sunnyside Beach,18W,2024-07-05,120,None
+1340,2,Sunnyside Beach,17W,2024-07-05,280,None
+1341,2,Sunnyside Beach,20W,2024-07-05,20,None
+1342,2,Sunnyside Beach,21W,2024-07-05,10,None
+1343,2,Sunnyside Beach,19W,2024-07-05,100,None
+1344,2,Sunnyside Beach,22W,2024-07-05,60,None
+1345,1,Marie Curtis Park East Beach,29W,2024-07-04,70,None
+1346,1,Marie Curtis Park East Beach,33W,2024-07-04,160,None
+1347,1,Marie Curtis Park East Beach,32W,2024-07-04,130,None
+1348,1,Marie Curtis Park East Beach,31W,2024-07-04,130,None
+1349,1,Marie Curtis Park East Beach,30W,2024-07-04,110,None
+1350,2,Sunnyside Beach,23W,2024-07-04,NA,No data
+1351,2,Sunnyside Beach,18W,2024-07-04,120,None
+1352,2,Sunnyside Beach,17W,2024-07-04,130,None
+1353,2,Sunnyside Beach,20W,2024-07-04,50,None
+1354,2,Sunnyside Beach,21W,2024-07-04,250,None
+1355,2,Sunnyside Beach,19W,2024-07-04,50,None
+1356,2,Sunnyside Beach,22W,2024-07-04,470,None
+1357,1,Marie Curtis Park East Beach,29W,2024-07-03,50,None
+1358,1,Marie Curtis Park East Beach,33W,2024-07-03,70,None
+1359,1,Marie Curtis Park East Beach,32W,2024-07-03,80,None
+1360,1,Marie Curtis Park East Beach,31W,2024-07-03,80,None
+1361,1,Marie Curtis Park East Beach,30W,2024-07-03,40,None
+1362,2,Sunnyside Beach,23W,2024-07-03,NA,No data
+1363,2,Sunnyside Beach,18W,2024-07-03,40,None
+1364,2,Sunnyside Beach,17W,2024-07-03,90,None
+1365,2,Sunnyside Beach,20W,2024-07-03,140,None
+1366,2,Sunnyside Beach,21W,2024-07-03,30,None
+1367,2,Sunnyside Beach,19W,2024-07-03,90,None
+1368,2,Sunnyside Beach,22W,2024-07-03,40,None
+1369,1,Marie Curtis Park East Beach,29W,2024-07-02,10,<
+1370,1,Marie Curtis Park East Beach,33W,2024-07-02,10,None
+1371,1,Marie Curtis Park East Beach,32W,2024-07-02,10,<
+1372,1,Marie Curtis Park East Beach,31W,2024-07-02,20,None
+1373,1,Marie Curtis Park East Beach,30W,2024-07-02,10,<
+1374,2,Sunnyside Beach,23W,2024-07-02,NA,No data
+1375,2,Sunnyside Beach,18W,2024-07-02,20,None
+1376,2,Sunnyside Beach,17W,2024-07-02,20,None
+1377,2,Sunnyside Beach,20W,2024-07-02,20,None
+1378,2,Sunnyside Beach,21W,2024-07-02,40,None
+1379,2,Sunnyside Beach,19W,2024-07-02,20,None
+1380,2,Sunnyside Beach,22W,2024-07-02,30,None
+1381,1,Marie Curtis Park East Beach,29W,2024-07-01,10,<
+1382,1,Marie Curtis Park East Beach,33W,2024-07-01,10,None
+1383,1,Marie Curtis Park East Beach,32W,2024-07-01,10,<
+1384,1,Marie Curtis Park East Beach,31W,2024-07-01,10,<
+1385,1,Marie Curtis Park East Beach,30W,2024-07-01,10,<
+1386,2,Sunnyside Beach,23W,2024-07-01,NA,No data
+1387,2,Sunnyside Beach,18W,2024-07-01,70,None
+1388,2,Sunnyside Beach,17W,2024-07-01,60,None
+1389,2,Sunnyside Beach,20W,2024-07-01,50,None
+1390,2,Sunnyside Beach,21W,2024-07-01,10,None
+1391,2,Sunnyside Beach,19W,2024-07-01,20,None
+1392,2,Sunnyside Beach,22W,2024-07-01,10,None
+1393,1,Marie Curtis Park East Beach,29W,2024-06-30,220,None
+1394,1,Marie Curtis Park East Beach,33W,2024-06-30,180,None
+1395,1,Marie Curtis Park East Beach,32W,2024-06-30,140,None
+1396,1,Marie Curtis Park East Beach,31W,2024-06-30,220,None
+1397,1,Marie Curtis Park East Beach,30W,2024-06-30,300,None
+1398,2,Sunnyside Beach,23W,2024-06-30,NA,None
+1399,2,Sunnyside Beach,18W,2024-06-30,220,None
+1400,2,Sunnyside Beach,17W,2024-06-30,370,None
+1401,2,Sunnyside Beach,20W,2024-06-30,320,None
+1402,2,Sunnyside Beach,21W,2024-06-30,580,None
+1403,2,Sunnyside Beach,19W,2024-06-30,270,None
+1404,2,Sunnyside Beach,22W,2024-06-30,370,None
+1405,1,Marie Curtis Park East Beach,29W,2024-06-29,140,None
+1406,1,Marie Curtis Park East Beach,33W,2024-06-29,70,None
+1407,1,Marie Curtis Park East Beach,32W,2024-06-29,20,None
+1408,1,Marie Curtis Park East Beach,31W,2024-06-29,20,None
+1409,1,Marie Curtis Park East Beach,30W,2024-06-29,40,None
+1410,2,Sunnyside Beach,23W,2024-06-29,NA,None
+1411,2,Sunnyside Beach,18W,2024-06-29,270,None
+1412,2,Sunnyside Beach,17W,2024-06-29,90,None
+1413,2,Sunnyside Beach,20W,2024-06-29,20,None
+1414,2,Sunnyside Beach,21W,2024-06-29,50,None
+1415,2,Sunnyside Beach,19W,2024-06-29,80,None
+1416,2,Sunnyside Beach,22W,2024-06-29,20,None
+1417,1,Marie Curtis Park East Beach,29W,2024-06-28,90,None
+1418,1,Marie Curtis Park East Beach,33W,2024-06-28,110,None
+1419,1,Marie Curtis Park East Beach,32W,2024-06-28,100,None
+1420,1,Marie Curtis Park East Beach,31W,2024-06-28,110,None
+1421,1,Marie Curtis Park East Beach,30W,2024-06-28,130,None
+1422,2,Sunnyside Beach,23W,2024-06-28,NA,No data
+1423,2,Sunnyside Beach,18W,2024-06-28,180,None
+1424,2,Sunnyside Beach,17W,2024-06-28,70,None
+1425,2,Sunnyside Beach,20W,2024-06-28,80,None
+1426,2,Sunnyside Beach,21W,2024-06-28,100,None
+1427,2,Sunnyside Beach,19W,2024-06-28,130,None
+1428,2,Sunnyside Beach,22W,2024-06-28,50,None
+1429,1,Marie Curtis Park East Beach,29W,2024-06-27,10,None
+1430,1,Marie Curtis Park East Beach,33W,2024-06-27,10,<
+1431,1,Marie Curtis Park East Beach,32W,2024-06-27,10,<
+1432,1,Marie Curtis Park East Beach,31W,2024-06-27,10,None
+1433,1,Marie Curtis Park East Beach,30W,2024-06-27,10,<
+1434,2,Sunnyside Beach,23W,2024-06-27,NA,No Data
+1435,2,Sunnyside Beach,18W,2024-06-27,70,None
+1436,2,Sunnyside Beach,17W,2024-06-27,70,None
+1437,2,Sunnyside Beach,20W,2024-06-27,60,None
+1438,2,Sunnyside Beach,21W,2024-06-27,50,None
+1439,2,Sunnyside Beach,19W,2024-06-27,40,None
+1440,2,Sunnyside Beach,22W,2024-06-27,170,None
+1441,1,Marie Curtis Park East Beach,29W,2024-06-26,10,None
+1442,1,Marie Curtis Park East Beach,33W,2024-06-26,30,None
+1443,1,Marie Curtis Park East Beach,32W,2024-06-26,90,None
+1444,1,Marie Curtis Park East Beach,31W,2024-06-26,50,None
+1445,1,Marie Curtis Park East Beach,30W,2024-06-26,100,None
+1446,2,Sunnyside Beach,23W,2024-06-26,NA,No data
+1447,2,Sunnyside Beach,18W,2024-06-26,20,None
+1448,2,Sunnyside Beach,17W,2024-06-26,40,None
+1449,2,Sunnyside Beach,20W,2024-06-26,10,None
+1450,2,Sunnyside Beach,21W,2024-06-26,30,None
+1451,2,Sunnyside Beach,19W,2024-06-26,30,None
+1452,2,Sunnyside Beach,22W,2024-06-26,20,None
+1453,1,Marie Curtis Park East Beach,29W,2024-06-25,NA,No data
+1454,1,Marie Curtis Park East Beach,33W,2024-06-25,10,None
+1455,1,Marie Curtis Park East Beach,32W,2024-06-25,10,<
+1456,1,Marie Curtis Park East Beach,31W,2024-06-25,10,<
+1457,1,Marie Curtis Park East Beach,30W,2024-06-25,10,<
+1458,2,Sunnyside Beach,23W,2024-06-25,NA,No data
+1459,2,Sunnyside Beach,18W,2024-06-25,20,None
+1460,2,Sunnyside Beach,17W,2024-06-25,40,None
+1461,2,Sunnyside Beach,20W,2024-06-25,10,None
+1462,2,Sunnyside Beach,21W,2024-06-25,30,None
+1463,2,Sunnyside Beach,19W,2024-06-25,30,None
+1464,2,Sunnyside Beach,22W,2024-06-25,20,None
+1465,1,Marie Curtis Park East Beach,29W,2024-06-24,60,None
+1466,1,Marie Curtis Park East Beach,33W,2024-06-24,40,None
+1467,1,Marie Curtis Park East Beach,32W,2024-06-24,40,None
+1468,1,Marie Curtis Park East Beach,31W,2024-06-24,40,None
+1469,1,Marie Curtis Park East Beach,30W,2024-06-24,150,None
+1470,2,Sunnyside Beach,23W,2024-06-24,NA,No data
+1471,2,Sunnyside Beach,18W,2024-06-24,60,None
+1472,2,Sunnyside Beach,17W,2024-06-24,90,None
+1473,2,Sunnyside Beach,20W,2024-06-24,530,None
+1474,2,Sunnyside Beach,21W,2024-06-24,60,None
+1475,2,Sunnyside Beach,19W,2024-06-24,70,None
+1476,2,Sunnyside Beach,22W,2024-06-24,50,None
+1477,1,Marie Curtis Park East Beach,29W,2024-06-23,1330,None
+1478,1,Marie Curtis Park East Beach,33W,2024-06-23,1110,None
+1479,1,Marie Curtis Park East Beach,32W,2024-06-23,1420,None
+1480,1,Marie Curtis Park East Beach,31W,2024-06-23,1060,None
+1481,1,Marie Curtis Park East Beach,30W,2024-06-23,1320,None
+1482,2,Sunnyside Beach,23W,2024-06-23,NA,None
+1483,2,Sunnyside Beach,18W,2024-06-23,210,None
+1484,2,Sunnyside Beach,17W,2024-06-23,220,None
+1485,2,Sunnyside Beach,20W,2024-06-23,860,None
+1486,2,Sunnyside Beach,21W,2024-06-23,830,None
+1487,2,Sunnyside Beach,19W,2024-06-23,480,None
+1488,2,Sunnyside Beach,22W,2024-06-23,890,None
+1489,1,Marie Curtis Park East Beach,29W,2024-06-22,60,None
+1490,1,Marie Curtis Park East Beach,33W,2024-06-22,140,None
+1491,1,Marie Curtis Park East Beach,32W,2024-06-22,130,None
+1492,1,Marie Curtis Park East Beach,31W,2024-06-22,90,None
+1493,1,Marie Curtis Park East Beach,30W,2024-06-22,120,None
+1494,2,Sunnyside Beach,23W,2024-06-22,NA,None
+1495,2,Sunnyside Beach,18W,2024-06-22,130,None
+1496,2,Sunnyside Beach,17W,2024-06-22,170,None
+1497,2,Sunnyside Beach,20W,2024-06-22,140,None
+1498,2,Sunnyside Beach,21W,2024-06-22,130,None
+1499,2,Sunnyside Beach,19W,2024-06-22,110,None
+1500,2,Sunnyside Beach,22W,2024-06-22,170,None
+1501,1,Marie Curtis Park East Beach,29W,2024-06-21,970,None
+1502,1,Marie Curtis Park East Beach,33W,2024-06-21,1000,>
+1503,1,Marie Curtis Park East Beach,32W,2024-06-21,1000,>
+1504,1,Marie Curtis Park East Beach,31W,2024-06-21,1000,>
+1505,1,Marie Curtis Park East Beach,30W,2024-06-21,930,None
+1506,2,Sunnyside Beach,23W,2024-06-21,NA,No data
+1507,2,Sunnyside Beach,18W,2024-06-21,760,None
+1508,2,Sunnyside Beach,17W,2024-06-21,590,None
+1509,2,Sunnyside Beach,20W,2024-06-21,1000,>
+1510,2,Sunnyside Beach,21W,2024-06-21,1000,>
+1511,2,Sunnyside Beach,19W,2024-06-21,980,None
+1512,2,Sunnyside Beach,22W,2024-06-21,1000,>
+1513,1,Marie Curtis Park East Beach,29W,2024-06-20,1000,>
+1514,1,Marie Curtis Park East Beach,33W,2024-06-20,1000,>
+1515,1,Marie Curtis Park East Beach,32W,2024-06-20,1000,>
+1516,1,Marie Curtis Park East Beach,31W,2024-06-20,1000,>
+1517,1,Marie Curtis Park East Beach,30W,2024-06-20,1000,>
+1518,2,Sunnyside Beach,23W,2024-06-20,NA,No data
+1519,2,Sunnyside Beach,18W,2024-06-20,1000,>
+1520,2,Sunnyside Beach,17W,2024-06-20,1000,>
+1521,2,Sunnyside Beach,20W,2024-06-20,690,None
+1522,2,Sunnyside Beach,21W,2024-06-20,920,None
+1523,2,Sunnyside Beach,19W,2024-06-20,1000,>
+1524,2,Sunnyside Beach,22W,2024-06-20,1000,>
+1525,1,Marie Curtis Park East Beach,29W,2024-06-19,580,None
+1526,1,Marie Curtis Park East Beach,33W,2024-06-19,20,None
+1527,1,Marie Curtis Park East Beach,32W,2024-06-19,30,None
+1528,1,Marie Curtis Park East Beach,31W,2024-06-19,40,None
+1529,1,Marie Curtis Park East Beach,30W,2024-06-19,30,None
+1530,2,Sunnyside Beach,23W,2024-06-19,NA,No data
+1531,2,Sunnyside Beach,18W,2024-06-19,190,None
+1532,2,Sunnyside Beach,17W,2024-06-19,190,None
+1533,2,Sunnyside Beach,20W,2024-06-19,20,None
+1534,2,Sunnyside Beach,21W,2024-06-19,30,None
+1535,2,Sunnyside Beach,19W,2024-06-19,60,None
+1536,2,Sunnyside Beach,22W,2024-06-19,10,None
+1537,1,Marie Curtis Park East Beach,29W,2024-06-18,NA,No data
+1538,1,Marie Curtis Park East Beach,33W,2024-06-18,NA,No data
+1539,1,Marie Curtis Park East Beach,32W,2024-06-18,NA,No data
+1540,1,Marie Curtis Park East Beach,31W,2024-06-18,NA,No data
+1541,1,Marie Curtis Park East Beach,30W,2024-06-18,NA,No data
+1542,2,Sunnyside Beach,23W,2024-06-18,NA,No data
+1543,2,Sunnyside Beach,18W,2024-06-18,290,None
+1544,2,Sunnyside Beach,17W,2024-06-18,210,None
+1545,2,Sunnyside Beach,20W,2024-06-18,80,None
+1546,2,Sunnyside Beach,21W,2024-06-18,80,None
+1547,2,Sunnyside Beach,19W,2024-06-18,380,None
+1548,2,Sunnyside Beach,22W,2024-06-18,160,None
+1549,1,Marie Curtis Park East Beach,29W,2024-06-17,530,None
+1550,1,Marie Curtis Park East Beach,33W,2024-06-17,270,None
+1551,1,Marie Curtis Park East Beach,32W,2024-06-17,430,None
+1552,1,Marie Curtis Park East Beach,31W,2024-06-17,520,None
+1553,1,Marie Curtis Park East Beach,30W,2024-06-17,220,None
+1554,2,Sunnyside Beach,23W,2024-06-17,NA,No data
+1555,2,Sunnyside Beach,18W,2024-06-17,30,None
+1556,2,Sunnyside Beach,17W,2024-06-17,70,None
+1557,2,Sunnyside Beach,20W,2024-06-17,90,None
+1558,2,Sunnyside Beach,21W,2024-06-17,100,None
+1559,2,Sunnyside Beach,19W,2024-06-17,70,None
+1560,2,Sunnyside Beach,22W,2024-06-17,80,None
+1561,1,Marie Curtis Park East Beach,29W,2024-06-16,80,None
+1562,1,Marie Curtis Park East Beach,33W,2024-06-16,20,None
+1563,1,Marie Curtis Park East Beach,32W,2024-06-16,10,None
+1564,1,Marie Curtis Park East Beach,31W,2024-06-16,10,None
+1565,1,Marie Curtis Park East Beach,30W,2024-06-16,10,None
+1566,2,Sunnyside Beach,23W,2024-06-16,NA,None
+1567,2,Sunnyside Beach,18W,2024-06-16,50,None
+1568,2,Sunnyside Beach,17W,2024-06-16,10,<10
+1569,2,Sunnyside Beach,20W,2024-06-16,10,<10
+1570,2,Sunnyside Beach,21W,2024-06-16,10,<10
+1571,2,Sunnyside Beach,19W,2024-06-16,40,None
+1572,2,Sunnyside Beach,22W,2024-06-16,10,<10
+1573,1,Marie Curtis Park East Beach,29W,2024-06-15,10,None
+1574,1,Marie Curtis Park East Beach,33W,2024-06-15,10,None
+1575,1,Marie Curtis Park East Beach,32W,2024-06-15,10,<10
+1576,1,Marie Curtis Park East Beach,31W,2024-06-15,10,<10
+1577,1,Marie Curtis Park East Beach,30W,2024-06-15,10,<10
+1578,2,Sunnyside Beach,23W,2024-06-15,NA,None
+1579,2,Sunnyside Beach,18W,2024-06-15,10,<10
+1580,2,Sunnyside Beach,17W,2024-06-15,30,None
+1581,2,Sunnyside Beach,20W,2024-06-15,20,None
+1582,2,Sunnyside Beach,21W,2024-06-15,10,<10
+1583,2,Sunnyside Beach,19W,2024-06-15,20,None
+1584,2,Sunnyside Beach,22W,2024-06-15,10,None
+1585,1,Marie Curtis Park East Beach,29W,2024-06-14,10,<
+1586,1,Marie Curtis Park East Beach,33W,2024-06-14,60,None
+1587,1,Marie Curtis Park East Beach,32W,2024-06-14,20,None
+1588,1,Marie Curtis Park East Beach,31W,2024-06-14,10,None
+1589,1,Marie Curtis Park East Beach,30W,2024-06-14,NA,No data
+1590,2,Sunnyside Beach,23W,2024-06-14,NA,No data
+1591,2,Sunnyside Beach,18W,2024-06-14,230,None
+1592,2,Sunnyside Beach,17W,2024-06-14,210,None
+1593,2,Sunnyside Beach,20W,2024-06-14,220,None
+1594,2,Sunnyside Beach,21W,2024-06-14,350,None
+1595,2,Sunnyside Beach,19W,2024-06-14,130,None
+1596,2,Sunnyside Beach,22W,2024-06-14,310,None
+1597,1,Marie Curtis Park East Beach,29W,2024-06-13,10,None
+1598,1,Marie Curtis Park East Beach,33W,2024-06-13,10,None
+1599,1,Marie Curtis Park East Beach,32W,2024-06-13,10,<
+1600,1,Marie Curtis Park East Beach,31W,2024-06-13,10,None
+1601,1,Marie Curtis Park East Beach,30W,2024-06-13,20,None
+1602,2,Sunnyside Beach,23W,2024-06-13,NA,No data
+1603,2,Sunnyside Beach,18W,2024-06-13,50,None
+1604,2,Sunnyside Beach,17W,2024-06-13,90,None
+1605,2,Sunnyside Beach,20W,2024-06-13,30,None
+1606,2,Sunnyside Beach,21W,2024-06-13,40,None
+1607,2,Sunnyside Beach,19W,2024-06-13,210,None
+1608,2,Sunnyside Beach,22W,2024-06-13,10,None
+1609,1,Marie Curtis Park East Beach,29W,2024-06-12,10,None
+1610,1,Marie Curtis Park East Beach,33W,2024-06-12,10,None
+1611,1,Marie Curtis Park East Beach,32W,2024-06-12,20,None
+1612,1,Marie Curtis Park East Beach,31W,2024-06-12,10,None
+1613,1,Marie Curtis Park East Beach,30W,2024-06-12,10,None
+1614,2,Sunnyside Beach,23W,2024-06-12,NA,No data
+1615,2,Sunnyside Beach,18W,2024-06-12,80,None
+1616,2,Sunnyside Beach,17W,2024-06-12,30,None
+1617,2,Sunnyside Beach,20W,2024-06-12,40,None
+1618,2,Sunnyside Beach,21W,2024-06-12,10,None
+1619,2,Sunnyside Beach,19W,2024-06-12,70,None
+1620,2,Sunnyside Beach,22W,2024-06-12,40,None
+1621,1,Marie Curtis Park East Beach,29W,2024-06-11,40,None
+1622,1,Marie Curtis Park East Beach,33W,2024-06-11,10,None
+1623,1,Marie Curtis Park East Beach,32W,2024-06-11,10,<
+1624,1,Marie Curtis Park East Beach,31W,2024-06-11,10,None
+1625,1,Marie Curtis Park East Beach,30W,2024-06-11,40,None
+1626,2,Sunnyside Beach,23W,2024-06-11,NA,No data
+1627,2,Sunnyside Beach,18W,2024-06-11,60,None
+1628,2,Sunnyside Beach,17W,2024-06-11,10,None
+1629,2,Sunnyside Beach,20W,2024-06-11,10,<
+1630,2,Sunnyside Beach,21W,2024-06-11,10,None
+1631,2,Sunnyside Beach,19W,2024-06-11,10,None
+1632,2,Sunnyside Beach,22W,2024-06-11,10,None
+1633,1,Marie Curtis Park East Beach,29W,2024-06-10,70,None
+1634,1,Marie Curtis Park East Beach,33W,2024-06-10,40,None
+1635,1,Marie Curtis Park East Beach,32W,2024-06-10,90,None
+1636,1,Marie Curtis Park East Beach,31W,2024-06-10,30,None
+1637,1,Marie Curtis Park East Beach,30W,2024-06-10,30,None
+1638,2,Sunnyside Beach,23W,2024-06-10,NA,No data
+1639,2,Sunnyside Beach,18W,2024-06-10,50,None
+1640,2,Sunnyside Beach,17W,2024-06-10,40,None
+1641,2,Sunnyside Beach,20W,2024-06-10,20,None
+1642,2,Sunnyside Beach,21W,2024-06-10,60,None
+1643,2,Sunnyside Beach,19W,2024-06-10,40,None
+1644,2,Sunnyside Beach,22W,2024-06-10,90,None
+1645,1,Marie Curtis Park East Beach,29W,2024-06-09,170,None
+1646,1,Marie Curtis Park East Beach,33W,2024-06-09,60,None
+1647,1,Marie Curtis Park East Beach,32W,2024-06-09,80,None
+1648,1,Marie Curtis Park East Beach,31W,2024-06-09,100,None
+1649,1,Marie Curtis Park East Beach,30W,2024-06-09,130,None
+1650,2,Sunnyside Beach,23W,2024-06-09,NA,None
+1651,2,Sunnyside Beach,18W,2024-06-09,20,None
+1652,2,Sunnyside Beach,17W,2024-06-09,40,None
+1653,2,Sunnyside Beach,20W,2024-06-09,10,None
+1654,2,Sunnyside Beach,21W,2024-06-09,10,<10
+1655,2,Sunnyside Beach,19W,2024-06-09,40,None
+1656,2,Sunnyside Beach,22W,2024-06-09,10,None
+1657,1,Marie Curtis Park East Beach,29W,2024-06-08,70,None
+1658,1,Marie Curtis Park East Beach,33W,2024-06-08,40,None
+1659,1,Marie Curtis Park East Beach,32W,2024-06-08,30,None
+1660,1,Marie Curtis Park East Beach,31W,2024-06-08,40,None
+1661,1,Marie Curtis Park East Beach,30W,2024-06-08,80,None
+1662,2,Sunnyside Beach,23W,2024-06-08,NA,None
+1663,2,Sunnyside Beach,18W,2024-06-08,10,None
+1664,2,Sunnyside Beach,17W,2024-06-08,30,None
+1665,2,Sunnyside Beach,20W,2024-06-08,10,<10
+1666,2,Sunnyside Beach,21W,2024-06-08,90,None
+1667,2,Sunnyside Beach,19W,2024-06-08,30,None
+1668,2,Sunnyside Beach,22W,2024-06-08,20,None
+1669,1,Marie Curtis Park East Beach,29W,2024-06-07,10,<
+1670,1,Marie Curtis Park East Beach,33W,2024-06-07,40,None
+1671,1,Marie Curtis Park East Beach,32W,2024-06-07,10,<
+1672,1,Marie Curtis Park East Beach,31W,2024-06-07,10,None
+1673,1,Marie Curtis Park East Beach,30W,2024-06-07,30,None
+1674,2,Sunnyside Beach,23W,2024-06-07,NA,No data
+1675,2,Sunnyside Beach,18W,2024-06-07,60,None
+1676,2,Sunnyside Beach,17W,2024-06-07,60,None
+1677,2,Sunnyside Beach,20W,2024-06-07,70,None
+1678,2,Sunnyside Beach,21W,2024-06-07,40,None
+1679,2,Sunnyside Beach,19W,2024-06-07,70,None
+1680,2,Sunnyside Beach,22W,2024-06-07,40,None
+1681,1,Marie Curtis Park East Beach,29W,2024-06-06,120,None
+1682,1,Marie Curtis Park East Beach,33W,2024-06-06,250,None
+1683,1,Marie Curtis Park East Beach,32W,2024-06-06,100,None
+1684,1,Marie Curtis Park East Beach,31W,2024-06-06,90,None
+1685,1,Marie Curtis Park East Beach,30W,2024-06-06,70,None
+1686,2,Sunnyside Beach,23W,2024-06-06,NA,No data
+1687,2,Sunnyside Beach,18W,2024-06-06,200,None
+1688,2,Sunnyside Beach,17W,2024-06-06,350,None
+1689,2,Sunnyside Beach,20W,2024-06-06,20,None
+1690,2,Sunnyside Beach,21W,2024-06-06,30,None
+1691,2,Sunnyside Beach,19W,2024-06-06,80,None
+1692,2,Sunnyside Beach,22W,2024-06-06,30,None
+1693,1,Marie Curtis Park East Beach,29W,2024-06-05,10,None
+1694,1,Marie Curtis Park East Beach,33W,2024-06-05,60,None
+1695,1,Marie Curtis Park East Beach,32W,2024-06-05,20,None
+1696,1,Marie Curtis Park East Beach,31W,2024-06-05,30,None
+1697,1,Marie Curtis Park East Beach,30W,2024-06-05,30,None
+1698,2,Sunnyside Beach,23W,2024-06-05,NA,No data
+1699,2,Sunnyside Beach,18W,2024-06-05,20,None
+1700,2,Sunnyside Beach,17W,2024-06-05,40,None
+1701,2,Sunnyside Beach,20W,2024-06-05,10,<
+1702,2,Sunnyside Beach,21W,2024-06-05,10,<
+1703,2,Sunnyside Beach,19W,2024-06-05,20,None
+1704,2,Sunnyside Beach,22W,2024-06-05,20,None
+1705,1,Marie Curtis Park East Beach,29W,2024-06-04,250,None
+1706,1,Marie Curtis Park East Beach,33W,2024-06-04,30,None
+1707,1,Marie Curtis Park East Beach,32W,2024-06-04,120,None
+1708,1,Marie Curtis Park East Beach,31W,2024-06-04,120,None
+1709,1,Marie Curtis Park East Beach,30W,2024-06-04,100,None
+1710,2,Sunnyside Beach,23W,2024-06-04,NA,No data
+1711,2,Sunnyside Beach,18W,2024-06-04,100,None
+1712,2,Sunnyside Beach,17W,2024-06-04,60,None
+1713,2,Sunnyside Beach,20W,2024-06-04,10,None
+1714,2,Sunnyside Beach,21W,2024-06-04,30,None
+1715,2,Sunnyside Beach,19W,2024-06-04,50,None
+1716,2,Sunnyside Beach,22W,2024-06-04,20,None
+1717,1,Marie Curtis Park East Beach,29W,2024-06-03,60,None
+1718,1,Marie Curtis Park East Beach,33W,2024-06-03,30,None
+1719,1,Marie Curtis Park East Beach,32W,2024-06-03,20,None
+1720,1,Marie Curtis Park East Beach,31W,2024-06-03,80,None
+1721,1,Marie Curtis Park East Beach,30W,2024-06-03,40,None
+1722,2,Sunnyside Beach,23W,2024-06-03,NA,No data
+1723,2,Sunnyside Beach,18W,2024-06-03,100,None
+1724,2,Sunnyside Beach,17W,2024-06-03,80,None
+1725,2,Sunnyside Beach,20W,2024-06-03,30,None
+1726,2,Sunnyside Beach,21W,2024-06-03,180,None
+1727,2,Sunnyside Beach,19W,2024-06-03,40,None
+1728,2,Sunnyside Beach,22W,2024-06-03,140,None
+1729,1,Marie Curtis Park East Beach,29W,2024-06-02,80,None
+1730,1,Marie Curtis Park East Beach,33W,2024-06-02,90,None
+1731,1,Marie Curtis Park East Beach,32W,2024-06-02,40,None
+1732,1,Marie Curtis Park East Beach,31W,2024-06-02,20,None
+1733,1,Marie Curtis Park East Beach,30W,2024-06-02,40,None
+1734,2,Sunnyside Beach,23W,2024-06-02,NA,None
+1735,2,Sunnyside Beach,18W,2024-06-02,20,None
+1736,2,Sunnyside Beach,17W,2024-06-02,30,None
+1737,2,Sunnyside Beach,20W,2024-06-02,10,<10
+1738,2,Sunnyside Beach,21W,2024-06-02,10,None
+1739,2,Sunnyside Beach,19W,2024-06-02,10,<10
+1740,2,Sunnyside Beach,22W,2024-06-02,20,None
+1741,1,Marie Curtis Park East Beach,29W,2024-06-01,10,None
+1742,1,Marie Curtis Park East Beach,33W,2024-06-01,10,None
+1743,1,Marie Curtis Park East Beach,32W,2024-06-01,70,None
+1744,1,Marie Curtis Park East Beach,31W,2024-06-01,10,None
+1745,1,Marie Curtis Park East Beach,30W,2024-06-01,10,<10
+1746,2,Sunnyside Beach,23W,2024-06-01,NA,None
+1747,2,Sunnyside Beach,18W,2024-06-01,20,None
+1748,2,Sunnyside Beach,17W,2024-06-01,50,None
+1749,2,Sunnyside Beach,20W,2024-06-01,10,None
+1750,2,Sunnyside Beach,21W,2024-06-01,50,None
+1751,2,Sunnyside Beach,19W,2024-06-01,20,None
+1752,2,Sunnyside Beach,22W,2024-06-01,10,None
+1753,1,Marie Curtis Park East Beach,29W,2024-05-31,20,None
+1754,1,Marie Curtis Park East Beach,33W,2024-05-31,10,None
+1755,1,Marie Curtis Park East Beach,32W,2024-05-31,10,<
+1756,1,Marie Curtis Park East Beach,31W,2024-05-31,10,None
+1757,1,Marie Curtis Park East Beach,30W,2024-05-31,10,<
+1758,2,Sunnyside Beach,23W,2024-05-31,NA,No data
+1759,2,Sunnyside Beach,18W,2024-05-31,10,None
+1760,2,Sunnyside Beach,17W,2024-05-31,20,None
+1761,2,Sunnyside Beach,20W,2024-05-31,40,None
+1762,2,Sunnyside Beach,21W,2024-05-31,60,None
+1763,2,Sunnyside Beach,19W,2024-05-31,50,None
+1764,2,Sunnyside Beach,22W,2024-05-31,30,None
+1765,1,Marie Curtis Park East Beach,29W,2024-05-30,50,None
+1766,1,Marie Curtis Park East Beach,33W,2024-05-30,40,None
+1767,1,Marie Curtis Park East Beach,32W,2024-05-30,30,None
+1768,1,Marie Curtis Park East Beach,31W,2024-05-30,20,None
+1769,1,Marie Curtis Park East Beach,30W,2024-05-30,30,None
+1770,2,Sunnyside Beach,23W,2024-05-30,NA,No data
+1771,2,Sunnyside Beach,18W,2024-05-30,10,None
+1772,2,Sunnyside Beach,17W,2024-05-30,10,None
+1773,2,Sunnyside Beach,20W,2024-05-30,90,None
+1774,2,Sunnyside Beach,21W,2024-05-30,70,None
+1775,2,Sunnyside Beach,19W,2024-05-30,70,None
+1776,2,Sunnyside Beach,22W,2024-05-30,10,<
+1777,1,Marie Curtis Park East Beach,29W,2024-05-29,1000,>
+1778,1,Marie Curtis Park East Beach,33W,2024-05-29,230,None
+1779,1,Marie Curtis Park East Beach,32W,2024-05-29,70,None
+1780,1,Marie Curtis Park East Beach,31W,2024-05-29,130,None
+1781,1,Marie Curtis Park East Beach,30W,2024-05-29,170,None
+1782,2,Sunnyside Beach,23W,2024-05-29,NA,No data
+1783,2,Sunnyside Beach,18W,2024-05-29,580,None
+1784,2,Sunnyside Beach,17W,2024-05-29,410,None
+1785,2,Sunnyside Beach,20W,2024-05-29,370,None
+1786,2,Sunnyside Beach,21W,2024-05-29,230,None
+1787,2,Sunnyside Beach,19W,2024-05-29,470,None
+1788,2,Sunnyside Beach,22W,2024-05-29,140,None
+1789,1,Marie Curtis Park East Beach,29W,2024-05-28,10,None
+1790,1,Marie Curtis Park East Beach,33W,2024-05-28,30,None
+1791,1,Marie Curtis Park East Beach,32W,2024-05-28,30,None
+1792,1,Marie Curtis Park East Beach,31W,2024-05-28,30,None
+1793,1,Marie Curtis Park East Beach,30W,2024-05-28,20,None
+1794,2,Sunnyside Beach,23W,2024-05-28,NA,No data
+1795,2,Sunnyside Beach,18W,2024-05-28,430,None
+1796,2,Sunnyside Beach,17W,2024-05-28,420,None
+1797,2,Sunnyside Beach,20W,2024-05-28,490,None
+1798,2,Sunnyside Beach,21W,2024-05-28,430,None
+1799,2,Sunnyside Beach,19W,2024-05-28,430,None
+1800,2,Sunnyside Beach,22W,2024-05-28,470,None
+1801,1,Marie Curtis Park East Beach,29W,2024-05-27,10,None
+1802,1,Marie Curtis Park East Beach,33W,2024-05-27,210,None
+1803,1,Marie Curtis Park East Beach,32W,2024-05-27,90,None
+1804,1,Marie Curtis Park East Beach,31W,2024-05-27,80,None
+1805,1,Marie Curtis Park East Beach,30W,2024-05-27,20,None
+1806,2,Sunnyside Beach,23W,2024-05-27,NA,No data
+1807,2,Sunnyside Beach,18W,2024-05-27,200,None
+1808,2,Sunnyside Beach,17W,2024-05-27,320,None
+1809,2,Sunnyside Beach,20W,2024-05-27,250,None
+1810,2,Sunnyside Beach,21W,2024-05-27,290,None
+1811,2,Sunnyside Beach,19W,2024-05-27,400,None
+1812,2,Sunnyside Beach,22W,2024-05-27,300,None
+1813,1,Marie Curtis Park East Beach,29W,2024-05-26,10,<10
+1814,1,Marie Curtis Park East Beach,33W,2024-05-26,10,None
+1815,1,Marie Curtis Park East Beach,32W,2024-05-26,10,<10
+1816,1,Marie Curtis Park East Beach,31W,2024-05-26,30,None
+1817,1,Marie Curtis Park East Beach,30W,2024-05-26,20,None
+1818,2,Sunnyside Beach,23W,2024-05-26,NA,None
+1819,2,Sunnyside Beach,18W,2024-05-26,50,None
+1820,2,Sunnyside Beach,17W,2024-05-26,30,None
+1821,2,Sunnyside Beach,20W,2024-05-26,30,None
+1822,2,Sunnyside Beach,21W,2024-05-26,20,None
+1823,2,Sunnyside Beach,19W,2024-05-26,40,None
+1824,2,Sunnyside Beach,22W,2024-05-26,50,None
+1825,1,Marie Curtis Park East Beach,29W,2024-05-25,10,None
+1826,1,Marie Curtis Park East Beach,33W,2024-05-25,10,<10
+1827,1,Marie Curtis Park East Beach,32W,2024-05-25,10,<10
+1828,1,Marie Curtis Park East Beach,31W,2024-05-25,10,<10
+1829,1,Marie Curtis Park East Beach,30W,2024-05-25,10,None
+1830,2,Sunnyside Beach,23W,2024-05-25,NA,None
+1831,2,Sunnyside Beach,18W,2024-05-25,100,None
+1832,2,Sunnyside Beach,17W,2024-05-25,20,None
+1833,2,Sunnyside Beach,20W,2024-05-25,90,None
+1834,2,Sunnyside Beach,21W,2024-05-25,90,None
+1835,2,Sunnyside Beach,19W,2024-05-25,100,None
+1836,2,Sunnyside Beach,22W,2024-05-25,30,None
+1837,1,Marie Curtis Park East Beach,29W,2024-05-24,10,<
+1838,1,Marie Curtis Park East Beach,33W,2024-05-24,10,<
+1839,1,Marie Curtis Park East Beach,32W,2024-05-24,10,<
+1840,1,Marie Curtis Park East Beach,31W,2024-05-24,10,<
+1841,1,Marie Curtis Park East Beach,30W,2024-05-24,10,<
+1842,2,Sunnyside Beach,23W,2024-05-24,NA,No data
+1843,2,Sunnyside Beach,18W,2024-05-24,10,None
+1844,2,Sunnyside Beach,17W,2024-05-24,10,None
+1845,2,Sunnyside Beach,20W,2024-05-24,10,<
+1846,2,Sunnyside Beach,21W,2024-05-24,10,None
+1847,2,Sunnyside Beach,19W,2024-05-24,40,None
+1848,2,Sunnyside Beach,22W,2024-05-24,10,None
+1849,1,Marie Curtis Park East Beach,29W,2024-05-23,10,None
+1850,1,Marie Curtis Park East Beach,33W,2024-05-23,10,None
+1851,1,Marie Curtis Park East Beach,32W,2024-05-23,10,None
+1852,1,Marie Curtis Park East Beach,31W,2024-05-23,10,<
+1853,1,Marie Curtis Park East Beach,30W,2024-05-23,10,<
+1854,2,Sunnyside Beach,23W,2024-05-23,NA,No data
+1855,2,Sunnyside Beach,18W,2024-05-23,70,None
+1856,2,Sunnyside Beach,17W,2024-05-23,50,None
+1857,2,Sunnyside Beach,20W,2024-05-23,100,None
+1858,2,Sunnyside Beach,21W,2024-05-23,20,None
+1859,2,Sunnyside Beach,19W,2024-05-23,100,None
+1860,2,Sunnyside Beach,22W,2024-05-23,100,None
+1861,1,Marie Curtis Park East Beach,29W,2024-05-22,30,None
+1862,1,Marie Curtis Park East Beach,33W,2024-05-22,10,<
+1863,1,Marie Curtis Park East Beach,32W,2024-05-22,10,<
+1864,1,Marie Curtis Park East Beach,31W,2024-05-22,10,<
+1865,1,Marie Curtis Park East Beach,30W,2024-05-22,10,<
+1866,2,Sunnyside Beach,23W,2024-05-22,NA,No data
+1867,2,Sunnyside Beach,18W,2024-05-22,10,None
+1868,2,Sunnyside Beach,17W,2024-05-22,110,None
+1869,2,Sunnyside Beach,20W,2024-05-22,60,None
+1870,2,Sunnyside Beach,21W,2024-05-22,10,None
+1871,2,Sunnyside Beach,19W,2024-05-22,30,None
+1872,2,Sunnyside Beach,22W,2024-05-22,20,None
+1873,1,Marie Curtis Park East Beach,29W,2024-05-21,190,None
+1874,1,Marie Curtis Park East Beach,33W,2024-05-21,200,None
+1875,1,Marie Curtis Park East Beach,32W,2024-05-21,350,None
+1876,1,Marie Curtis Park East Beach,31W,2024-05-21,280,None
+1877,1,Marie Curtis Park East Beach,30W,2024-05-21,300,None
+1878,2,Sunnyside Beach,23W,2024-05-21,NA,No data
+1879,2,Sunnyside Beach,18W,2024-05-21,30,None
+1880,2,Sunnyside Beach,17W,2024-05-21,80,None
+1881,2,Sunnyside Beach,20W,2024-05-21,60,None
+1882,2,Sunnyside Beach,21W,2024-05-21,40,None
+1883,2,Sunnyside Beach,19W,2024-05-21,60,None
+1884,2,Sunnyside Beach,22W,2024-05-21,40,None
+1885,1,Marie Curtis Park East Beach,29W,2024-05-15,NA,None
+1886,1,Marie Curtis Park East Beach,33W,2024-05-15,NA,None
+1887,1,Marie Curtis Park East Beach,32W,2024-05-15,NA,None
+1888,1,Marie Curtis Park East Beach,31W,2024-05-15,NA,None
+1889,1,Marie Curtis Park East Beach,30W,2024-05-15,NA,None
+1890,2,Sunnyside Beach,23W,2024-05-15,NA,None
+1891,2,Sunnyside Beach,18W,2024-05-15,NA,None
+1892,2,Sunnyside Beach,17W,2024-05-15,NA,None
+1893,2,Sunnyside Beach,20W,2024-05-15,NA,None
+1894,2,Sunnyside Beach,21W,2024-05-15,NA,None
+1895,2,Sunnyside Beach,19W,2024-05-15,NA,None
+1896,2,Sunnyside Beach,22W,2024-05-15,NA,None
+1897,1,Marie Curtis Park East Beach,29W,2024-04-26,NA,None
+1898,1,Marie Curtis Park East Beach,33W,2024-04-26,NA,None
+1899,1,Marie Curtis Park East Beach,32W,2024-04-26,NA,None
+1900,1,Marie Curtis Park East Beach,31W,2024-04-26,NA,None
+1901,1,Marie Curtis Park East Beach,30W,2024-04-26,NA,None
+1902,2,Sunnyside Beach,23W,2024-04-26,NA,None
+1903,2,Sunnyside Beach,18W,2024-04-26,NA,None
+1904,2,Sunnyside Beach,17W,2024-04-26,NA,None
+1905,2,Sunnyside Beach,20W,2024-04-26,NA,None
+1906,2,Sunnyside Beach,21W,2024-04-26,NA,None
+1907,2,Sunnyside Beach,19W,2024-04-26,NA,None
+1908,2,Sunnyside Beach,22W,2024-04-26,NA,None

@@ -1,0 +1,146 @@
+---
+title: "data.table"
+format: html
+---
+
+## data.table
+
+data.tables are faster and more memory efficient than data.frames, making them better suited for large operations on large data sets.
+
+They are keyed, which makes it possible to use binary search. A key is an index, created from column(s) in the data.table. It may or may not be unique.
+
+```{r, echo = TRUE}
+library(palmerpenguins)
+data(penguins)
+
+dt_penguins <- as.data.table(penguins)
+
+dt_penguins
+```
+
+You can see how many tables are stored and what size they are:
+
+```{r, echo = TRUE}
+tables()
+```
+
+To get information about our data, we can use `sapply` and `class`:
+
+```{r, echo = TRUE}
+sapply(dt_penguins, class)
+```
+
+To check if the data.table has a key:
+
+```{r, echo = TRUE}
+haskey(dt_penguins)
+```
+
+To set a key:
+
+```{r, echo = TRUE}
+setkey(dt_penguins, species)
+haskey(dt_penguins)
+```
+
+## General form
+
+`datatable[i, j, k]`
+
+Where:
+
+-   from datatable
+-   i is selected and/or filtered
+-   j is calculated
+-   k is grouped by
+
+## Subsetting rows
+
+```{r , echo = TRUE, eval=FALSE}
+dt_penguins[bill_length_mm > 50]
+```
+
+## Selecting columns
+
+Selecting a column to return as a vector:
+
+```{r, echo = TRUE, eval=FALSE}
+dt_penguins[, species]
+```
+
+Selecting a column to return as a data.table:
+
+```{r, echo = TRUE, eval=FALSE}
+dt_penguins[, list(species)]
+```
+
+## Computations
+
+Counting the number of cases where the sum of bill length and bill depth is greater than 70mm:
+
+```{r, echo = TRUE, eval=FALSE}
+dt_penguins[, sum((bill_length_mm + bill_depth_mm) > 70, na.rm = TRUE)]
+```
+
+## Combining subsetting and computation
+
+Counting the number of cases where the species of penguin is "Adelie" and the sum of bill length and bill depth is greater than 70mm:
+
+```{r, echo = TRUE, eval=FALSE}
+dt_penguins[species == "Adelie", sum((bill_length_mm + bill_depth_mm) > 70, na.rm = TRUE)]
+```
+
+## Counting observations in current group
+
+```{r, echo = TRUE, eval=FALSE}
+dt_penguins[species == "Adelie", .N]
+```
+
+## Aggregations
+
+Counting the number in each species:
+
+```{r, echo = TRUE, eval=FALSE}
+dt_penguins[, .(.N), by = .(species)]
+```
+
+## Computations by group
+
+```{r, echo = TRUE, eval=FALSE}
+dt_penguins[sex == "female", .(mean(body_mass_g, na.rm = TRUE)), keyby = .(species)]
+```
+
+## Ordering
+
+Ordering by species and then descending in body mass:
+
+```{r, echo = TRUE, eval=FALSE}
+dt_penguins[order(species, -body_mass_g)]
+```
+
+## Grouping by expression rather than column
+
+Grouping those that have body mass greater than 4000g and bill length less than 35mm:
+
+```{r, echo = TRUE, eval=FALSE}
+dt_penguins[, .N, .(body_mass_g > 4000, bill_length_mm < 35)]
+```
+
+## Computations for multiple columns
+
+Taking the mean of all numeric columns using `lapply` and `.SD`:
+
+```{r, echo = TRUE, eval=FALSE}
+dt_penguins[, lapply(.SD, mean, na.rm = TRUE), by = species, .SDcols = sapply(dt_penguins, is.numeric)]
+```
+
+## Subsetting for each group
+
+Getting the first two rows for all columns, for each species:
+
+```{r, echo = TRUE, eval=FALSE}
+dt_penguins[, head(.SD, 2), by = species]
+
+```
+
+## Questions?
