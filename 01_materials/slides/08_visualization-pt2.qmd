@@ -1,0 +1,294 @@
+---
+title: "Visualization with ggplot2 - Part 2"
+format: html
+---
+
+In this lesson, we will be learning about more advanced customization options in ggplot2, and how to solve common issues with the most popular types of plots: bar plots, line plots, and scatterplots.
+
+## Contents
+
+1.  [Bar plots](#bar-plots)
+2.  [Histograms](#histograms)
+3.  [Scatterplots](#scatterplots)
+4.  Saving plots
+
+### Last time
+
+-   basic ggplot syntax
+
+-   some customization
+
+We will again be working with the Toronto beaches observations dataset:
+
+```{r}
+library(tidyverse) 
+
+beaches_obs <- read_csv("../../05_src/slides_data/toronto_beaches_observations.csv")
+```
+
+## Bar plots {#bar-plots}
+
+Last time, we made this bar plot:
+
+```{r}
+ggplot(data = beaches_obs, mapping = aes(x = beachName, y = waterFowl)) +
+  geom_col()
+```
+
+There are a few issues with the first plot:
+
+-   each bar represents a stacking of multiple observations
+
+-   x-axis labels overlap
+
+For the first issue, we can process the data so that we are more explicit about what we want to plot.
+
+```{r}
+beach_waterfowl_totals <- beaches_obs |> 
+  group_by(beachName) |>
+  summarise(total_waterfowl = sum(waterFowl, na.rm = TRUE)) 
+
+beach_waterfowl_totals |>
+  ggplot(aes(x = beachName, y = total_waterfowl)) +
+    geom_col()
+```
+
+To fix the x-axis labels, there are several things we could do:
+
+1.  shorten the labels
+2.  rotate the plot
+3.  rotate the labels
+
+If we want to shorten the labels, we can do this manually with the `scale_x_discrete` function, with a "named vector":
+
+```{r}
+# see what the beach names are
+unique(beaches_obs$beachName)
+
+# define the new names in a named vector
+shortened_beach_names <- c(
+  "Marie Curtis Park East Beach" = "Marie Curtis",
+  "Sunnyside Beach" = "Sunnyside",
+  "Hanlan's Point Beach" = "Hanlan's",
+  "Gibraltar Point Beach" = "Gibraltar",
+  "Centre Island Beach" = "Centre Island",
+  "Ward's Island Beach" = "Ward's Island",
+  "Cherry Beach" = "Cherry",
+  "Woodbine Beaches" = "Woodbine",
+  "Kew Balmy Beach" = "Kew Balmy",
+  "Bluffer's Beach Park" = "Bluffer's"
+)
+
+# plot and recode the x-axis labels
+beach_waterfowl_totals |>
+  ggplot(aes(x = beachName, y = total_waterfowl)) +
+    geom_col() +
+    scale_x_discrete(labels = shortened_beach_names)
+```
+
+This helps somewhat, but doesn't fix the problem entirely. Another possible solution is to rotate the plot with `coord_flip()` (which can be used with any ggplot).
+
+```{r}
+beach_waterfowl_totals |>
+  ggplot(aes(x = beachName, y = total_waterfowl)) +
+    geom_col() +
+    scale_x_discrete(labels = shortened_beach_names) +
+    coord_flip()
+```
+
+The last and most involved option is to rotate the axis labels themselves, which requires diving deeper into the theme settings of the plot:
+
+```{r}
+beach_waterfowl_totals |>
+  ggplot(aes(x = beachName, y = total_waterfowl)) +
+    geom_col() +
+    scale_x_discrete(labels = shortened_beach_names) +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+One other thing we might like to do with a bar plot is to add another variable to disaggregate the bars. For example, if we want to show the total number of waterfowl on rainy days and non-rainy days separately:
+
+```{r}
+beach_waterfowl_by_weather <- beaches_obs |> 
+  group_by(beachName, rain) |>
+  summarise(total_waterfowl = sum(waterFowl, na.rm = TRUE)) 
+
+ggplot(beach_waterfowl_by_weather, aes(x = beachName, y = total_waterfowl)) +
+  geom_col(aes(fill = rain))  +
+  scale_x_discrete(labels = shortened_beach_names) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+Instead of stacking the bars vertically, we can also put the bars side-by-side by altering the `position` argument. The default is `position = "stack"`, and to change it to side-by-side we can set it to `position = "dodge"`:
+
+```{r}
+ggplot(beach_waterfowl_by_weather, aes(x = beachName, y = total_waterfowl)) +
+  geom_col(aes(fill = rain), position = "dodge")  +
+  scale_x_discrete(labels = shortened_beach_names) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+### In-class exercise/demo
+
+1.  Make a bar chart showing the proportion of dates where there were no waterfowl reported, for each beach.
+2.  In that bar chart, show separate columns for rainy dates and non-rainy dates.
+
+```{r, fig.height = 5, fig.width = 10, echo=F}
+CES_data |>
+  ggplot() +
+  geom_histogram(aes(x = cps19_party_rating_24),
+                 bins = 10) +
+  facet_wrap(~factor(cps19_spend_educ,
+                     levels = c("Spend less",
+                                "Spend about the same as now",
+                                "Spend more",
+                                "Don't know/ Prefer not to answer")),
+             nrow = 1) +
+  labs(x = "Conservative Party rating",
+       y = "Count",
+       title = "Views on education spending and the Conservative Party")
+```
+
+## Scatterplots {#scatterplots}
+
+Recall that we use `geom_point()` to create a scatterplot, like so:
+
+```{r}
+ggplot(beaches_obs, aes(x = airTemp, y = waterTemp)) +
+  geom_point()
+```
+
+There are some things we might wish to do with this plot:
+
+1.  Deal with overlapping points
+2.  Draw a line of best fit
+
+To deal with overlapping points (in this case due to limited temperature measurement precision), one option is to add a little bit of noise to the points to separate them slightly. We can do this easily by providing a `position = "jitter"` argument to `geom_point()`.
+
+```{r}
+ggplot(beaches_obs, aes(x = airTemp, y = waterTemp)) +
+  geom_point(position = "jitter")
+```
+
+This gives a different visual impression as to where the bulk of the data really is.
+
+Another thing we commonly would like to do is draw a line of best fit through the data. In ggplot, this is most easily done with adding a `geom_smooth()` layer. By default, `geom_smooth()` will draw a curve over the points, instead of a linear relationship:
+
+```{r}
+ggplot(beaches_obs, aes(x = airTemp, y = waterTemp)) +
+  geom_point(position = "jitter") +
+  geom_smooth()
+```
+
+If, instead, we want to fit a straight line through the data, we can specify `method = "lm"`:
+
+```{r}
+ggplot(beaches_obs, aes(x = airTemp, y = waterTemp)) +
+  geom_point(position = "jitter") +
+  geom_smooth(method = "lm")
+```
+
+**Aside:** to get the slope and the intercept of this line, we need to fit the linear model outside of ggplot, with `lm()`:
+
+```{r}
+coef(lm(waterTemp ~ airTemp, data = beaches_obs))
+```
+
+### In-class exercise/demo
+
+1.  Building on the water temperature vs air temperature scatterplot, colour the plots by date and choose a custom colour scale.
+2.  Look up the `geom_label()` geom and annotate the plot with the slope and intercept of the line.
+
+## Line plots
+
+Last time, we made this line plot:
+
+```{r}
+beaches_obs |>
+  filter(beachName == c("Centre Island Beach")) |> 
+  ggplot(aes(x = dataCollectionDate,
+             y = waterTemp)) +
+  geom_line(aes(colour = beachName, group = beachName)) 
+```
+
+If we try to add another beach to this plot, it doesn't quite do what we might expect:
+
+```{r}
+beaches_obs |>
+  filter(beachName %in% c("Centre Island Beach", "Sunnyside Beach")) |> 
+  ggplot(aes(x = dataCollectionDate,
+             y = waterTemp)) +
+  geom_line()
+```
+
+This is because ggplot doesn't know which points to connect with lines. We can supply the `group` argument so that points for each beach are connected by their own line:
+
+```{r}
+beaches_obs |>
+  filter(beachName %in% c("Centre Island Beach", "Sunnyside Beach")) |> 
+  ggplot(aes(x = dataCollectionDate,
+             y = waterTemp)) +
+  geom_line(aes(group = beachName))
+
+```
+
+And to distinguish the two lines, we can add a `colour` argument:
+
+```{r}
+beaches_obs |>
+  filter(beachName %in% c("Centre Island Beach", "Sunnyside Beach")) |> 
+  ggplot(aes(x = dataCollectionDate,
+             y = waterTemp)) +
+  geom_line(aes(group = beachName, colour = beachName))
+```
+
+We could also visualize all of the beaches together in one plot, and to make it more legible adjust the transparency of the lines with the `alpha` argument:
+
+```{r}
+beaches_obs |>
+  ggplot(aes(x = dataCollectionDate, y = waterTemp)) +
+    geom_line(aes(group = beachName), alpha = 0.3)
+```
+
+In line plots, we can also adjust the line type. For example, if we want to plot water and air temperature at two different beaches on the same panel:
+
+```{r}
+beaches_obs |>
+  filter(beachName %in% c("Centre Island Beach", "Woodbine Beaches"))|>
+  select(beachName, dataCollectionDate, airTemp, waterTemp) |>
+  pivot_longer(cols = c("airTemp", "waterTemp"), names_to = "water_or_air", values_to = "Temperature") |>
+  ggplot(aes(x = dataCollectionDate, y = Temperature)) +
+    geom_line(aes(colour = beachName, linetype = water_or_air))
+
+
+```
+
+## Saving plots
+
+Plots can be saved using the `ggsave()` function. By default it will save the most recent plot that you've generated, but you can also save a particular plot by assigning the plot to an object.
+
+```{r}
+ggsave(filename = "beach_temperature_plot.pdf", width = 7, height = 6)
+```
+
+```{r}
+waterfowl_plot <- ggplot(beach_waterfowl_by_weather, aes(x = beachName, y = total_waterfowl)) +
+  geom_col(aes(fill = rain), position = "dodge")  +
+  scale_x_discrete(labels = shortened_beach_names) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+ggsave(filename = "waterfowl_by_weather.png", plot = waterfowl_plot, width = "10cm", height = "8cm")
+```
+
+## Exercises
+
+This set of exercises focuses on looking up and using ggplot2 functions. It might be useful to use the [ggplot2 online reference](https://ggplot2.tidyverse.org/reference/index.html), which organizes the tools provided with the package into categories.
+
+1.  Make a **histogram** of the air temperature measurements in the beaches observations.
+2.  Plot the air temperature over time at Centre Island Beach, and add a **horizontal reference line** representing the average air temperature.
+
+Using the `diamonds` dataset from the `ggplot2` package:
+
+1.  Make a bar chart that shows the number of diamonds in each "cut" category, further disaggregated by diamond "color" using the fill colour of the bars. Move the fill colour legend to the bottom of the plot. (Hint: see `theme()`)
+2.  Make a scatterplot showing the size of the diamond (in carats) vs the price of the diamond. Annotate the plot with two labels: one for the most expensive diamond and one for the least expensive diamond stating their prices.
+3.  With the scatterplot above, colour the points according to their "cut" category, and try some of the `scale_color_...` functions.
