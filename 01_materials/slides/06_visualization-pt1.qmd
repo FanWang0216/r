@@ -1,0 +1,345 @@
+---
+title: "Visualization with ggplot2"
+format: html
+---
+
+In this lesson, we will be learning how to make charts using the ggplot2 package in R.
+
+## Contents
+
+1.  [ggplot basics](#ggplot-basics)
+2.  More aesthetics
+3.  [Customization](#customization)
+4.  Adding complexity
+5.  [Bar plots](#bar-plots)
+6.  [Histograms](#histograms)
+7.  [Scatterplots](#scatterplots)
+
+## ggplot basics {#ggplot-basics}
+
+ggplot2 is a package that allows us to make graphics in R. It's loaded with the tidyverse.
+
+```{r}
+library(tidyverse)
+```
+
+The `ggplot()` function initializes the plot. In the arguments, you will identify the base of your plot. This includes:
+
+-   the `data = ...` argument: the data we want to graph from, usually in dataframe form
+-   the `mapping = ...` argument: the 'aesthetics' we will use; i.e. the ways in which different variables are visually represented
+
+What doesn't go in the `ggplot()` function:
+
+-   the type of graph we want
+-   the way we want the axes to look
+-   the labels we want
+
+```{r, eval=FALSE, echo = TRUE}
+ggplot(data = my_data, mapping = aes())
+```
+
+### Aesthetic
+
+In the `mapping argument`, we specify our aesthetic using `aes()` -- the ways in which our data is visually represented.
+
+This is where we indicate what variable we want for the x axis, the y axis, the colour, or any other feature that the plot in question might have.
+
+```{r, eval=FALSE, echo = TRUE}
+aes(x = variable1,
+    y = variable2,
+    shape = variable3,
+    color = variable4,
+    size = variable5,
+    fill = variable6)
+```
+
+This takes data and passes it to ggplot, which initializes a plot using that data and specifies that variable1 will be represented on the x axis and variable2 on the y axis.
+
+```{r, eval=FALSE, echo = TRUE}
+data |>
+  ggplot(aes(x = variable1, y = variable2))
+```
+
+### Geom Layers
+
+After initializing, you still won't have a plot. You have to add layers -- which includes the type of plot you want, as well as tweaks and formatting specifics.
+
+Geom layers add types of plot. There are more than 40 geoms! Some common ones that we will cover:
+
+-   bar plots: `geom_col()`
+-   line plots: `geom_line()`
+-   scatterplots: `geom_point()`
+
+You add a geom layer by adding it with `+` to the `ggplot()` call, so the basic structure of code to generate a plot is:
+
+```{r, eval = FALSE}
+ggplot(data = my_data, mapping = aes(x = variable1, y = variable2)) +
+  geom_...()
+```
+
+### Basic examples
+
+First we import data. We will again be using the [Toronto beaches observations dataset](https://open.toronto.ca/dataset/toronto-beaches-observations/).
+
+```{r, include=T, echo=T, message=F, warning=F}
+beaches_obs <- read_csv("../../05_src/slides_data/toronto_beaches_observations.csv")
+```
+
+Construct a bar plot of the number of waterfowl:
+
+```{r, echo = TRUE, warning=FALSE, message=FALSE, fig.height=5, fig.width=11}
+ggplot(data = beaches_obs, mapping = aes(x = beachName, y = waterFowl)) +
+  geom_col()
+```
+
+Note that:
+
+-   ggplot has automatically "stacked" all the observations in the dataset for each beach
+
+-   the x-axis labels overlap (we'll fix this!)
+
+We could also make a scatterplot, with date as the x-axis:
+
+```{r}
+ggplot(data = beaches_obs, mapping = aes(x = dataCollectionDate, y = waterFowl)) +
+  geom_point()
+```
+
+Note that:
+
+-   `NA` values are automatically omitted (what are the implications in this case?)
+
+### In-class exercise/demo
+
+1.  Filter the dataset to only include "Centre Island Beach". Using `geom_line()`, plot the water temperature over time.
+
+## Other Aesthetics
+
+Some other common aesthetics that are useful to know:
+
+-   `colour`
+
+-   `fill`
+
+-   `size`
+
+You can use these in a similar way to the `x` and `y` aesthetics, attaching them to a variable in the data:
+
+```{r}
+beaches_obs |>
+  ggplot(aes(x = dataCollectionDate, y = waterFowl)) +
+    geom_point(aes(colour = rain))
+```
+
+Similarly for `fill`:
+
+```{r}
+beaches_obs |>
+  filter(beachName %in% c("Centre Island Beach", "Woodbine Beaches")) |> 
+  ggplot(aes(x = beachName, y = waterFowl)) +
+    geom_col(aes(fill = rain))
+```
+
+## Customization {#customization}
+
+### Labels
+
+We can change the way that labels appear to improve the look and readability by adding `labs()` to our ggplot.
+
+```{r, eval=FALSE, echo=TRUE}
+labs(x = ...,
+     y = ...,
+     title = ...)
+```
+
+```{r warning=FALSE, message=FALSE, fig.height=5, fig.width=11, echo=TRUE}
+beaches_obs |>
+  ggplot(aes(x = dataCollectionDate, y = waterFowl)) + 
+  geom_point() +
+  labs(x = "Date",
+       y = "Number of waterfowl (count)",
+       title = "Waterfowl observations at Toronto beaches")
+```
+
+### Axes
+
+How we change the axes depends on what types of variables we have. These functions have the syntax `scale_<which axis>_<type of data on that axis>()`. For example,
+
+-   `scale_x_continuous()` would allow you to customize the x-axis for a numeric variable
+
+-   `scale_y_discrete()` would allow you to customize the y-axis for discrete variable
+
+-   `scale_colour_continuous()` would allow you to customize colour for a numeric variable
+
+See the [scales chapter of the ggplot book](https://ggplot2-book.org/scales.html) or [online documentation](https://ggplot2.tidyverse.org/reference/index.html#scales) for more details.
+
+For example:
+
+```{r}
+beaches_obs |>
+  ggplot(aes(x = dataCollectionDate, y = waterFowl)) + 
+  geom_point() +
+  labs(x = "Date",
+       y = "Number of waterfowl (count)",
+       title = "Waterfowl observations at Toronto beaches") +
+  scale_y_continuous(breaks = c(0, 10, 50, 100), limits = c(0, 200))
+```
+
+Manipulate a continuous x axis with:
+
+```{r, eval=FALSE, echo=TRUE}
+scale_x_continuous(
+  breaks = , # use a vector to specify locations
+  minor_breaks = , # also can be a vector
+  n.breaks = , # can specify the number of breaks
+  labels = , # change the labels on the breaks
+  limits = , # set the upper and lower limits
+  position = # "left", "right", "top", "bottom"
+  )
+```
+
+Manipulate a discrete x axis
+
+```{r, eval=FALSE, echo=TRUE}
+scale_x_discrete(
+  breaks = , # character vector of breaks
+  limits = , # set possible values for scale
+  drop = , # TRUE or FALSE to drop unused factor levels
+  labels = , # change the labels on the breaks
+  position = # "left", "right", "top", "bottom")
+```
+
+### Themes
+
+Themes are added at the end and control the overall look of the plot:
+
+```{r, eval=FALSE, echo=TRUE}
+theme_bw()
+theme_classic()
+theme_light()
+theme_minimal()
+```
+
+Example:
+
+```{r warning=FALSE, message=FALSE, fig.height=5, fig.width=11, echo=TRUE}
+beaches_obs |>
+  filter(beachName == "Centre Island Beach") |> 
+  ggplot(aes(x = dataCollectionDate,
+             y = waterTemp)) +
+  geom_line() +
+  theme_minimal()
+```
+
+```{r warning=FALSE, message=FALSE, fig.height=5, fig.width=11, echo=TRUE}
+beaches_obs |>
+  filter(beachName == "Centre Island Beach") |> 
+  ggplot(aes(x = dataCollectionDate,
+             y = waterTemp)) +
+  geom_point() +
+  theme_light()
+```
+
+## Adding complexity
+
+### Using multiple geoms
+
+We can layer geoms on top of one another. Geoms can either share their `aes()` mapping, if you specify it in the `ggplot()` call:
+
+```{r, eval=FALSE, echo=TRUE}
+data |>
+  ggplot(aes(x = variable1,
+             y = variable2)) +
+  geom_() +
+  geom_()
+```
+
+or they can have their own, if you specify it in the `geom_` layer:
+
+```{r, eval=FALSE, echo=TRUE}
+data |>
+  ggplot() +
+  geom_(aes(x = variable1,
+             y = variable2)) +
+  geom_(aes(x = variable1,
+             y = variable3))
+```
+
+Example of geoms that share aesthetics:
+
+```{r warning=FALSE, message=FALSE, fig.height=5, fig.width=11, echo=TRUE}
+beaches_obs |>
+  filter(beachName == "Centre Island Beach") |> 
+  ggplot(aes(x = dataCollectionDate,
+             y = waterTemp)) +
+  geom_point() +
+  geom_line()
+```
+
+Example of separate geom aesthetics:
+
+```{r warning=FALSE, message=FALSE, fig.height=5, fig.width=11, echo=TRUE}
+beaches_obs |>
+  filter(beachName == "Centre Island Beach") |> 
+  ggplot() +
+  geom_point(aes(x = dataCollectionDate,
+                 y = waterTemp), colour = "red") +
+  geom_line(aes(x = dataCollectionDate,
+                y = airTemp), colour = "blue") +
+  labs(y = "Temperature")
+```
+
+Aside: in this case, if we're plotting two related series of data on the same scale, it would probably be better to manipulate the data beforehand, which makes working with the legend easier:
+
+```{r}
+beaches_obs |>
+  filter(beachName == "Centre Island Beach") |>
+  select(dataCollectionDate, airTemp, waterTemp) |>
+  pivot_longer(cols = c("airTemp", "waterTemp"), names_to = "water_or_air", values_to = "Temperature") |>
+  ggplot(aes(x = dataCollectionDate, y = Temperature)) +
+    geom_line(aes(colour = water_or_air))
+```
+
+### Facets
+
+Facets give you side-by-side graphs for different categories.
+
+```{r, eval=FALSE, echo=TRUE}
+facet_wrap(facets = "variables you want to facet by") 
+```
+
+Example:
+
+```{r warning=FALSE, message=FALSE, fig.height=5, fig.width=11, echo=TRUE}
+beaches_obs |>
+  filter(beachName %in% c("Centre Island Beach", "Woodbine Beaches")) |> 
+  select(beachName, dataCollectionDate, airTemp, waterTemp) |>
+  pivot_longer(cols = c("airTemp", "waterTemp"), names_to = "water_or_air", values_to = "Temperature") |>
+  ggplot(aes(x = dataCollectionDate, y = Temperature)) +
+    geom_line(aes(colour = water_or_air)) +
+    facet_wrap(facets = "beachName")
+```
+
+### In-class exercise/demo
+
+Make a scatterplot:
+
+-   showing wind speed over time at Sunnyside Beach, Cherry Beach, and Woodbine Beaches
+
+-   separate the beaches into their own panels
+
+-   colour the points to distinguish levels of wave action
+
+## Exercises
+
+Import the beaches water quality dataset located at `05_src/slides_data/toronto-beaches-water-quality.csv`.
+
+1.  Plot the average `eColi` count for Sunnyside beach over time.
+
+2.  Join the water quality dataset with the beach observations dataset. Make a scatterplot showing the relationship between water temperature and E. coli counts.
+
+Using the `penguins` dataset from the `palmerpenguins` package:
+
+1.  Make a scatterplot showing the relationship between body mass and flipper length. Colour the points according to sex and facet the plot by penguin species.
+2.  Make a line plot showing the number of penguin observations taken by year.
+3.  Make a bar plot showing the number of penguin observations by species. Facet the plot by island.

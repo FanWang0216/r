@@ -112,7 +112,7 @@ while(i <= 10){
 Basic structure
 
 ```{r,echo = T, eval=F}
-if(condition1) {
+if (condition1) {
   <code to execute if condition1 is TRUE>
 } else if (condition2) {
   <code to execute if condition1 is FALSE and conditions2 is TRUE>
@@ -123,7 +123,7 @@ if(condition1) {
 
 ### Conditions
 
-Conditions must either evaluate to TRUE or FALSE.
+Conditions must either evaluate to `TRUE` or `FALSE`.
 
 You can combine multiple conditions using the 'or' operator:
 
@@ -179,34 +179,34 @@ Iteration is made more straightforward with the `purrr` library.
 library(purrr)
 ```
 
-Each type of output has a different function:
+There are different functions depending on the type of output desired:
 
-`map()` to output lists
+-   `map()` to output lists
 
-`map_lgl()` for logical vectors
+-   `map_lgl()` for logical vectors
 
-`map_int()` for integer vectors
+-   `map_int()` for integer vectors
 
-`map_dbl()` for double vectors
+-   `map_dbl()` for double vectors
 
-`map_chr()` for character vectors
+-   `map_chr()` for character vectors
 
 You can use these to loop over columns in a dataset:
 
 ```{r, echo=TRUE}
-iris %>%
+penguins |> 
   map_dbl(mean)
 ```
 
 ```{r, echo=TRUE}
-iris %>%
+penguins |>
   map_chr(typeof)
 ```
 
 Looping over columns in a dataset
 
 ```{r, echo=TRUE}
-iris %>%
+penguins penguins
   map(summary)
 ```
 
@@ -287,7 +287,7 @@ sample(c("a", "b", "c"),
 
 The probability weights are optional. If you do not specify, all the results will be equally probable.
 
-If you specify replace = FALSE, there must be as many or more in the thing that you sample from as the desired sample size.
+If you specify `replace = FALSE`, there must be as many or more in the thing that you sample from as the desired sample size.
 
 ### Simulating datasets
 
@@ -295,8 +295,10 @@ We can put our randomization skills to use and create toy datasets.
 
 ```{r, echo=TRUE}
 set.seed(1818)
-simulated_data <- tibble(X = runif(10, 0, 20),
-       Y = 3*X + rnorm(10, 0, 1)) 
+simulated_data <- tibble(
+  X = runif(10, 0, 20),
+  Y = 3*X + rnorm(10, 0, 1)
+) 
 
 simulated_data
 ```
@@ -304,15 +306,14 @@ simulated_data
 Simulating datasets
 
 ```{r, echo=TRUE}
-simulated_data %>%
+simulated_data |> 
   ggplot(aes(x = X, y = Y)) +
   geom_point()
 ```
 
 ## Exercises
 
-1-Write a greeting function that says "good morning", "good afternoon", or "good evening", depending on the time of day.
-
-2-Simulate a dataset using a normal distribution with mean 100 and standard deviation 15 as variable X, and a quadratic transformation of X as variable Y. Graph your data.
+1.  Write a greeting function that says "good morning", "good afternoon", or "good evening", depending on the time of day.
+2.  Simulate a dataset using a normal distribution with mean 100 and standard deviation 15 as variable X, and a quadratic transformation of X as variable Y. Graph your data with a scatterplot.
 
 ## Questions?

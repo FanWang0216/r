@@ -14,11 +14,15 @@ In this lesson, we will be learning about "tidy" data and tools to reshape and j
 
 ## Tidy data {#tidy-data}
 
+"Tidy data" refers to data that is organized according to a set of common principles.
+
 Rules for tidy data:
 
 1.  Each variable must have its own column.
 2.  Each observation must have its own row.
 3.  Each value must have its own cell.
+
+These guidelines help us make the structure of the data more predictable and consistent.
 
 Let's say we have a dataset with the weights of two pet cats:
 
@@ -31,12 +35,32 @@ cat_data <- tibble(
 cat_data
 ```
 
+This dataset is *not* tidy, because the weight observations appear in two different columns. Note that there is some subjectivity in what is considered an observation – if our unit of observation was a year, then this *might* be considered tidy.
+
+Compare the dataset above with:
+
+```{r}
+cat_data_tidy <- tibble(
+  year = sort(rep(2017:2022, 2)),
+  cat = c(rep("milo", 6), rep("kitty", 6)),
+  weight = c(4, 6.3, 8, 7.9, 8.1, 8.1, 15.6, 15.9, 14, 12.2, 10.9, 9.9)
+)
+
+cat_data_tidy
+```
+
+This contains the same information, but represents the data in a different way. Compared with the previous "**wide"** representation, we would call this data "**long"** format.
+
+Notice that now, it's easier to use `group_by` and `summarize` functions to calculate certain statistics, such as the maximum weight for each cat, whereas in the previous format would require us to use different functions.
+
 ## Pivot operations {#pivot-operations}
+
+Pivoting a dataframe allows us to transform data between wide and long formats.
 
 **`pivot_longer()`**: used to transform data from a wide format to a long format. It "lengthens" data, increasing the number of rows and decreasing the number of columns
 
 ```{r, echo = TRUE}
-long_data <- wide_data %>%
+long_data <- cat_data |> 
   pivot_longer(cols = c("milo", "kitty"),
                names_to = "cat",
                values_to = "weight")
@@ -46,14 +70,33 @@ long_data
 **`pivot_wider()`**: used to transform data from a long format to a wide format. It "widens" data, increasing the number of columns and decreasing the number of rows
 
 ```{r, echo = TRUE}
-long_data %>%
+long_data |> 
   pivot_wider(names_from = "cat",
               values_from = "weight")
 ```
 
 This may be useful when making a summary table to display.
 
+### In-class exercise/demo
+
+The following code counts the number of penguins of each species and island combination in the `palmerpenguins` dataset, and presents it in "long" format. Use the pivot functions above to make a table where:
+
+-   each row represents a species of penguin
+
+-   each island is represented by a column
+
+-   each entry represents the penguin count for that species/island
+
+```{r}
+library(palmerpenguins)
+
+penguins_count <- penguins |> 
+  count(species, island)
+```
+
 ## Join operations
+
+Often we might have multiple datasets that provide complementary information and we would like to combine them to analyze them together.
 
 ### Mutating joins
 
@@ -69,18 +112,9 @@ Joins combine tables based on an identified key, usually a variable that the two
 
     ![](../../05_src/slides_resources/05_join-venn.png)
 
-### Keys
-
-1.  Primary keys uniquely identify an observation in its table
-2.  Foreign keys uniquely identify an observation in another table
-
-Primary keys may match foreign keys, if the variable is present in both tables and has the same name.
-
-Primary and foreign keys have a specific relation: it could be one-to-one, or one-to-many.
-
 ### Example using toy data
 
-We will make two small datasets, each with year as a variable. Year will be the key we use to join.
+We will make two small datasets, each with year as a variable. `year` will be the key we use to join.
 
 ```{r, echo = TRUE}
 employment <- tibble(year = c(1990, 1991, 1992, 1994),
@@ -99,19 +133,33 @@ housing
 The rows correspond to years that are present in both `employment` and `housing`:
 
 ```{r, echo = TRUE}
-employment %>%
+employment |>
   inner_join(housing, by = c("year" = "date"))
 ```
 
 Because both tables have a variable named `rate`, the joined table has columns named `rate.x` from the left table (employment) and `rate.y` from the right table (housing).
 
+We can change these by providing a `suffix` argument:
+
+```{r}
+inner_join(
+  employment, housing,
+  by = c("year" = "date"),
+  suffix = c("_employment", "_housing")
+)
+```
+
 ### Left Join
 
-The rows correspond to years that are present in both `employment`but not necessarily `housing`:
+The rows correspond to years that are present in both `employment` but not necessarily `housing`:
 
 ```{r, echo = TRUE}
-employment %>%
-  left_join(housing, by = c("year" = "date"))
+employment |> 
+  left_join(
+    housing, 
+    by = c("year" = "date"), 
+    suffix = c("_employment", "_housing")
+  )
 ```
 
 Missing values are filled with `NA`.
@@ -121,8 +169,12 @@ Missing values are filled with `NA`.
 The rows correspond to years that are present in `housing` but not necessarily `employment`:
 
 ```{r, echo = TRUE}
-employment %>%
-  right_join(housing, by = c("year" = "date"))
+employment |>
+  right_join(
+    housing, 
+    by = c("year" = "date"),
+    suffix = c("_employment", "_housing")
+  )
 ```
 
 ### Full Join
@@ -130,186 +182,71 @@ employment %>%
 The rows correspond to years that are present in `employment`or `housing`:
 
 ```{r, echo = TRUE}
-employment %>%
-  full_join(housing, by = c("year" = "date"))
+employment |> 
+  full_join(
+    housing, 
+    by = c("year" = "date"),
+    suffix = c("_employment", "_housing")
+  )
+```
+
+### In-class exercise/demo - key relationships
+
+In some situations we might have a situation where there are multiple matches between datasets. For example we say that a join is:
+
+-   "one-to-one" when there is only one unique match between the datasets,
+
+-   "one-to-many" when there each of the entries of the first dataset can match multiple entries in the second datasets, but each in the second only matches one entry in the first,
+
+-   "many-to-many" when every entry in both datasets can be matched with multiple of the other.
+
+The following code imports two datasets about Toronto's beaches – [general observations](https://open.toronto.ca/dataset/toronto-beaches-observations/) and [water quality measurements](https://open.toronto.ca/dataset/toronto-beaches-water-quality/). Experiment joining with the following key combinations:
+
+-   on only the dates
+
+-   on only the beach names
+
+-   on beach names and dates
+
+```{r}
+beaches_observations <- read_csv("../../05_src/slides_data/toronto_beaches_observations.csv")
+beaches_water_quality <- read_csv("../../05_src/slides_data/toronto_data_quality.csv")
 ```
 
 ### Filtering joins
 
-Semi joins keep all observations in the employment table that have a match in the housing table:
+Filtering joins aren't used to join datasets together, but only to subset a dataset to find rows that have or don't have matches in another dataset.
+
+**Semi joins** keep all observations in the employment table that have a match in the housing table:
 
 ```{r, echo = TRUE}
 employment %>%
   semi_join(housing, by = c("year" = "date"))
 ```
 
-Anti joins drop all observations in employment that have a match in housing:
+**Anti joins** drop all observations in employment that have a match in housing:
 
 ```{r, echo = TRUE}
 employment %>%
   anti_join(housing, by = c("year" = "date"))
 ```
 
-## data.table
-
-data.tables are faster and more memory efficient than data.frames, making them better suited for large operations on large data sets.
-
-They are keyed, which makes it possible to use binary search. A key is an index, created from column(s) in the data.table. It may or may not be unique.
-
-```{r, echo = TRUE}
-library(palmerpenguins)
-data(penguins)
-
-dt_penguins <- as.data.table(penguins)
-
-dt_penguins
-```
-
-You can see how many tables are stored and what size they are:
-
-```{r, echo = TRUE}
-tables()
-```
-
-To get information about our data, we can use `sapply` and `class`:
-
-```{r, echo = TRUE}
-sapply(dt_penguins, class)
-```
-
-To check if the data.table has a key:
-
-```{r, echo = TRUE}
-haskey(dt_penguins)
-```
-
-To set a key:
-
-```{r, echo = TRUE}
-setkey(dt_penguins, species)
-haskey(dt_penguins)
-```
-
-### General form
-
-`datatable[i, j, k]`
-
-Where:
-
--   from datatable
--   i is selected and/or filtered
--   j is calculated
--   k is grouped by
-
-### Subsetting rows
-
-```{r , echo = TRUE, eval=FALSE}
-dt_penguins[bill_length_mm > 50]
-```
-
-### Selecting columns
-
-Selecting a column to return as a vector:
-
-```{r, echo = TRUE, eval=FALSE}
-dt_penguins[, species]
-```
-
-Selecting a column to return as a data.table:
-
-```{r, echo = TRUE, eval=FALSE}
-dt_penguins[, list(species)]
-```
-
-### Computations
-
-Counting the number of cases where the sum of bill length and bill depth is greater than 70mm:
-
-```{r, echo = TRUE, eval=FALSE}
-dt_penguins[, sum((bill_length_mm + bill_depth_mm) > 70, na.rm = TRUE)]
-```
-
-### Combining subsetting and computation
-
-Counting the number of cases where the species of penguin is "Adelie" and the sum of bill length and bill depth is greater than 70mm:
-
-```{r, echo = TRUE, eval=FALSE}
-dt_penguins[species == "Adelie", sum((bill_length_mm + bill_depth_mm) > 70, na.rm = TRUE)]
-```
-
-### Counting observations in current group
-
-```{r, echo = TRUE, eval=FALSE}
-dt_penguins[species == "Adelie", .N]
-```
-
-### Aggregations
-
-Counting the number in each species:
-
-```{r, echo = TRUE, eval=FALSE}
-dt_penguins[, .(.N), by = .(species)]
-```
-
-### Computations by group
-
-```{r, echo = TRUE, eval=FALSE}
-dt_penguins[sex == "female", .(mean(body_mass_g, na.rm = TRUE)), keyby = .(species)]
-```
-
-### Ordering
-
-Ordering by species and then descending in body mass:
-
-```{r, echo = TRUE, eval=FALSE}
-dt_penguins[order(species, -body_mass_g)]
-```
-
-### Grouping by expression rather than column
-
-Grouping those that have body mass greater than 4000g and bill length less than 35mm:
-
-```{r, echo = TRUE, eval=FALSE}
-dt_penguins[, .N, .(body_mass_g > 4000, bill_length_mm < 35)]
-```
-
-### Computations for multiple columns
-
-Taking the mean of all numeric columns using `lapply` and `.SD`:
-
-```{r, echo = TRUE, eval=FALSE}
-dt_penguins[, lapply(.SD, mean, na.rm = TRUE), by = species, .SDcols = sapply(dt_penguins, is.numeric)]
-```
-
-### Subsetting for each group
-
-Getting the first two rows for all columns, for each species:
-
-```{r, echo = TRUE, eval=FALSE}
-dt_penguins[, head(.SD, 2), by = species]
-
-```
-
-## Questions?
-
 ## Exercises
 
-1 - Tidy the data below:
+1.  Reformat the Toronto beaches observations datasets so that:
+    -   each entry in the data frame is the wind direction
 
-```{r, echo = TRUE,}
-data <- tibble(
-  group = c("treat", "control"),
-  survival = c(17, 11),
-  deceased = c(3, 9)
-)
-```
+    -   the columns correspond to beaches
 
-2 - Join the dataset flights to the dataset airlines. What should the key(s) be? What do the different types of joins look like?
+    -   the rows correspond to dates
+2.  The code below loads the `flights` and `planes` datasets from the `nycflights13` package. Join the datasets and find out:
+    a.  How many flights in this data were taken by Airbus planes in 2013?
+    b.  What proportion of flights operated by United (carrier `UA`) can carry more than 100 passengers?
+    c.  Which plane model accounts for the most flights out of Newark airport (EWR)?
+    d.  Are there any planes in the `planes` dataset that didn't fly from any of the three New York Airports in 2014?
 
 ```{r, echo = TRUE,}
 library(nycflights13)
 data("flights")
-data("airlines")
+data("planes")
 ```
-
-3 - Using flights and data.table, group based on cases that have dep_delay \< 0 and those that have arr_delay \> 0 and count the number in each group. How many groups/rows are there? How many in each group?
