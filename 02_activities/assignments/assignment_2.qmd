@@ -44,7 +44,7 @@ format: html
 +--------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------+
 | 3.  The largest and busiest branches | The top 5 library branches for each question are identified and printed clearly.                                       | The required library branches identified are not correct or not printed clearly. |
 +--------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------+
-| 4.  Library usage over the years     | The plot clearly communicates the number of workstation sessions at the Toronto Reference Library branch.              | The plot shows does not correctly and clearly show the desired information.      |
+| 4.  Library usage over the years     | The plot clearly communicates the number of workstation sessions at the two library branches.                          | The plot shows does not correctly and clearly show the desired information.      |
 +--------------------------------------+------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------+
 
 ## Part 1: Reading in data
@@ -55,7 +55,7 @@ There are two data files you need for this assignment:
 
 -   `tpl_branch_workstation_usage_2018-2023.csv`
 
-They are both located under `r/python/05_src/assignment-2-data`. Write R code to read these files.
+They are both located under `r/05_src/assignment-2-data`. Write R code to read these files.
 
 ```{r}
 branch_info <- # Your code here
@@ -95,7 +95,7 @@ Write R code to show the names of the top 5 library branches for each question. 
 
 ## Part 4: Library usage over the years
 
-How has library workstation usage changed between 2018-2023? Use ggplot to chart the number of workstation sessions annually at the Toronto Reference Library branch during these years.
+How has library workstation usage changed between 2018-2023? Use ggplot to chart the number of workstation sessions annually at the Toronto Reference Library and North York Central Library branches during these years.
 
 ```{r}
 # Your code below
