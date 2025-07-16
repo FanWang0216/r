@@ -7,13 +7,19 @@ In this lesson, we will be learning about data manipulation in R using tools fro
 
 ## Contents
 
-1.  Loading data
-2.  Subsetting and organizing data (`filter`, `select`, `arrange`)
-3.  The pipe operator (`|>`)
-4.  Transforming data (`mutate`, `group_by`, `summarise`)
-5.  Application: data cleaning
+1.  [Loading data](#loading-data)
+2.  [Subsetting and organizing data (`filter`, `select`, `arrange`)](#subsetting-and-organizing-data)
+3.  [The pipe operator (`|>`)](#the-pipe-operator)
+4.  [Transforming data (`mutate`, `group_by`, `summarise`)](#transforming-data)
+5.  [Application: data cleaning](#application-data-cleaning)
 
-## 1. Loading data
+### Resources for this lesson
+
+-   [Chapter 3: "Data transformation" in *R for Data Science (2nd ed.)*](https://r4ds.hadley.nz/data-transform.html)
+
+-   [`dplyr` package documentation](https://dplyr.tidyverse.org/index.html)
+
+## 1. Loading data {#loading-data}
 
 Each data file format requires its own read-in function:
 
@@ -38,7 +44,7 @@ beaches_data <- read_csv("../../05_src/slides_data/toronto_beaches_observations.
 glimpse(beaches_data)
 ```
 
-## 2. Subsetting and organizing data
+## 2. Subsetting and organizing data {#subsetting-and-organizing-data}
 
 Three key functions:
 
@@ -82,7 +88,7 @@ We can also remove columns
 select(beaches_data, -X_id)
 ```
 
-## 3. The pipe operator
+## 3. The pipe operator {#the-pipe-operator}
 
 What if we want to do multiple operations on the data in one go?
 
@@ -120,7 +126,7 @@ beaches_data |>
   select(dataCollectionDate, beachName)
 ```
 
-## 4. Transforming data
+## 4. Transforming data {#transforming-data}
 
 -   `mutate()` creates new columns that are functions of existing columns
 
@@ -200,7 +206,7 @@ beaches_data |>
   )
 ```
 
-## 5. Application: data cleaning
+## 5. Application: data cleaning {#application-data-cleaning}
 
 We will apply some of these skills to prepare a dataset for analysis. The file `05_src/slides_data/toronto_city_council_attendance_2018-2022.csv` contains data on whether members of Toronto City Council were present at meetings that they were expected to attend. See [the Toronto Open Data webpage](https://open.toronto.ca/dataset/members-of-toronto-city-council-meeting-attendance/) for details.
 

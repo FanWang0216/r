@@ -3,14 +3,19 @@ title: "Data Manipulation: Part 2"
 format: html
 ---
 
-In this lesson, we will be learning about "tidy" data and tools to reshape and join datasets. We will also learn about data.tables, which are a more efficient alternative to dataframes for large datasets.
+In this lesson, we will be learning about "tidy" data and tools to reshape and join datasets.
 
 ## Contents
 
 1.  [Tidy data](#tidy-data)
 2.  [Pivot operations](#pivot-operations) (`pivot_wider`, `pivot_longer`)
 3.  [Join operations]
-4.  [data.table]
+
+### Resources for this lesson
+
+-   [Chapter 5: "Data tidying" in *R for Data Science (2nd ed.)*](https://r4ds.hadley.nz/data-tidy.html)
+
+-   [`tidyr` package documentation](https://tidyr.tidyverse.org/index.html)
 
 ## Tidy data {#tidy-data}
 

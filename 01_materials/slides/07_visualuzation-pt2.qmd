@@ -8,9 +8,14 @@ In this lesson, we will be learning about more advanced customization options in
 ## Contents
 
 1.  [Bar plots](#bar-plots)
-2.  [Histograms](#histograms)
-3.  [Scatterplots](#scatterplots)
-4.  Saving plots
+2.  [Scatterplots](#scatterplots)
+3.  [Line plots](#line-plots)
+4.  [Saving plots](#saving-plots)
+
+### Resources for this lesson
+
+1.  [Chapter 9: "Layers" in *R for Data Science (2nd ed.)*](https://r4ds.hadley.nz/layers.html)
+2.  [`ggplot2` documentation](https://ggplot2.tidyverse.org/)
 
 ### Last time
 
@@ -199,7 +204,7 @@ coef(lm(waterTemp ~ airTemp, data = beaches_obs))
 1.  Building on the water temperature vs air temperature scatterplot, colour the plots by date and choose a custom colour scale.
 2.  Look up the `geom_label()` geom and annotate the plot with the slope and intercept of the line.
 
-## Line plots
+## Line plots {#line-plots}
 
 Last time, we made this line plot:
 
@@ -263,7 +268,7 @@ beaches_obs |>
 
 ```
 
-## Saving plots
+## Saving plots {#saving-plots}
 
 Plots can be saved using the `ggsave()` function. By default it will save the most recent plot that you've generated, but you can also save a particular plot by assigning the plot to an object.
 
