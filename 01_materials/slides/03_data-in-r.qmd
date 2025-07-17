@@ -7,25 +7,25 @@ In this lesson, we will be learning about the fundamentals of data in R.
 
 ## Contents
 
-1.  Vectors
-2.  Data types
-    a.  Doubles and integers (numbers)
-    b.  Character strings
-    c.  Logical
-    d.  Factors
-    e.  Dates and times
-3.  Coercing between data types
-4.  Data frames and tibbles
+1.  [Vectors](#vectors)
+2.  [Data types](#data-types)
+    a.  [Doubles and integers (numbers)](#doubles-and-integers)
+    b.  [Character strings](#character-strings)
+    c.  [Logical](#logical-values)
+    d.  [Factors](#factors)
+    e.  [Dates and times](#dates-and-times)
+3.  [Coercing between different types](#coercing-between-different-types)
+4.  [Data frames and tibbles](#data-frames-and-tibbles)
 
 ### Resources for this lesson
 
--   [Chapter 5: R Objects in *Hands-On Programming with R*](https://rstudio-education.github.io/hopr/r-objects.html)
+-   [Chapter 5: "R Objects" in *Hands-On Programming with R*](https://rstudio-education.github.io/hopr/r-objects.html)
 
--   [Chapter 16: Factors in *R for Data Science (2nd ed.)*](https://r4ds.hadley.nz/factors.html)
+-   [Chapter 16: "Factors" in *R for Data Science (2nd ed.)*](https://r4ds.hadley.nz/factors.html)
 
--   [Chapter 17: Dates and times in *R for Data Science (2nd ed.)*](https://r4ds.hadley.nz/datetimes.html)
+-   [Chapter 17: "Dates and times" in *R for Data Science (2nd ed.)*](https://r4ds.hadley.nz/datetimes.html)
 
-## 1. Vectors
+## 1. Vectors {#vectors}
 
 Atomic vectors (or just *vectors*) are an object that store sets of values. They are made using the `c()` function, and each contains only values from one "data type".
 
@@ -51,11 +51,11 @@ numbers_i_want <- c(3, 4)
 some_numbers[numbers_i_want]
 ```
 
-## 2. Data types
+## 2. Data types {#data-types}
 
 Every object in R has a **type**, which determines what kind of operations can be done on the object. We'll go through some of the common ones that you'll encounter.
 
-### a. Doubles and integers
+### a. Doubles and integers {#doubles-and-integers}
 
 Numbers in R are doubles by default, which can be positive or negative, and have decimal values or not.
 
@@ -75,7 +75,7 @@ length(integer_vector)
 
 It's unlikely that you'll need to make this distinction in practice – mostly you will just work with doubles.
 
-### b. Character strings
+### b. Character strings {#character-strings}
 
 Character strings contain text information, and can be defined by enclosing text in quotes `""`.
 
@@ -176,7 +176,7 @@ You can find more information on the `stringr` package and functions:
     help(package = "stringr")
     ```
 
-### c. Logical values
+### c. Logical values {#logical-values}
 
 Logical values are usually the result of checking whether something is true. They can either be `TRUE` or `FALSE`. We already saw an example above:
 
@@ -217,7 +217,7 @@ str_detect(vowels, "a") | str_detect(vowels, "q")
 str_detect(vowels, "b") | str_detect(vowels, "q")
 ```
 
-### d. Factors
+### d. Factors {#factors}
 
 Factors are used for categorical variables that are known to only take a fixed set of possible values. The set of possible values is referred to as the **levels** of a factor. For example,
 
@@ -254,7 +254,7 @@ fct_recode(months_factor, "April" = "Apr")
 
 The `forcats` package (also in the tidyverse) provides some useful functions for working with factors.
 
-### e. Dates and times
+### e. Dates and times {#dates-and-times}
 
 The `lubridate` package provides useful tools to work with dates. There are three relevant data types:
 
@@ -304,7 +304,7 @@ as.duration(country_age_gap)
 canada_age <- today() - canadian_confederation_date
 ```
 
-## Coercing between different types
+## Coercing between different types {#coercing-between-different-types}
 
 R will sometimes convert your objects to different types, according to these rules:
 
@@ -346,7 +346,7 @@ as.numeric("eight") + 500
 1.  Find how many days are left in the year.
 2.  How many spaces appear in the sentence, "The quick brown fox jumped over the lazy dog."? (Hint: you may need to look up a relevant function to use.)
 
-## Data frames and tibbles
+## Data frames and tibbles {#data-frames-and-tibbles}
 
 Dataframes are one of the most common ways in R to store tabular data. They consist of rows, usually each representing an observation, and columns, each usually representing a variable. You can construct a simple dataframe with the `data.frame()` function, and giving vectors to be its columns.
 
@@ -355,7 +355,7 @@ simple_dataframe <- data.frame(numbers = 1:14, letters = c("a", "b", "c", "d"))
 simple_dataframe
 ```
 
-You can then retrieve the columns as vectorsusing `$` or `[[]]` syntax:
+You can then retrieve the columns as vectors using `$` or `[[]]` syntax:
 
 ```{r}
 simple_dataframe$numbers

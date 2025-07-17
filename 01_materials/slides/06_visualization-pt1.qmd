@@ -8,12 +8,15 @@ In this lesson, we will be learning how to make charts using the ggplot2 package
 ## Contents
 
 1.  [ggplot basics](#ggplot-basics)
-2.  More aesthetics
+2.  [Other aesthetics](#other-aesthetics)
 3.  [Customization](#customization)
-4.  Adding complexity
-5.  [Bar plots](#bar-plots)
-6.  [Histograms](#histograms)
-7.  [Scatterplots](#scatterplots)
+4.  [Adding complexity](#adding-complexity)
+
+### Resources for this lesson
+
+-   [Chapter 9: "Layers" in *R for Data Science (2nd ed.)*](https://r4ds.hadley.nz/layers.html)
+
+-   [`ggplot2` documentation](https://ggplot2.tidyverse.org/)
 
 ## ggplot basics {#ggplot-basics}
 
@@ -113,7 +116,7 @@ Note that:
 
 1.  Filter the dataset to only include "Centre Island Beach". Using `geom_line()`, plot the water temperature over time.
 
-## Other Aesthetics
+## Other Aesthetics {#other-aesthetics}
 
 Some other common aesthetics that are useful to know:
 
@@ -240,7 +243,7 @@ beaches_obs |>
   theme_light()
 ```
 
-## Adding complexity
+## Adding complexity {#adding-complexity}
 
 ### Using multiple geoms
 
