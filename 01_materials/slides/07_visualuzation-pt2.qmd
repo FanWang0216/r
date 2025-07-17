@@ -138,22 +138,6 @@ ggplot(beach_waterfowl_by_weather, aes(x = beachName, y = total_waterfowl)) +
 1.  Make a bar chart showing the proportion of dates where there were no waterfowl reported, for each beach.
 2.  In that bar chart, show separate columns for rainy dates and non-rainy dates.
 
-```{r, fig.height = 5, fig.width = 10, echo=F}
-CES_data |>
-  ggplot() +
-  geom_histogram(aes(x = cps19_party_rating_24),
-                 bins = 10) +
-  facet_wrap(~factor(cps19_spend_educ,
-                     levels = c("Spend less",
-                                "Spend about the same as now",
-                                "Spend more",
-                                "Don't know/ Prefer not to answer")),
-             nrow = 1) +
-  labs(x = "Conservative Party rating",
-       y = "Count",
-       title = "Views on education spending and the Conservative Party")
-```
-
 ## Scatterplots {#scatterplots}
 
 Recall that we use `geom_point()` to create a scatterplot, like so:
